@@ -1,0 +1,136 @@
+# BibleDatabase language file                ####
+# Language: Dutch                            ####
+# Date: Friday 19 September 2003             ####
+# Version: Original Distribution 1.0.0       ####
+# BibleDatabase Ver 4.0.0                    ####
+#################################################
+
+#################################################
+######### TRANSLATION INFORMATION  ##############
+#################################################
+# Translated by: Merijn Hofland                 #
+# Contact email: WPMEH@hotmail.com              #
+# Translation Date: 19-09-2003                  #
+# Comments:                                     #
+#################################################
+##     INSTRUCTIONS READ CAREFULLY!!       ######
+#################################################
+#1. EACH LINE OF TEXT MUST BE ON A NEW LINE     #
+#2. ALL Lines must end with CRLF (not just LF!) #
+#3. Any line beginning with a # is ignored.     #
+#4. Blank Lines are ignored                     #
+#5. ^^ inserts a new line (CRLF)                #
+#6. %  Software will insert text here           #
+#7. & use this (Menu Items only) to underline   #
+# the character immediately after the "&"       #
+#################################################
+
+0001 Geen namen gevonden op het systeem.^^Download a.u.b. de nieuwste versie van^^%
+0002 U heeft geen geldig commentaar geinstalleer.^^Bezoek %^^Om deze te downloaden.
+0003 U moet een woordenboek installeren om het te gebruiken.^^Download er een van %.
+0004 Geen dubbele invoer toegestaan.
+0005 Geen Favoriete geselecteerd
+0006 Verwijder %?
+0007 Nieuw datumformaat is: %. ^^Veranderingen worden de volgende keer bij opstarten doorgevoerd.
+0008 Op dit moment geen systeem informatie beschikbaar.
+0009 Gelukt! Er is een bijbel gevonden.^^% Sluit nu af. ^^Start opnieuw en alles zal nu goed zijn.
+0010 Er zijn GEEN bijbels in deze map.^^Weet u zeker dat u er MINIMAAL EEN GEINSTALLEER HEEFT?^^Probeer het alstublieft nogmaals.
+0011 Drive niet gereed.^^Steek a.u.b. diskette in.
+0012 Er is een fout opgetreden bij het schalen van de kaart. Kan niet door gaan.
+0013 Kan niet werken met geminimaliseerd scherm.
+0014 Het ziet er naar uit dat u geen bijbels geinstalleerd heeft. ^^Wilt u er nu een downloaden?
+0015 Geen status om te raporteren.
+0016 Zoek het IP-adres van BibleDatabase op.
+0017 Gelukt. Website gevonden.
+0018 Contact aan het maken. Even gedult a.u.b.
+0019 Gelukt! Contact.
+0020 Data aanvraag wordt verstuurd...
+0021 Aanvraag sucsesvol verzonden
+0022 Inkomende reactie van BibleDatabase..
+0023 Gelukt! URL bestand ontvangen
+0024 Verbinding wordt verbroken. Een moment gedult a.u.b...
+0025 Verbinding verbroken.
+0026 Er is een fout opgetreden. Controleer a.u.b. uw internetverbindng.
+0027 Gelukt! Bestand goed ontvangen.
+0028 Als het echt helemaal fout is gegaan, stelt dit de ENGELSE NAMEN weer in de goede volgorde.^^Wilt u doorgaan?
+0029 Er is niets gebeurt.
+0030 Engelse REVERENTIE (BOOKS_ENGLISH)^^Zal als standaard worden gebruikt.
+0031 Selecteer alstublieft eerst een taal.
+0032 % Ingesteld als standaard.
+0033 "%" bestaat.^^Wilt u het vervangen?
+0034 "%" Opgeslagen.
+0035 Sluiten zonder op te slaan?^^Weet u het zeker?
+0036 Veranderingen ongedaan maken?
+0037 Onbruikbaar teken.^^ U kunt geen "%" gebruiken.
+0038 Taal bestaat al!^^Er is al een taal gedevinieerd als^^"%".
+0039 Selecteer eerst een taal.
+0040 Naam van taalbestand bijvoorbeeld 'Nederlands'. NB Alleen tekens "A" tot "Z". GEEN SPATIES toegestaan.
+0041 Het ziet er naar uit dat u geen ".CHM" Bijbels heeft geinstalleerd.^^Wilt u er nu enkele downloaden?
+0042 Dubbelklik op de naam in het scherm^^hieronder om de verklaring te lezen
+0043 Weet u het zeker?
+0044 Bestand is veranderd.^^Weet u zeker dat u wilt stoppen?
+0045 Bestand bestaat al. Klik JA om over te schrijven^^NEE om een andere naam te kiezen of ANNULEREN om te stoppen.
+0046 "%" is veranderd.^^Wilt u dit bestand opslaan?
+0047 "%" .. ^^Bestand niet gevonden.
+0048 Geen geldig bestandsformaat.
+0049 Alle indexbestanden verwijderd in^^"%"^^Deze worden automatisch opnieuw gemaakt indien nodig.
+0050 Geen overeenkomsten meer gevonden.
+0051 Bestand is gewijzigd.^^Wilt u het opslaan?
+0052 Beveiliging gedetecteerd. Toegang geweigerd.
+0053 Foutief paswoord!^^Wilt u het nogmaals proberen?
+0054 Uw standaard e-mail programma zal nu openen met een nieuw bestand.^^Klik gewoon op "VERSTUUREN" om aan te melden. U zal een bevestigingse-mail ontvangen^^Die u ergens veilig moet bewaren. Bedankt voor uw aanmelding.^^U kunt altijd een mail naar de mailinglijst sturen met als adres:^^"%"^^U kunt altijd afmelden,^^Selecteer gewoon "Afmelden".
+0055 Wilt u dit echt doen?^^Wij zouden het heel fijn vinden als u bleef! :-)
+0056 Phoe! We dachten dat u weg zou gaan.^^Bedankt dat u blijft!
+0057 Je moet aangemeld zijn, anders komt je bericht niet door.^^Wilt u door gaan?^^Bekijk Help als u het niet zeker weet.
+0058 Uitleg van de naam "%"
+0059 NOTITIE. LEES A.U.B. goed door.^^Voor u door gaat, weet even zeker dat u^^minimaal EEN bijbel heeft GEDOWNLOAD EN GEINSTALLEERD.^^% Zal niet werken als u niet minimaal een bijbel heeft geinstalleerd^^Wilt u door gaan?
+0060 ^^U heeft op dit moment geen bijbels geinstalleerd.^^DIT IS HEEL NORMAAL DUS GEEN REDEN TOT PANIEK.^^BIJBELS MOETEN APART GEDOWNLOAD EN GEINSTALLERD WORDEN.^^Om % te laten werken, moet minimaal 1 bijbel geinstalleerd zijn.^^Klik op onderstaande link om naar de website te gaan om zoveel bijbels te krijgen als je wilt.^^WE HEBBEN ER MEER DAN 75! ZE ZIJN ALLEMAAL GRATIS!!
+0061 Paswoord gewist.
+0062 Alle bestanden zullen worden beveiligd met dit paswoord: "%"^^Vergeet het NIET anders zult u niet meer in uw gebedsdagboek kunnen komen.
+0063 Paswoorden komen niet overeen, of de lengte^^is te kort (minimaal 5 karacters).^ probeer het a.u.b. nog eens!
+0064 Selecteer een naam om te verwijderen door er op te klikken.
+0065 Verwijder gebruiker "%"^^Weet u het zeker?
+0066 U kunt de standaard gebruiker niet verwijderen.
+0067 Selecteer een naam om te veranderen door er op te klikken
+0068 Fout. Niets geselecteerd.^^Selecteer een gebruikersnaam uit de lijst.
+0069 Sorry.^^Verkeerd paswoord.^^U zult het opnieuw moeten proberen.
+0070 Veranderd naar "%".
+0071 Fout.^^Deze naam bestaat al.
+0072 Sorry.^^Gebruikers naam moet tussen de 2 en 30 tekens zijn.
+0073 Verkeerd teken in reeks.^^Geldige tekens zijn^^"A" tot "Z" en "a" tot "z".
+0074 Gebedsdagboek. Opgeslagen als: "%" 
+0075 "%" Is allen een SCHERM lettertype.^^Het standaard lettertype zal worden gebruikt om te printen.
+0076 Verkeerd gebruik van Nul.
+0077 Verwijder ingang voor "%"^^Weet u het zeker?
+0078 Ingan voor "%" is veranderd.^^Veranderingen opslaan?"
+0079 Er bestaat al een ingan voor "%"^^Wilt u deze opverschrijven?
+0080 Er zijn geen overeenkomsten meer gevonden.
+0081 % geregistreerd.^^Bedankt.
+0082 Registratiecode komt niet overeen.^Probeer het a.u.b. nog eens.
+0083 Er zijn geen bestanden in dit tijdsbestek.^^Probeer het alstublieft nog eens.
+0084 U kunt niet de enig geinstalleerde bijbel deselecteren.^^Als u dat zou doen zou BibleDatabase niet werken.^Om deze bijbel te deselecteren,^^moet u eerst een andere selecteren.^^Kom daarna terug om deze bijbel te deselecteren.
+0085 De waarde die u heeft ingegeven is te groot.^^Maximum is "%"
+0086 De waarde die u heeft ingegeven is te klein.^^Minimum is "%"
+0087 Selecteer deze bijbel eerst!
+0088 Alle tekst komt van God, en is bruikbaar voor leren, rubriceren, verbeteren en trainen in gerechtigheid.
+0089 Geregistreerd op naam van:^^Nog niemand
+0090 Geregistreerd op naam van:^^ %
+0091 BibleDatabase is Freeware en is niet ter verkoop.^^Software Versie %.
+0092 Voor meer informatie over beschikbare plugins, bezoek de % website op
+0093 BibleDatabase - Freeware. Kopieer Gratis!
+0094 Geregistreerd op naam van:^^ Jou.
+0095 Geregistreerd op naam van:^^ %
+0096 Versie %
+0097 De map^^"%"^^betaat niet of het bestand^^
+0098 "%" bestaat niet in deze map.^^Corrigeer a.u.b. en probeer het nog eens.
+0099 BibleDatabase is freeware. U kunt het gratis kopieren en distribueren. Deze software mag niet worden verkocht. Aangepast van orgiele MS Access 2000 versie.
+
+##### New messages added since August 26 2002
+
+0100 U heeft de taal instellingen van BibleDatabase veranderd in "%".^^BibleDatabase Zal worden gesloten om de niewe gegevens te analiseren.
+0101 BibleDatabase heeft op dit moment geen taalbestand voor "%".^^De standaard taal zal worden gebruikt.^^Kijk a.u.b. op de website voor een taal update.
+0102 Uw MODULE map is op dit moment
+0103 Standaard is dit
+0104 Klik op STANDAARD om de standaard in te stellen of op ZOEK om het zelf op te zoeken. Gebruik dit alleen als u weet waar het bestand zich bevind, of als u BibleDatabase niet in de standaard map heeft geinstalleerd.
+0105 Herstel modus staat uit.^^Sluit BibleDatabase a.u.b. en open het^^opnieuw om de foutnummers te laten verdwijnen.
+0106 Herstel modus staat aan.^^Alle berichten zullen een^^nummer laten zien.^^^^Als u vertaler bent,^^hopen we dat dit u zal helpen :-)^^^^(NB: Berichten zullen worden teruggebracht naar 70^^procent van de totale lengte om ze^^in het scherm te laten passen).

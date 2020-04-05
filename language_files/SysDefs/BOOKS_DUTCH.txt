@@ -1,0 +1,72 @@
+1	Genesis	Genesis
+2	Exodus	Exodus
+3	Leviticus	Leviticus
+4	Numeri	Numeri
+5	Deuteronomium	Deuteronomium
+6	Jozua	Jozua
+7	Richteren	Richteren
+8	Ruth	Ruth
+9	1Samuël	1 Samuël
+10	2Samuël	2 Samuël
+11	1Koningen	1 Koningen
+12	2Koningen	2 Koningen
+13	1Kronieken	1 Kronieken
+14	2Kronieken	2 Kronieken
+15	Ezra	Ezra
+16	Nehemia	Nehemia
+17	Esther	Esther
+18	Job	Job
+19	Psalmen	Psalmen
+20	Spreuken	Spreuken van Salomo
+21	Prediker	Prediker
+22	Hooglied	Hooglied van Salomo
+23	Jesaja	Jesaja
+24	Jeremia	Jeremia
+25	Klaagliederen	Klaagliederen van Jeremia
+26	Ezechiël	Ezechiël
+27	Daniël	Daniël
+28	Hosèa	Hosèa
+29	Joël	Joël
+30	Amos	Amos
+31	Obadja	Obadja
+32	Jona	Jona
+33	Micha	Micha
+34	Nahum	Nahum
+35	Habakuk	Habakuk
+36	Zefanja	Zefanja
+37	Haggaï	Haggaï
+38	Zacharia	Zacharia
+39	Maleachi	Maleachi
+40	Matthèüs	Het Evangelie van Matthèüs
+41	Markus	Het Evangelie van Markus
+42	Lukas	Het Evangelie van Lukas
+43	Johannes	Het Evangelie van Johannes
+44	Handelingen	De Handelingen der Apostelen
+45	Romeinen	Aan de Romeinen
+46	1Korinthe	1 Aan die van Korinthe
+47	2Korinthe	2 Aan die van Korinthe
+48	Galaten	Aan de Galaten
+49	Efeze	Aan die van Efeze
+50	Filippensen	Aan de Filippensen
+51	Kolossensen	Aan de Kolossensen
+52	1Thessalonicensen	1 Aan de Thessalonicensen
+53	2Thessalonicensen	2 Aan de Thessalonicensen
+54	1Timotheüs	1 Aan Timotheüs
+55	2Timotheüs	2 Aan Timotheüs
+56	Titus	Aan Titus
+57	Filèmon	Aan Filèmon
+58	Hebreën	Aan de Hebreën
+59	Jakobus	De Zendbrief van Jakobus
+60	1Petrus	1 Zendbrief van Petrus
+61	2Petrus	2 Zendbrief van Petrus
+62	1Johannes	1 Zendbrief van Johannes
+63	2Johannes	2 Zendbrief van Johannes
+64	3Johannes	3 Zendbrief van Johannes
+65	Judas	De Zendbrief van Judas
+66	Openbaring	De Openbaring van Johannes
+67	moses	Moses (Books of)
+68	OT	Old Testament
+69	NT	New Testament
+70	Gos	Gospels
+71	Synopt	Synoptic Gospels
+72	Whole	ALL

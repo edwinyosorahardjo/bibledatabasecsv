@@ -1,0 +1,72 @@
+1	Gen	Genèse
+2	Ex	Exode
+3	Lév	Lévitique
+4	Nom	Nombres
+5	Deut	Deutéronome
+6	Jos	Josué
+7	Jug	Juges
+8	Ruth	Ruth
+9	1Sam	1 Samuel
+10	2Sam	2 Samuel
+11	1Rois	1 Rois
+12	2Rois	2 Rois
+13	1Chr	1 Chroniques
+14	2Chr	2 Chroniques
+16	Ez	Esdras
+17	Né	Néhémie
+18	Est	Esther
+16	Job	Job
+19	Ps	Psaumes
+20	Prov	Proverbes
+21	Ecc	Ecclésiaste
+22	Can	Cantiques des Cantiques
+23	Es	Esaïe
+24	Jér	Jérémie
+25	Lam	Lamentations
+26	Ezé	Ezéchiel
+27	Dan	Daniel
+28	Osé	Osée
+29	Joël	Joël
+30	Am	Amos
+31	Abd	Abdias
+32	Jonas	Jonas
+33	Mic	Michée
+34	Nah	Nahum
+35	Hab	Habaquq
+36	Soph	Sophonie
+37	Agg	Aggée
+38	Zac	Zacharie
+39	Mal	Malachie
+40	Mt	Matthieu
+41	Mc	Marc
+42	Lc	Luc
+43	Jean	Jean        
+44	Act	Actes
+45	Rom	Romains
+46	1Cor	1 Corinthiens
+47	2Cor	2 Corinthiens
+48	Gal	Galates
+49	Éph	Éphésiens
+50	Phil	Philippiens
+51	Col	Colossiens
+52	1Thes	1 Thessaloniciens
+53	2Thes	2 Thessaloniciens
+54	1Tim	1 Timothée
+55	2Tim	2 Timothée
+56	Tit	Tite
+57	Phil	Philémon
+58	Héb	Hébreux
+59	Jac	Jacques
+60	1Pe	1 Pierre
+61	2Pe	2 Pierre
+62	1Je	1 Jean
+63	2Je	2 Jean
+64	3Je	3 Jean
+65	Jude	Jude
+66	Apo	Apocalypse
+67	moses	Livre Moses
+68	OT	OT
+69	NT	NT
+70	Éva	Évangile
+71	Synopt	Mt Mk Lc
+72	Bib	Complete Bible

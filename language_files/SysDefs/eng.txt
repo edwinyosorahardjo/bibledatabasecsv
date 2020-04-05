@@ -1,0 +1,66 @@
+1	Genesis	Genesis
+2	Exodus	Exodus
+3	Leviticus	Leviticus
+4	Numbers	Numbers
+5	Deuteronomy	Deuteronomy
+6	Joshua	Joshua
+7	Judges	Judges
+8	Ruth	Ruth
+9	1Samuel	1 Samuel
+10	2Samuel	2 Samuel
+11	1Kings	1 Kings
+12	2Kings	2 Kings
+13	1Chronicles	1 Chronicles
+14	2Chronicles	2 Chronicles
+15	Ezra	Ezra
+16	Nehemiah	Nehemiah
+17	Esther	Esther
+18	Job	Job
+19	Psalms	Psalms
+20	Proverbs	Proverbs
+21	Ecclesiastes	Ecclesiastes
+22	SongofSolomon	Song of Solomon
+23	Isaiah	Isaiah
+24	Jeremiah	Jeremiah
+25	Lamentations	Lamentations
+26	Ezekiel	Ezekiel
+27	Daniel	Daniel
+28	Hosea	Hosea
+29	Joel	Joel
+30	Amos	Amos
+31	Obadiah	Obadiah
+32	Jonah	Jonah
+33	Micah	Micah
+34	Nahum	Nahum
+35	Habakkuk	Habakkuk
+36	Zephaniah	Zephaniah
+37	Haggai	Haggai
+38	Zechariah	Zechariah
+39	Malachi	Malachi
+40	Matthew	Matthew
+41	Mark	Mark
+42	Luke	Luke
+43	John	John
+44	Acts	Acts
+45	Romans	Romans
+46	1Corinthians	1 Corinthians
+47	2Corinthians	2 Corinthians
+48	Galatians	Galatians
+49	Ephesians	Ephesians
+50	Philippians	Philippians
+51	Colossians	Colossians
+52	1Thessalonians	1 Thessalonians
+53	2Thessalonians	2 Thessalonians
+54	1Timothy	1 Timothy
+55	2Timothy	2 Timothy
+56	Titus	Titus
+57	Philemon	Philemon
+58	Hebrews	Hebrews
+59	James	James
+60	1Peter	1 Peter
+61	2Peter	2 Peter
+62	1John	1 John
+63	2John	2 John
+64	3John	3 John
+65	Jude	Jude
+66	Revelation	Revelation

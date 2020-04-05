@@ -1,0 +1,25 @@
+               Felhasználó szerzõdés a BibleDatabase programhoz
+
+
+Részben vagy egészében használva vagy terjesztve ezt a programot, melyet BibleDatabase-nek hívnak, 
+egyetértesz és elfogadod az alábbiakban megfogalmazott tartami, feltételbeli és visszautasításokra 
+vonatkozó megállapodást önmagad és/vagy szervezeted, valamint  
+BibleDatabase program szolgáltatója (Szerzõ) között. Amennyiben nem értesz egyet az alább leírtakkal,
+nem használhatod, nézheted és terjeszheted a BibleDatabase program részét vagy egészét.
+
+Hibák
+
+A BibleDatabase program tartalmazhat véletlen hibákat, mint például: hiányos, pontatlan és/vagy hibás adat vagy átírás és/vagy programozási hibák. 
+
+Visszautasítás
+
+A BibleDatabase programban minden vélt és valós hibára a következõk vonatkoznak:
+
+1. A Szerzõ mentes marad bármilyen követeléssel szemben, akármilyen kárigény esetén 
+legyen az természetbeni, belértve költségeket, kiadásokat és/vagy jogi kártérítést.
+
+2. Nem orvosolható bármilyen hanyagság, vagy garanciális igény vagy szerzõdés, 
+beleértve, de nem korlátozva a közvetett következményekre, büntethetõ vagy mellékes károkra, 
+mégha fennállna is a lehetõsége az ilyen károknak.
+
+3. A BibleDatabase program 'Olyan amilyen' formában bocsátjuk rendelkezésedre. Semmiféle garanciát nem foglal magában használata.

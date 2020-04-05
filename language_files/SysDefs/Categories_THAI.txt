@@ -1,0 +1,19 @@
+#--------------------------------------------------------------------
+# FILE: Categories_ENGLISH.txt
+#--------------------------------------------------------------------
+# This file provides internationalized names for the different 
+#    categories listed in Categories.txt.
+#--------------------------------------------------------------------
+# Note that comments start with "#"
+#--------------------------------------------------------------------
+# Format:
+#       ID, Long Name, Short Name
+#--------------------------------------------------------------------
+0, พระคัมภีร์ทั้งหมด,    Bible     # All Books of the Bible
+1, พระคัมภีร์เดิม,  OT        # Old Testament
+2, หนังสือของโมเสส, The Law   # Books of Moses (the books of the law)
+3, หนังสือต่างๆ,       Writings  # The Writings (the history books, poetry, widsom books)
+4, พวกศาสดาพยากรณ์,       Prophets  # The Prophets
+5, พระคัมภีร์ใหม่,  NT        # The whole New Testament
+6, ข่าวประเสริฐ 4 เล่ม,        Gospels   # The Gospels
+7, พวกจดหมาย,        Letters   # The Letters (i.e. the Epistles)

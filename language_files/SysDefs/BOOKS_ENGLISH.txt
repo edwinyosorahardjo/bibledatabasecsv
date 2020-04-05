@@ -1,0 +1,72 @@
+1	gen	Genesis
+2	ex	Exodus
+3	lev	Leviticus
+4	num	Numbers
+5	deut	Deuteronomy
+6	josh	Joshua
+7	judg	Judges
+8	ruth	Ruth
+9	1sam	1 Samuel
+10	2sam	2 Samuel
+11	1kings	1 Kings
+12	2kings	2 Kings
+13	1chron	1 Chronicles
+14	2chron	2 Chronicles
+15	ezra	Ezra
+16	neh	Nehemiah
+17	esther	Esther
+18	job	Job
+19	ps	Psalms
+20	prov	Proverbs
+21	eccles	Ecclesiastes
+22	song	Song of Solomon
+23	is	Isaiah
+24	jer	Jeremiah
+25	lam	Lamentations
+26	ezek	Ezekiel
+27	dan	Daniel
+28	hos	Hosea
+29	joel	Joel
+30	amos	Amos
+31	obad	Obadiah
+32	jon	Jonah
+33	mic	Micah
+34	nahum	Nahum
+35	hab	Habakkuk
+36	zeph	Zephaniah
+37	hag	Haggai
+38	zech	Zechariah
+39	mal	Malachi
+40	mt	Matthew
+41	mk	Mark
+42	lk	Luke
+43	jn	John
+44	acts	Acts
+45	rom	Romans
+46	1cor	1 Corinthians
+47	2cor	2 Corinthians
+48	gal	Galatians
+49	eph	Ephesians
+50	phil	Philippians
+51	col	Colossians
+52	1thess	1 Thessalonians
+53	2thess	2 Thessalonians
+54	1tim	1 Timothy
+55	2tim	2 Timothy
+56	tit	Titus
+57	philem	Philemon
+58	heb	Hebrews
+59	jas	James
+60	1pet	1 Peter
+61	2pet	2 Peter
+62	1jn	1 John
+63	2jn	2 John
+64	3jn	3 John
+65	Jud	Jude
+66	rev	Revelation
+67	moses	Moses (Books of)
+68	OT	Old Testament
+69	NT	New Testament
+70	Gos	Gospels
+71	Synopt	Synoptic Gospels
+72	Whole	ALL

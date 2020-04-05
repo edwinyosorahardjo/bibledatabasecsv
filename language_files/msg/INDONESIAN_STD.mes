@@ -1,0 +1,136 @@
+# BibleDatabase language file                ####
+# Language: English                          ####
+# Date: Monday 26 August 2002                ####
+# Version: Original Distribution 1.0.1       ####
+# BibleDatabase Ver 4.0.0                    ####
+#################################################
+
+#################################################
+######### TRANSLATION INFORMATION  ##############
+#################################################
+# Translated by: Leopold Suisan                 #
+# Contact email: Leopold@telkom.net             #
+# Translation Date: 5 September 2002            #
+# Comments: versi 1.0                           #
+#################################################
+##     INSTRUCTIONS READ CAREFULLY!!       ######
+#################################################
+#1. EACH LINE OF TEXT MUST BE ON A NEW LINE     #
+#2. ALL Lines must end with CRLF (not just LF!) #
+#3. Any line beginning with a # is ignored.     #
+#4. Blak Lines are ignored                      #
+#5. ^^ inserts a new line (CRLF)                #
+#6. %  Software will insert text here           #
+#7. & use this (Menu Items only) to underline   #
+# the character immediately after the "&"       #
+#################################################
+
+0001 Tak ditemukan NAMA dalam sistem.^^Silahkan download versi terbaru dari^^%
+0002 Anda tidak memiliki sebuah TAFSIRAN yang valid yang terinstalasi, silahkan kunjungi %^^untuk men"download"nya.
+0003 Anda harus memiliki sebuah KAMUS untuk dapat menggunakannya. ^^Download sebuah kamus dari %.
+0004 Menggandakan Masukan tak diperkenankan.
+0005 Tak ada Penanda-buku yang dipilih.
+0006 Hapus %?
+0007 Format Tanggal yang baru: %. ^^Perubahan akan berlaku saat anda menjalankan program ini lagi.
+0008 Informasi Sistem Tak Bisa Didapatkan Saat Ini.
+0009 Berhasil! Sebuah Alkitab ditemukan.^^% akan ditutup sekarang. ^^Jalankan program ini lagi dan segalanya akan BERES kembali.
+0010 TIDAK TERDAPAT alkitab di folder ini.^^Apakah anda yakin anda memiliki SEBUAH YANG TERINSTALASI?^^Silahkan coba lagi.
+0011 Drive tidak siap.^^Silahkan masukkan sebuah disket ke dalam drive.
+0012 Terjadi kesalahan dalam pengaturan ukuran gambar. Tidak dapat dilanjutkan
+0013 Tak dapat lanjut dengan layar minimal
+0014 Anda tampaknya tak memiliki sebuah Alkitab yang terinstalasi^^Anda ingin  men"download"nya sekarang?
+0015 Tak ada yang perlu dilaporkan.
+0016 Lihatlah pada alamat situs web BibleDatabase.
+0017 Berhasil. Situs Web ditemukan.
+0018 Terhubung. Silahkan siap-siap..
+0019 Berhasil! Terhubung.
+0020 Kirim permintaan untuk data..
+0021 Permintaan berhasil terkirim"
+0022 Datang jawaban dari BibleDatabase..
+0023 Berhasil! Berkas URL diterima
+0024 Hubungan terputus. Silahkan siap-siap..
+0025 Hubungan terputus.
+0026 Terjadi kesalahan. Silahkan periksa Sambungan Internet anda.
+0027 Berhasil! Berkas diterima dengan baik.
+0028 Jika semuanya berantakan, Ini akan mengembalikan "English Book Names".^^Ingin Lanjut ?
+0029 Tak ada tindakan yang diambil.
+0030 REFERENSI Bahasa Inggris (BOOKS_ENGLISH)^^akan digunakan sebagai seting awal.
+0031 Silahkan pilih salah satu bahasa lebih dahulu.
+0032 % atur sebagai seting awal.
+0033 "%" Terdapat.^^Anda ingin menggantinya ?
+0034 "%" Tersimpan.
+0035 Keluar tanpa menyimpan ?^^Anda Yakin ?
+0036 Abaikan Perubahan ?
+0037 Huruf tidak sah.^^ Anda tak dapat gunakan "%".
+0038 Bahasa yang dipilih telah ada!^^Telah terdapat berkas Bahasa yang disebut sebagai^^"%".
+0039 Pilih salah satu bahasa lebih dahulu.
+0040 NAMA berkas Bahasa yang diciptakan, misalnya 'German'. NB Gunakan huruf "A" sampai "Z". TANPA SPASI.
+0041 Anda tampaknya tidak memiliki Alkitab ".CHM" yang terinstalasi.^^Anda ingin men"download"nya sekarang ?
+0042 Klik ganda pada nama dalam^^jendela di bawah ini untuk menampilkan artinya
+0043 Anda yakin ?
+0044 Dokumen telah diubah.^^Anda yakin mau keluar ?
+0045 Berkas Telah Ada. Klik YA untuk mengganti^^TIDAK untuk memilih nama lain atau TUNDA untuk pembatalan.
+0046 "%" telah diubah.^^Anda ingin menyimpan berkas ini ?
+0047 "%" .. ^^berkas tak ditemukan.
+0048 Format berkas tidak benar.
+0049 Semua berkas Indeks terhapus dalam^^"%"^^Semua ini akan diciptakan kembali secara otomatis bila dibutuhkan.
+0050 Tak ada lagi temuan.
+0051 Dokumen telah diubah.^^Anda ingin menyimpannya ?
+0052 Pengganggu terdeteksi. Akses ditolak.
+0053 Kata-sandi salah!^^Anda ingin coba lagi ?
+0054 Klien Email semula anda akan dibuka dengan Email Baru.^^Klik "Kirim" untuk mendaftar. Anda akan menerima Email konfirmasi^^yang harus anda simpan di suatu tempat. Terima kasih anda telah mendaftar.^^Anda dapat menirim surat kapan saja ke "Mailing list" dengan mengalamatkan surat anda ke:^^"%"^^Anda dapat keluar kapan saja anda inginkan,^^pilih saja "Keluar".
+0055 Anda SUNGGUH ingin lakukan ini ?^^Kami sangat ingin anda tetap bersama kami:-)
+0056 Waduh! Kami pikir anda benar-benar mau tinggalkan kami.^^Terima kasih untuk tetap bersama kami !
+0057 Anda harus Terdaftar, atau berita anda tidak sampai.^^Anda ingin lanjut ?^^Lihat berkas Bantuan jika ragu.
+0058 Arti dari nama "%"
+0059 CATATAN. SILAHKAN BACA berita ini dengan teliti.^^Sebelum anda berlanjut, pastikan anda telah^^MEN"DOWNLOAD" DAN MENGINSTAL PALING SEDIKIT SATU ALKITAB.^^% TIDAK akan jalan sebelum anda memiliki PALING SEDIKIT satu Alkitab terinstalasi^^Anda ingin lanjut ?
+0060 ^^Anda tidak memiliki Alkitab terinstalasi saat ini.^^HAL INI NORMAL, DAN TAK PERLU PANIK.^^ALKITAB PERLU DI"DOWNLOAD" DAN DIINSTAL TERPISAH.^^Untuk % bisa berfungsi, PALING SEDIKIT SATU Alkitab harus diinstal.^^Klik pada "Link" dibawah ini untuk menuju ke situs web kami untuk mendapatkan sebanyak yang anda inginkan^^KAMI MENYEDIAKAN LEBIH DARI 75 JENIS ALKITAB ! SEMUANYA GRATIS !!
+0061 Kata-sandi dihilangkan.
+0062 Semua berkas akan dienkripsi dengan kata-sandi ini: "%"^^JANGAN melupakannya atau anda tidak dapat mengakses Catatan Harian Doa lagi !
+0063 Kata-sandi tak sesuai atau kurang panjang^^(paling sedikit 5 huruf).^^Silahkan coba lagi !
+0064 Pilih Nama untuk dihapus dengan mengkliknya.
+0065 Hapus pemakai "%"^^Anda yakin?
+0066 Anda tak dapat menghapus pemakai semula.
+0067 Pilih Nama untuk diubah dengan mengkliknya.
+0068 Kesalahan. Tak ada yang dipilih.^^Pilih Nama Pengguna dari daftar.
+0069 Maaf.^^Kata-sandi salah.^^Anda harus mencoba lagi.
+0070 Dialihkan ke "%".
+0071 Kesalahan.^^Nama ini telah ada.
+0072 Maaf.^^Nama Pengguna harus antara 2 sampai 30 huruf.
+0073 Untaian huruf yang salah.^^Huruf yang benar adalah^^"A" sampai "Z" dan "a" sampai "z" saja.
+0074 Catatan Harian Doa. Tercatat sebagai: "%" 
+0075 "%" adalah jenis huruf pada LAYAR saja.^^Jenis huruf semula akan digunakan jika anda perlu MENCETAK.
+0076 Penggunaan Nol yang salah.
+0077 Hapus masukan untuk "%"^^Anda yakin ?
+0078 Masukan untuk "%" telah diubah.^^Simpan perubahan ?"
+0079 Sesuatu masukan telah ada untuk "%"^^Anda ingin menggantinya ?
+0080 Tak ada lagi temuan.
+0081 % terdaftar.^^Terima kasih.
+0082 Kode Pendaftaran tidak cocok.^^Silahkan coba lagi.
+0083 Tidak ada berkas yang cocok dengan rentang waktu tersebut.^^Silahkan coba lagi.
+0084 Anda tak dapat menonaktifkan SATU-SATUNYA Alkitab yang terinstalasi.^^Jika anda lakukan, BibleDatabase tak dapat berfungsi.^^Untuk menonaktifkan Alkitab ini^^Lebih dahulu aktifkan Alkitab lainnya^^kemudian kembali ke situ dan nonaktifkan.
+0085 Nilai yang anda masukkan terlalu besar.^^Maksimum adalah "%"
+0086 Nilai yang anda masukkan terlalu kecil.^^Minimum adalah "%"
+0087 Pertama aktifkan Alkitab ini !
+0088 Segala tulisan yang diilhamkan Allah memang bermanfaat untuk mengajar, untuk menyatakan kesalahan, untuk memperbaiki kelakuan dan untuk mendidik orang dalam kebenaran.
+0089 Terdaftar untuk:^^Tak seorangpun
+0090 Terdaftar untuk: %
+0091 BibleDatabase adalah Perangkat Gratis dan tidak untuk dijual.^^Perangkat Lunak Versi %.
+0092 Untuk informasi lebih lanjut tentang "plugins" yang ada, kunjungilah situs web % di
+0093 BibleDatabase - Perangkat Gratis. Silahkan salin dengan bebas !
+0094 Terdaftar untuk: Anda.
+0095 Terdaftar untuk: %
+0096 Versi %
+0097 Baik waktu berkas^^"%"^^tidak ada atau berkasnya^^
+0098 "%" tidak terdapat dalam berkas ini.^^Silahkan betulkan dan coba lagi.
+0099 BibleDatabase adalah Perangkat Gratis. Anda dapat menyalin dan mendistribusikannya dengan bebas. Perangkat lunak ini tidak untuk dijual. Adaptasi dari aslinya : MS Access versi 2000.
+
+##### New messages added since August 26 2002
+
+0100 Anda telah mengubah seting bahasa dari BibleDatabase ke "%".^^BibleDatabase harus ditutup dahulu untuk mulai memakai seting bahasa yang baru
+0101 BibleDatabase saat ini tidak memiliki suatu berkas bahasa untuk "%".^^Bahasa semula akan digunakan.^^Silahkan periksa di situs web untuk paket bahasa terbaru.
+0102 Jalur MODUL anda saat ini diset untuk
+0103 Normalnya seting awal adalah
+0104 Klik SEMULA untuk pengaturan seperti semula atau TEMUKAN jika anda TAHU dimana berkas MODUL berada atau jika anda menginstal BibleDatabase ke folder yang lain dari semula.
+0105 Modus Debug dimatikan.^^Silahkan tutup BibleDatabase dan buka ^^kembali untuk menghilangkan nomor Debug.
+0106 Modus Debug sedang hidup.^^Semua pesan akan diperlihatkan^^dimulai dengan nomor pesan.^^^^Jika anda seorang penterjemah,^^kami harap hal ini dapat membantu anda :-)^^^^(CATATAN: Pesan akan terpotong hingga 70^^persen dari panjang normalnya ^^supaya dapat masuk dalam kotak teks).                                                                                                                    .

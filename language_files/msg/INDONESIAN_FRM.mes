@@ -1,0 +1,229 @@
+# BibleDatabase language file                ####
+# Language: English                          ####
+# Date: Monday 26 August 2002                ####
+# Version: Original Distribution 1.0.1       ####
+# BibleDatabase Ver 4.0.0                    ####
+#################################################
+
+#################################################
+######### TRANSLATION INFORMATION  ##############
+#################################################
+# Translated by: Leopold Suisan                 #
+# Contact email: Leopold@telkom.net             #
+# Translation Date: 4 September 2002            #
+# Comments: versi 1.0                           #
+#################################################
+##     INSTRUCTIONS READ CAREFULLY!!       ######
+#################################################
+#1. EACH LINE OF TEXT MUST BE ON A NEW LINE     #
+#2. ALL Lines must end with CRLF (not just LF!) #
+#3. Any line beginning with a # is ignored.     #
+#4. Blak Lines are ignored                      #
+#5. ^^ inserts a new line (CRLF)                #
+#6. %  Software will insert text here           #
+#7. & use this (Menu Items only) to underline   #
+# the character immediately after the "&"       #
+#################################################
+
+0001 Nama-nama Alkitabiah
+0002 Tafsir Alkitab
+0003 Catatan Harian Doa.^^Tercatat sebagai: "%"
+0004 Peralihan dari "%"
+0005 Kata-sandi PILIHAN untuk "%"
+0006 Peta Alkitabiah %
+0007 Tampilan Cetakan - %
+0008 TAK DITEMUKAN ALKITAB YANG SESUAI!! - %
+0009 TAMBAHKAN
+0010 Penambahan BARU
+0011 Mengatur Identitas %
+0012 Peralihan dari "%"
+0013 Pengedit/Pemilih Bahasa. %
+0014 Penambahan Penanda-buku
+0015 Edit Penanda-buku
+0016 Pemutar MP3
+0017 Tanpa-judul.RTF
+0018 Peralihan dari "%"
+0019 Pengaturan Halaman %
+0020 (Alkitab-Multi) Pasal/Ayat - %
+0021 Perihal %
+0022 % Persetujuan perijinan
+0023 Pengaturan Pilihan - %
+0024 Semula - %
+0025 Kamus - %
+0026 Silahkan masukkan kata-sandi untuk "%"
+0027 Buka Berkas
+0028 Simpan Berkas
+0029 Cetak
+0030 Potong
+0031 Salin
+0032 Tempel
+0033 Batal
+0034 Hapus
+0035 Cari
+0036 Cari Selanjutnya
+0037 Warna Latar-depan
+0038 Warna Latar-belakang
+0039 Tebal
+0040 Miring
+0041 Garis-bawah
+0042 Rata Kiri (ALT L)
+0043 Rata Tengah (ALT C)
+0044 Rata Kanan (ALT R)
+0045 Masukkan sedikit (ALT S)
+0046 Masukkan lebih (ALT D)
+0047 Tambahkan Bulatan (ALT O)
+0048 Alkitab-Multi
+0049 Kamus Alkitab
+0050 Tafsir Alkitab
+0051 Nama-nama Alkitabiah
+0052 Catatan Harian Doa
+0053 Bantuan
+0054 Alkitab "CHM" (Compiled in Microsoft Help format)
+0055 Alkitab (audio) "MP3"
+0056 Klik tombol ini untuk mencari dalam Alkitab
+0057 Klik untuk memaksa BibleDatabase berhenti mencari
+0058 B&aru
+0059 B&uka
+0060 &Simpan
+0061 Simpan Seba&gai
+0062 &Tampilan Cetakan
+0063 &Pengaturan Cetakan
+0064 &Cetak
+0065 &Keluar
+0066 &Edit
+0067 &Potong
+0068 &Salin
+0069 &Tempel
+0070 &Berkas
+0071 &Batal
+0072 &Hapus
+0073 &Cari
+0074 Cari Se&lanjutnya
+0075 Pilih se&mua
+0076 P&otong Teks
+0077 &Lihat
+0078 &Alkitab-Multi
+0079 &Tafsiran
+0080 &Kamus
+0081 &Peta
+0082 &Nama
+0083 &Gabungkan Nama
+0084 Catatan &Harian Doa
+0085 &Buka
+0086 &Ganti Identitas
+0087 Catatan &Terjemahan
+0088 &Format
+0089 Format Tanggal
+0090 &Pengaturan Halaman
+0091 &Penanda-buku
+0092 Per&alatan
+0093 Pengedit &Bahasa
+0094 Pengatur &Folder - Mahir
+0095 &Pilihan
+0096 &Re-Index
+0097 Periksa &Integritas
+0098 &Alkitab
+0099 &Tafsiran
+0100 &Kamus
+0101 &Nama
+0102 &Semua
+0103 &Web/Email
+0104 &Forum Diskusi
+0105 &Situs Web
+0106 Men&daftar di Mailing List
+0107 Lewat &Web
+0108 Lewat &Email
+0109 Ke&luar dari Mailing List
+0110 Lewat &Web
+0111 Lewat &Email
+0112 Ki&rim Email ke Mailing List
+0113 Lewat &Browser
+0114 Lewat &Email
+0115 Ban&tuan
+0116 &Daftar Isi
+0117 Per&setujuan Perijinan
+0118 Peri&hal
+0119 Tampilkan &Layar Percik
+0120 &Mendaftar
+0121 Lapor &Gangguan
+0122 Mengklik tombol ini berarti menghapus semua riwayat pencarian terdahulu 
+0123 Bersihkan
+0124 Untuk mencari kata "Love" ketik *love* (Jangan lupakan tanda "*" sebelum dan sesudah "love")
+0125 Pilih Alkitab yang darinya anda ingin lakukan pencarian
+0126 Pilih kriteria yang akan anda gunakan untuk pencarian
+0127 Tak ada kriteria khusus yang akan dipakai untuk pencarian
+0128 Urutan kata yang dicari bisa dibolak-balik
+0129 Pencarian terhadap kata yang MANAPUN dari yang dicari
+0130 Tampilkan semua ayat tanpa memandang apakah kata yang dicari ditemukan
+0131 Tanpa Kriteria
+0132 Abaikan Urutan
+0133 Kata Yang Manapun
+0134 Seluruh Pilihan
+0135 Pilihan Kriteria Pencarian
+0136 Tampak Proses
+0137 Abaikan Huruf
+0138 Jika ditandai, anda akan melihat proses penandaan kata dilaksanakan
+0139 Jika ditandai, jenis huruf (kapital/kecil) akan diabaikan
+0140 Berkas
+0141 Simpan
+0142 Cetak
+0143 Ganti Identitas
+0144 Temukan
+0145 Temukan
+0146 Temukan Lagi
+0147 Pencarian Lengkap
+0148 Peralatan
+0149 Format Tanggal
+0150 Kata-sandi
+0151 Bantuan
+0152 Daftar Isi
+0153 Bersihkan
+0154 Simpan
+0155 Hapus
+0156 Simpan/Keluar
+0157 Gunakan Gambar [Pilihan] untuk menggambarkan Sikap Doa anda
+0158 Jendela Kiri: Tool Tip Text; Jendela Tengah: Tanggal Sekarang; Jendela Kanan: Status
+0159 &Kata-sandi Baru
+0160 Ulangi Kata-sandi
+0161 Set bagai Semula
+0162 SIMPAN
+0163 Pemulihan Bencana
+0164 Bantuan
+0165 Tutup
+0166 Jendela Pengedit Bahasa
+0167 Bahasa-bahasa Yang Ada
+0168 Klik di bawah untuk EDIT, PERALIHAN KE or CIPTAKAN
+
+## Hal-hal yang ditambahkan pada 26 Agustus 2002
+
+0169 &Tanggal
+0170 Pembaharuan
+0171 Hapus
+0172 Edit
+0173 Menuju ke
+0174 Tambah
+0175 Tutup
+0176 Judul
+0177 Kategori
+0178 Penambahan Tanggal
+0179 Referensi Alkitab
+0180 Nama Berkas
+0181 SEMULA
+0182 TEMUKAN
+0183 TUTUP
+0184 PEMBAHARUAN
+0185 TUTUP
+0186 #
+0187 Ref (selalu bahasa Inggris)
+0188 Nama Buku (bahasa anda)
+0189 Singkatan
+0190 Buku yang diedit: %
+0191 "Klik ganda Buku di "%" kolom untuk diedit.
+0192 NAMA LENGKAP baru untuk "%".
+0193 Edit Nama Lengkap
+0194 NAMA RINGKAS baru untuk "%".
+0195 Edit Nama Ringkas
+0196 TEMUKAN
+0197 BANTUAN
+0198 Close for now
+0199 Cara &Debug

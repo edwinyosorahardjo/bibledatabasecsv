@@ -1,0 +1,147 @@
+# BibleDatabase language file                ####
+# Language: French                           ####
+# Date: Friday November 5 2004               ####
+# Version: Original Distribution 1.0.1       ####
+# BibleDatabase Ver 5.0.16                   ####
+#################################################
+
+#################################################
+######### TRANSLATION INFORMATION  ##############
+#################################################
+# Translated by:  Paul J Chenevier              #
+# Contact email:  paul@chenevier.net            #
+# Translation Date: Nov 5, 2004                 #
+# Comments:  God bless you all!                 #
+#################################################
+##     INSTRUCTIONS READ CAREFULLY!!       ######
+#################################################
+#1. EACH LINE OF TEXT MUST BE ON A NEW LINE     #
+#2. ALL Lines must end with CRLF (not just LF!) #
+#3. Any line beginning with a # is ignored.     #
+#4. Blank Lines are ignored                     #
+#5. ^^ inserts a new line (CRLF)                #
+#6. %  Software will insert text here           #
+#7. & use this (Menu Items only) to underline   #
+# the character immediately after the "&"       #
+#################################################
+
+0001 Pas de noms trouvés sur le système.^^Veuillez charger la dernière version depuis^^%
+0002 Vous n'avez pas installé le Commentaire adéquat.^^Rendez-vous à%^^pour en télécharger un exemplaire.
+0003 Vous devez disposer d'un Dictionnaire installé pour utiliser cette fonction. ^^Téléchargez un exemplaire depuis %.
+0004 Double entrée non autorisée.
+0005 Pas de Signet sélectionné.
+0006 Supprimer? %?
+0007 Nouveau format de date : %. ^^Les modifications seront effectives au prochain redémarrage du programme.
+0008 Information Système Non Disponible Pour Le Moment.
+0009 Recherche fructueuse! Une Bible a été trouvée.^^% va maintenant fermer. ^^Ouvrez-le à nouveau et tout devrait désormais être OK.
+0010 Il n'y AUCUNE Bible dans ce Répertoire.^^Êtes-vous sûrs que vous en avez AUMOINS UNE d'installé? ^^Veuillez renouveler votre essai.
+0011 Le lecteur n'est pas prêt.^^Veuilleez insérer un disque dans le lecteur.
+0012 Une erreur est survenue dans le cadrage d'images. Impossible de poursuivre.
+0013 Imopsible de procéder en écran minimisé.
+0014 Il semble que vous n'avez pas de Bible installée^^Voulez-vous en télécharger une maintenant?
+0015 Pas d'état à signaler.
+0016 Recherche de l'adresse IP  de BibleDatabase.
+0017 Bon résultat: Site Web trouvé.
+0018 En cours de Connection. Veuillez patienter..
+0019 Bon résultat: connecté.
+0020 Envoi d'une requête de données..
+0021 Requête envoyée avec succès
+0022 Réponse en attente de BibleDatabase..
+0023 Bon résultat! Fichier URL reçu
+0024 Déconnection en cours. Veuillez patienter..
+0025 Déconnecté.
+0026 Une erreur est survenue. Veuillez vérifeir votre connection Inetrnet.
+0027 Bon résultat! Fichier reçu OK.
+0028 Si vous avez introduit des erreurs, ceci va restaurer le Livre des Noms Anglais.^^Voulez-vous poursuivre?
+0029 Pas d'action lancée.
+0030 La REFERENCE Anglaise(BOOKS_ENGLISH)^^sera utilisée par défault.
+0031 Veuillez sélectioner d'abord une Langue.
+0032 % sélectionné comme Défaut.
+0033 "%" Existe.^^Voulez-vous le remplacer?
+0034 "%" Enregistré.
+0035 Quitter sans Enregistrer?^^Êtes-vous sûrs?
+0036 Ignorer les Modifications?
+0037 Caractère Illégal.^^ Vous ne pouvez pas utiliser "%".
+0038 Cette Langue existe déjà!^^Il y a déjà un fichier de langue défini comme^^"%".
+0039 Sélectionnez d'abord une langue.
+0040 NOM du fichier de Language à créer e.g. 'Français'. NB Uniquement les caractères de "A" à "Z". PAS D'ESPACE autorisé.
+0041 Il semble que vous n'ayez pas de Bible ".CHM" installée.^^Voulez-vous en télécharfer une maintenant?
+0042 Cliquez deux fois sur un nom dans la^^fenêtre ci-dessous pour faire apparaître sa signification
+0043 Êtes-vous sûrs?
+0044 Le Document a changé.^^Êtes-vous sûrs de vouloir sortir?
+0045 Le Fichier existe déjaà. Cliquez OUI pour le remplacer^^NON pour choisir un autre nom ou ANNULER pour termier.
+0046 "%" a changé.^^Voulez-vous enregistrer ce fichier?
+0047 "%" .. ^^fichier non trouvé.
+0048 Format de fichier invalide.
+0049 Tous les fichiers d'Index seront supprimé dans^^"%"^^Ils seront recréés automatiquement selon les besoins.
+0050 Pas d'autres occurence trouvée.
+0051 Le Document a changé.^^Voulez-vous l'enregistrer?
+0052 Intrusion Détectée. Accès dénié.
+0053 Mauvais mot de passe!^^Voulez-vous essayer à nouveau?
+0054 Votre Gestionnaire de Courrier Electronique va maintenant ouvrir un Nouvea Message.^^Cliquez simplement "Envoyer" pour souscrire. Vous recevrez un Courriel de confirmation^^ que vous devrez conserver en bonne place. Merci de votre souscription.^^Vous pouvez envoyer un courriel à tout moment à la liste du Courier en l'adressant à:^^"%"^^Vous pouvez annuler votre Souscription à tout moment,^^sélectionnez simplement "Unsubscribe".
+0055 Voulez-vous REELLEMENT procéder ainsi?^^Nous serions très désireux de vous voir rester:-)
+0056 Ouf! Nous avons craint que vous ne nous quittiez.^^Merci de rester!
+0057 Vous devez ^étre inscrit, sinon votre message n'arrivera pas.^^Voulez-vous poursuivre?^^Consultez le Fichier d'Aide si vous avez un doure.
+0058 Signification du Nom "%"
+0059 NOTE. VEUILLER LIRE attentivement ce message.^^Avant de poursuivre, assurez-vous que vous avez^^TELECHARGE ET INSTALLE AU MOINS UNE BIBLE.^^% ne fonctionnera pas tant que vous n'aurez pas installé au moin UNE Bible^^Voulez-vous poursuivre?
+0060 ^^Aucune Bible n'est installée pour le moment.^^CECI EST TOUT A FAIT NORMAL, ET IL N'Y A PAS LIEU DE VOUS PREOCCUPER.^^BIBLES DOIVENT ÊTRE TELECHARGEES ET INSTALLEES SEPAREMENT.^^Pour que % fonctionne, AU MOINS UNE Bible doit être installée.^^Cliquez sur le Lie ci-dessous pour joindre notre Site Web et obtenir autant de Bibles que vous voulez^^NOUS EN AVONS PLUS DE 75! TOUT EST GRATUIT!!
+0061 Mot de Passe effacé.
+0062 Tous les fichiers seront cryptés avec ce mot de passe: "%"^^NE L'OUBLIEZ PAS, sinon vous ne pourrez plus accéder au Journal de Prières!
+0063 Les mots de passe ne coïncident pas ou la longuer du mot de passe^^est insuffisante(minimum 5 caractères).^^Veuillez essayer à nouveau!
+0064 Sélectionnez un Nom à supprimer en Clickant sur lui.
+0065 Supprimer l'utilsateur"%"^^Êtes vous sûrs?
+0066 Vous ne pouvez pas supprimer l'utilisateur par défaut.
+0067 Sélectionnez un Nom à changer en Clickant sur lui.
+0068 Erreur. Aucune sélction.^^Sélectionez un Nom d'Utilisateur dans la Liste.
+0069 Désolé.^^Mauvais mot de passe.^^Vous devez essayer à nouveau.
+0070 Basculé sur "%".
+0071 Erreur.^^Ce Nom existe déjà.
+0072 Désolé.^^Le Nom d'Utilisateur doit comporter entre 2 et 30 Caractères.
+0073 Caractères non acceptés dans votre entrée.^^Les caractère acceptés vont de ^^"A" à "Z" et "a" ào "z" exclusivement.
+0074 Journal de Prières. Enregistré comme: "%" 
+0075 "%" est une police d'ECRAN seulement.^^La police par défaut sera utilisée si vous choisissez d'imprimer.
+0076 Utilisation Invalide de Null.
+0077 Supprimer l'entrée pour"%"^^Êtes-vous sûrs?
+0078 L'entrée pour "%" a changée.^^Conserver les modifications?"
+0079 Une entrée existe déjà pour"%"^^Voulez-vous l'écraser?
+0080 Il n'y a pas d'autre occurence.
+0081 % enregistré.^^Merci.
+0082 Le Code d'Enregistrement ne correspond pas.^^Veuillez essayer à nouveau.
+0083 Aucun fichier ne correspond.^^Veuillez essayer à nouveau.
+0084 Vous ne pouvez pas désactiver la SEULE Bible installée.^^Si vous le faites, BibleDatabaase ne pourrait plus fonctionner.^^Pour désactiver cette Bible^^activez d'abord une autre Bible^^puis revenez à celle-ci pour la désactiver.
+0085 La valeur que vous avez entrée est trop grande.^^Le Maximum Est "%"
+0086 La valeur que vous avez entrée est trop petite.^^Le Minimum Est "%"
+0087 Activez d'abord cette Bible!
+0088 Toute Parole contient le souffle de Dieu est est propre à l'enseignement, rebuking, la correction et la formation à l a droiture.
+0089 Enregistré à:^^Personne pour l'instant
+0090 Enregistré à: %
+0091 BibleDatabase est un Gratuiciel et ne doit pas être vendu.^^Version du Logociel %.
+0092 Pour plus ample information sur les compléments disponibles, visitez le Site Web % à
+0093 BibleDatabase - Gratuiciel. Copiez en toute liberté!
+0094 Enregistré à: Vous.
+0095 Enregistré à: %
+0096 Version %
+0097 Ou le Répertoire ^^"%"^^n'existe pas, ou le fichier^^
+0098 "%" n'existe pas dans ce répertoire.^^Veuillez corriger et essayer à nouveau.
+0099 BibleDatabase est un gratuiciel. Vous pouvez le copier et le distribuer librement. Ce logiciel ne doit pas êre vendu. Adapté à partir d'une version originale sous Access 2000.
+
+##### Nouveaux messages ajoutés depuis le 26 Août 2002
+
+0100 REMOVED - Vous avez changé les options de langage de BibleDatabase pour "%".^^BibleDatabase doit être fermé afin d'initialiser le nouveau langage.
+0101 BibleDatabase n'a pas actuellement de fichier de langue pour "%".^^La langue par défaut sera utilisée.^^Veuillez rechercher sur le Site Web une mise à jour éventuelle de langue .
+0102 Le chemin d'accès à votre MODULE est actuellement
+0103 Normalement le défaut est
+0104 Cliquez DÉFAUT pour le régler sur défaut ou LOCALISER pour le trouver vous-mêmes. NOTE: Choisissez LOCALISER seulement si vous SAVEZ où se trouve le répertoire MODULE ou si vous avez installé BibleDatabase dans un répertoire autre que celui par défaut.
+0105 REMOVED - Le Mode Debug est désélectionné.^^Veuillez fermer BibleDatabase et l'ouvrir ^^de nouveau pour faire disparaître^^les chiffres de Debug.
+0106 REMOVED - Le Mode Debug est sélectionné.^^Tous les messages seront affichés ^^précédés par le numéro de message .^^^^Si vous êtes un traducteur,^^nous espérons que ceci vous aidera:-)^^^^(NOTE: Les Messages seront redimensionnés^^à 70 pour cent de leur longueur normale^^afin de les faire entrer dans les^^boîtes de dialogue).                                                                                                                                        .
+
+##### Nouveaux messages ajoutés depuis Janvier 2003
+
+# Singular des Psaumes, utilisé pour préfacer un Psaume unique:
+0107 Psaume
+0108 BibleDatabase ne trouve pas le fichier "%".^^Veuillez réinstaller BibleDatabase pour corriger cette erreur.
+0109 BibleDatabase:  Erreur irrécupérable
+0110 Une erreur interne est survenue.  Si cela persiste, veuillez signaler le bogue (menu Aide > Signaler un Bogue).
+0111 BibleDatabase ne trouve pas le fichier "%".^^La version ANGLAISE sera utilisé.
+0112 Vérification pour assurer que tous les messages sont traduits...
+

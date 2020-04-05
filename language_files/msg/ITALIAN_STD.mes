@@ -1,0 +1,146 @@
+# BibleDatabase language file                ####
+# Language: English                          ####
+# Date: Monday 26 August 2002                ####
+# Version: Original Distribution 1.0.1       ####
+# BibleDatabase Ver 4.0.0                    ####
+#################################################
+
+#################################################
+######### TRANSLATION INFORMATION  ##############
+#################################################
+# Translated by: MARIO                          #
+# Contact email:                                #
+# Translation Date: 24 Ottobre 2004             #
+# Comments:                                     #
+#################################################
+##     INSTRUCTIONS READ CAREFULLY!!       ######
+#################################################
+#1. EACH LINE OF TEXT MUST BE ON A NEW LINE     #
+#2. ALL Lines must end with CRLF (not just LF!) #
+#3. Any line beginning with a # is ignored.     #
+#4. Blank Lines are ignored                     #
+#5. ^^ inserts a new line (CRLF)                #
+#6. %  Software will insert text here           #
+#7. & use this (Menu Items only) to underline   #
+# the character immediately after the "&"       #
+#################################################
+
+0001 Nessun Nome trovato nel sistema.^^Prego scaricare l'ultima versione da ^^%
+0002 Non hai un valido Commentario installato.^^Visita  %^^ per scaricarne uno.
+0003 Devi avere un Dizionario installato per poterlo usare. ^^Scaricalo da %.
+0004 Doppia selezione non permessa.
+0005 Nessun segnalibro selezionato.
+0006 Cancellare %?
+0007 Il nuovo formato della data e': %. ^^Il cambio sara' effettivo dal prossimo avvio del programma.
+0008 Informazioni sul Sistema non disponibili al momento.
+0009 Ricerca riuscita ! Una Bibbia e' stata localizzata.^^% sara' adesso chiusa. ^^Eseguila nuovamente e sara' tutto OK.
+0010 Non ci sono Bibbie in questa cartella.^^Sei sicuro di averne ALMENO UNA INSTALLATA ?^^Prova di nuovo.
+0011 Drive non pronto.^^Prego inserire un disco nel drive.
+0012 Errore nell'apertura dell'immagine. Non e' possibile continuare.
+0013 Non e' possibile continuare con lo schermo minimizzato.
+0014 Non sembra che ci siano Bibbie ".MP3"  installate^^Vuoi scaricarne qualcuna ora ?
+0015 Nessuno stato da segnalare.
+0016 Sto' verificando l'indirizzo IP di  BibleDatabase.
+0017 Ok. Sito trovato.
+0018 Connessione in corso. Prego attendere ...
+0019 Ok ! Connesso.
+0020 Richiesta di invio dei dati..
+0021 Richiesta inviata con successo.
+0022 In arrivo risposta da  BibleDatabase..
+0023 Ok ! File URL ricevuto.
+0024 Disconnessione in corso. Prego attendere ...
+0025 Disconnesso.
+0026 Errore. Prego verificare la connessione a  Internet .
+0027 Ok ! File ricevuto.
+0028 Se hai commesso qualche errore, questo ripristina l'English Book Names (DEFAULT).^^Vuoi procedere ?
+0029 Nessun procedimento.
+0030 L'English REFERENCE (BOOKS_ENGLISH)^^sara' usata come default.
+0031 Prego selezionare un linguaggio prima.
+0032 % scelto come Default.
+0033 "%" Esiste.^^Vuoi sostituirlo ?
+0034 "%" Salvato.
+0035 Uscire senza salvare ?^^Sei sicuro ?
+0036 Annullare le modifiche ?
+0037 Carattere illegale.^^ Non puoi usare "%".
+0038 Linguaggio gia' esistente !^^C'e' gia' un file di linguaggio definito come^^"%".
+0039 Prima selezionare un linguaggio.
+0040 NOME del file di Linguaggio da creare (per esempio 'Italian'). NB Solo Caratteri dalla "A" alla  "Z". Gli SPAZI non sono permessi.
+0041 Non sembra che ci siano Bibbie ".CHM"  installate.^^Vuoi scaricarne qualcuna ora ?
+0042 Doppio click sul nome nella finestra sottostante^^per visualizzarne il suo significato.
+0043 Sei sicuro?
+0044 Il documento e' stato modificato.^^Sei sicuro di voler uscire ?
+0045 File gia' esistente. Clicca YES per sovrascriverlo^^No per scegliere un altro nome, o  Cancel per terminare.
+0046 "%" e' stato modificato.^^Vuoi salvare questo  file ?
+0047 "%" .. ^^file non trovato.
+0048 Formato del file non valido.
+0049 Tutti i fili indice saranno cancellati in ^^"%"^^Verranno ricreati automaticamente non appena richiesto dal programma.
+0050 Nessun altro trovato.
+0051 Il documento e' stato modificato.^^Vuoi salvarlo ?
+0052 Intrusione rilevata. Accesso negato.
+0053 Password sbagliata !^^Vuoi provare di nuovo ?
+0054 Il tuo programma di default per le Email , aprira' ora un Nuovo Messaggio.^^Clicca "Invia" per  sottoscrivere. Riceverai una conferma tramite  Email^^che dovrai custodire in un posto sicuro. Grazie per la sottoscrizione.^^Puoi inviare un messaggio,in qualunque momento, alla Mailing list indirizzandolo a:^^"%"^^Puoi cancellare la sottoscrizione quando vuoi,^^semplicemente selezionando "Unsubscribe".
+0055 Vuoi veramente farlo ?^^Ci piacerebbe che tu fossi sempre :-)
+0056 Ehi ! Pensavamo che ci avessi lasciato.^^Grazie per essere rimasto !
+0057 Devi sottoscrivere il tuo messaggio, altrimenti questo non sara' ricevuto.^^Vuoi continuare ?^^Dai un'occhiata al file Help se hai qualche dubbio.
+0058 Significato del nome "%"
+0059 NOTA. PREGO LEGGI questo messaggio attentamente.^^Prima di continuare, accertati di avere^^SCARICATO E INSTALLATO ALMENO UNA BIBBIA .^^% non funzionera' fin quando non avrai ALMENO una Bibbia  installata^^Desideri continuare ?
+0060 ^^NON hai nessuna Bibbia installata in questo momento.^^QUESTO E' ABBASTANZA NORMALE, NIENTE DI TROPPO  PREOCCUPANTE.^^LE BIBBIE NECESSITANO DI ESSERE SCARICATE E INSTALLATE SEPARATAMENTE.^^Per il funzionamento di % , ALMENO una Bibbia deve essere installata.^^Clicca il link sottostante per andare al nostro sito e scaricarne quante ne vuoi^^NE ABBIAMO PIU' DI 75 ! E SONO TUTTE GRATUITE !!
+0061 Password Azzerata.
+0062 Tutti i files verranno criptati con questa password: "%"^^NON dimenticartela , altrimenti non potrai piu' avere accesso al Diario di Preghiere !
+0063 Passwords errata o ^^password troppo corta (minimo 5 caratteri).^^Prova di nuovo!
+0064 Seleziona il Nome da cancellare cliccando su di esso.
+0065 Cancellare l'Utente "%"^^Sei sicuro ?
+0066 Non puoi cancellare l'Utente default.
+0067 Seleziona il Nome da cambiare cliccando su di esso.
+0068 Errore. Nessuna selezione.^^Seleziona un Nome Utente dalla lista.
+0069 Spiacenti.^^Password sbagliata.^^Devi provare di nuovo.
+0070 Cambiato con "%".
+0071 Errore.^^Nome gia' esistente.
+0072 Spiacenti.^^Il Nome Utente deve essere formato da 2 a 30 Caratteri.
+0073 Carattere non permesso nel Nome.^^I caratteri validi sono ^^dalla "A" alla "Z" e dalla "a" alla "z" solamente.
+0074 Diario di Preghiere. Connesso con : "%" 
+0075 "%" e' solo un font per lo schermo.^^Un  font di default verra' usato nel caso richiedessi una stampa.
+0076 Uso invalido di Null.
+0077 Cancellare gli inserimenti per "%"^^Sei sicuro ?
+0078 Gli inserimenti per "%" sono stati cambiati.^^Salvare le modifiche ?"
+0079 UN inserimento gia' esistente per  "%"^^Vuoi sovrascriverlo?
+0080 Nessuna corrispondenza trovata.
+0081 % registrato.^^Grazie.
+0082 Codice di registrazione non corrispondente.^^Prova di nuovo.
+0083 Nessun file corrispondente per l'arco di tempo in questione.^^Prova di nuovo.
+0084 Non puoi disabilitare l'unica Bibbia installata.^^In questo caso il programma non potrebbe funzionare.^^Per disabilitare questa Bibbia,^^come prima cosa abilita un'altra Bibbia,^^poi ti sara' possibile disabilitare quella che volevi togliere.
+0085 Il valore che hai inserito e' troppo grande.^^Il massimo e' "%"
+0086 Il valore che hai inserito e' troppo  piccolo.^^Il minimo e' "%"
+0087 Prima abilita questa Bibbia !
+0088 Tutte le Scritture sono ispirate da Dio , e sono utili per insegnare, ricostruire, correggere ed imparare la Giustizia.
+0089 Registrato a :^^Nessuno
+0090 Registrato a : %
+0091 Versione del Software %
+0092 Per ulteriori informazioni circa i  plugins disponibili,^^ visita il sito % 
+0093 BibleDatabase - Freeware. Copia liberamente !^^Disponibile gratuitamente su  www.BibleDatabase.org
+0094 Registrato a : Te.
+0095 Registrato a : %
+0096 Versione %
+0097 Cartella o file^^"%"^^non esistente^^
+0098 "%" non presente in questa cartella.^^Correggi e prova di nuovo.
+0099 BibleDatabase é freeware.  Puoi copiare e distribuire liberamente questo software. Ma non puo' essere venduto o distribuito a scopo di lucro.
+
+##### New messages added since August 26 2002
+
+0100 REMOVED - Hai modificato la configura zione del linguaggio con "%".^^BibleDatabase  deve essere chiuso per rendere effettivi i nuovi parametri.
+0101 BibleDatabase attualmente non ha un file di linguaggio per "%".^^Verra' usato il linguaggio di default .^^Esplora il sito per ottenere altri linguaggi.
+0102 Il percorso del tuo MODULO e' attualmente configurato come
+0103 Normalmente il default e'
+0104 Clicca DEFAULT per collocarlo come da  default o LOCATE per trovarlo manualmente. NOTA: usa LOCATE solamente se sai dove si trova la cartella MODULO oppure se inizialmente hai installato BibleDatabase  in una cartella diversa da quella di default.
+0105 Modo Debug disattivato.^^Chiudi il programma e riavvialo^^per non far piu' apparire i numeri del debug.
+0106 Modo Debug attivato.^^Tutti i messaggi saranno visualizzati^^preceduti da un numero di messaggio.^^^^Se sei un traduttore ,^^speriamo che questo ti possa dare una mano.^^^^(NOTA: I messaggi saranno troncati   ^^al 70 per cento della loro normale lunghezza ^^per permettere il loro fissaggio nelle caselle di testo).                                                                                                                     .
+
+##### New messages added since January-2003
+
+# Singolare di Salmi, usato per la prefazione di un singolo Salmo:
+0107 Salmi
+0108 BibleDatabase non trova il file  "%".^^Re-installa BibleDatabase per riparare a questo errore.
+0109 Errore fatale del programma.
+0110 Errore interno. Se dovesse ripetersi, prego riportare il bug tramite la voce del menu "Help > Report a Bug".
+0111 BibleDatabase non trova il file "%".^^Verra' usata al suo posto la versione inglese.
+0112 Controllo per essere certi che tutti i messaggi siano tradotti ...

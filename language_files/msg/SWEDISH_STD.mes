@@ -1,0 +1,139 @@
+# BibleDatabase language file                ####
+# Language: Swedish                          ####
+# Date: Saturday, 29 June 2002               ####
+# Version: Original Distribution 1.0.0       ####
+# BibleDatabase Ver 4 and later              ####
+#################################################
+
+#################################################
+######### TRANSLATION INFORMATION  ##############
+#################################################
+# Translated by: Christoffer Wadensten          #
+# Contact email: harlechin@hotmail.com          #
+# Translation Date: 9/9 - 2002                 #
+# Comments: version 1.1                         #
+#################################################
+##     INSTRUCTIONS READ CAREFULLY!!       ######
+#################################################
+#1. EACH LINE OF TEXT MUST BE ON A NEW LINE     #
+#2. ALL Lines must end with CRLF (not just LF!) #
+#3. Any line beginning with a # is ignored.     #
+#4. Blank Lines are ignored                     #
+#5. ^^ inserts a new line (CRLF)                #
+#6. %  Software will insert text here           #
+#7. & use this (Menu Items only) to underline   #
+# the character immediately after the "&"       #
+#################################################
+
+0001 Hittade inga namn.^^Ladda hem den senaste versionen från^^%
+0002 Du har ingen giltig Bibelkommentar installerad.^^Besök %^^för att ladda hem en.
+0003 Du måse ha ett Bibellexicon installerat för att använda det. ^^Ladda hem ett från %.
+0004 Liktydiga poster är ej tillåtna.
+0005 Inget bookmärke är valt.
+0006 Radera %?
+0007 Nytt datumformat är: %. ^^Ändringar kommer tillämpas nästa gång du startar om programmet.
+0008 Systeminformation är inte tillgänglig just nu.
+0009 Lyckades! En Bibel hittades.^^% kommer nu stängas. ^^Kör det igen så bör det fungera bra.
+0010 Det fanns INGA Biblar installerade i den här mappen.^^Är du säker på att du har ÅTMINSTONE EN INSTALLERAD?^^Försök igen.
+0011 Diskettstation ej redo.^^Sätt i en diskett i diskettstaionen.
+0012 Fel uppstod vid storleksbestämning av bild. Kan inte fortsätta
+0013 Kan inte fortsätta med minimerat fönster
+0014 Du verkar inte ha några Biblar installerade^^Vill du ladda hem några nu?
+0015 Inget tillstånd att rapportera.
+0016 Kollar IP-adress för BibleDatabase.
+0017 Lyckades. Hemsidan hittad.
+0018 Kopplar upp. Var god vänta..
+0019 Lyckades! Uppkopplad.
+0020 Skickar förfrågan om data..
+0021 Förfrågan korrekt skickad
+0022 Svar kommer från BibleDatabase..
+0023 Lyckades! URL-fil mottagen
+0024 Stänger uppkoppling. var god vänta..
+0025 Uppkoppling stängd.
+0026 Ett fel uppstod. Var god och kontrollera din internet-uppkoppling.
+0027 Lyckades! Fil korrekt emottagen.
+0028 Om du på något sätt har rört ihop allting återställer detta de Svenska boknamnen.^^Vill du fortsätta?
+0029 Inga åtgärder har gjorts.
+0030 Svenska referenser (BOOKS_SWEDISH)^^kommer att användas som standard.
+0031 Välj ett språk först.
+0032 % satt som standard.
+0033 "%" finns redan.^^Vill du ersätta den?
+0034 "%" sparad.
+0035 Avsluta utan att spara?^^Är du helt säker?
+0036 Radera ändringar?
+0037 Otillåtet tecken.^^ Du kan inte använda "%".
+0038 Språket finns redan!^^Det finns redan en språkfil som heter^^"%".
+0039 Välj ett språk först.
+0040 NAMN på språk-fil som kommer att skapas, t ex. 'Tyska'. Använd enbart tecknen "A" to "Z". Använd inga mellanslag.
+0041 Du verkar inte ha några ".CHM" Biblar installerade.^^Vill du ladda hem några nu?
+0042 Dubbelklicka på ett namn i fönstret nedan för att se vad det betyder^^^^(Vissa namn ger inga träffar, eftersom namn-databasen innehåller de engelska namnen)
+0043 Är du säker?
+0044 Dokumentet har ändrats.^^Är du säker på att du vill avsluta?
+0045 En fil med det namnet existerar redan. Klicka på JA för att ersätta filen^^NEJ för att välja ett annat namn eller AVBRYT för att avbryta.
+0046 "%" har ändrats.^^Vill du spara den här filen?
+0047 "%" .. ^^Kan inte hitta filen.
+0048 Ej giltigt filformat.
+0049 Alla Index-filer är borttagna i^^"%"^^Dessa kommer återskapas automatiskt när de behövs.
+0050 Inga fler träffar hittades.
+0051 Dokumentet är ändrat.^^Vill du spara det?
+0052 Inkräktare Upptäckt. Åtkomst Nekad.
+0053 Fel lösenord!^^Vill du försöka igen?
+0054 Ditt e-postprogram kommer nu öppnas med ett Nytt Meddelande.^^Klicka bara på "Skicka" för att prenumerera. Du kommer få ett kontroll-email^^som du bör spara på ett säkert ställe. Tack för din prenumeration.^^^^Du kan när som helst skicka brev til Mail-listan genom att adressera ditt brev till:^^"%"^^^^Du kan även avsluta din prenumeration när som helst,^^välj helt enkelt "Avsluta Prenumeration" från Internetmenyn.
+0055 Vill du VERKLIGEN göra det här?^^Vi vill gärna att du stannar :-)
+0056 Puh! Vi trodde du skulle lämna oss.^^Tack för att du stannar!
+0057 Du måste Prenumerera, annars kommer ditt meddelande inte fram.^^Vill du fortsätta? Se Hjälpfil om du är tveksam.
+0058 Betydelsen av namnet "%"
+0059 OBS. VAR GOD LÄS detta meddelande noga.^^Innan du fortsätter, se till att du har^^LADDAT HEM OCH INSTALLERAT ÅTMINSTONE EN BIBEL.^^% fungerar inte förrän du har MINST EN Bibel installerad^^Vill du forstätta?
+0060 ^^Du har inga Biblar installerade just nu.^^DET HÄR ÄR GANSKA VANLIGT, VAR INTE OROLIG.^^BIBLAR MÅSTE LADDAS HEM OCH INSTALLERAS SEPARAT.^^För att % ska fungera måste ÅTMINSTONE EN Bibel vara installerad.^^^^Klicka på länken nedan för att komma till vår hemsida. ^^Där kan du hämta så många du vill^^VI HAR ÖVER 75 STYCKEN! ALLT ÄR GRATIS!!
+0061 Lösenord raderat.
+0062 Alla filer kommer krypteras med detta lösenord: "%"^^Glöm INTE bort det, då kan du inte komma åt bönedagboken igen!
+0063 Lösenordet är fel eller för kort^^(minimum 5 tecken).^^Vad god och försök igen!
+0064 Välj namn att radera genom att klicka på det.
+0065 Radera användare "%"^^Är du säker?
+0066 Du kan inte radera den enda användaren.
+0067 Välj namn genom att klicka på det.
+0068 Fel. Ingen vald.^^Välj användare från listan.
+0069 Tyvärr.^^Fel lösenord.^^Du får ta och försöka igen.
+0070 Byt till "%".
+0071 Fel.^^Det namnet finns redan.
+0072 Tyvärr.^^Användarnamnet måste ha mellan 2 och 30 tecken.
+0073 Otillåtet tecken i namnet.^^Giltitiga tecken är enbart^^"A" till "Z" och "a" till "z".
+0074 Bönedagbok. Inloggad som: "%" 
+0075 "%" är enbart ett skärmtypsnitt.^^Standard-typsnittet kommer användas, ifall du ska skriva ut.
+0076 Otillåten användning av Null.
+0077 Ta bort inlägg för "%"^^Är du säker?
+0078 Inlägg för "%" har ändrats.^^Spara ändringar?"
+0079 Ett inlägg finns redan för "%"^^Vill du skriva över det?
+0080 Din sökning gav inga träffar.
+0081 % registrerad.^^Tack.
+0082 Registerringskoden är inte korrekt.^^Försök igen.
+0083 Inga filer passar inom datum-området.^^Försök igen.
+0084 Du kan inte avaktivera den ENDA installerade bibeln.^^Om du gör det fungerar inte BibleDatabase.^^För att avaktivera denna Bibel måste^^du först aktivera en annan.^^Gå sedan tillbaka och avaktivera denna Bibel.
+0085 Det värde du angett är för stort.^^Max "%"
+0086 Det värde du angett är för litet.^^Minst "%"
+0087 Aktivera först denna Bibel!
+0088 Hela Skriften är utandad av Gud och nyttig till undervisning, till bestraffning, till upprättelse, till fostran i rättfärdighet.
+0089 Registrerad till:^^Ingen ännu
+0090 Registrerad till: %
+
+# added % at the end of 0091
+
+0091 BibleDatabase är Freeware och för inte säljas.^^Program-Version %
+0092 För vidare information om tillgängliga programtillägg, besök % hemsida på
+0093 BibleDatabase - Freeware. Kopiera fritt!
+0094 Registrerad till: Dig.
+0095 Registrerad till: %
+0096 Version %
+0097 Antingen finns inte mappen^^"%"^^eller så finns inte filen^^
+0098 "%" i den här mappen.^^Rätta till det och försök igen.
+0099 BibleDatabase är freeware. Det innebär att du fritt får kopiera och sprida programmet. Detta program får inte säljas. ^^Överfört från originalet MS Access 2000.
+
+##### New messages added since August 26 2002
+
+0100 Du har ändrat språkinställningarna för BibleDatabase till "%".^^BibleDatabase måste stängas för att de nya språkinställningarna ska initieras.
+0101 BibleDatabase har för närvarande ingen språkfil för "%".^^Standardspråk kommer användas.^^Titta på hemsidan för uppdateringar av språkpaket.
+0102 För närvarande är sökvägen till din MODULE-mapp
+0103 STANDARD är vanligtvis 
+0104 Klicka på STANDARD för att återställa till standardläge eller bläddra för att hitta mappen själv. OBS: Använd bara BLÄDDRA om du vet var MODULE-mappen finns eller om du installerade BibleDatabase i någon annan mapp än standardmappen
+0105 'Debug'-läge är avstängt.^^Avsluta BibleDatabase och starta programmet^^igen för att få bort 'Debug'-numren.
+0106 'Debug'-läge är på.^^Alla meddelanden som visas kommer^^föregås av meddelande-nummer.^^^^Om du är översättare, hoppas^^vi att detta hjälper dig :-)^^^^(NOTERA: Meddelanden kommer kortas av till 70 procent^^av sin normala längd för att passa i textrutorna).                                                                                                                     .

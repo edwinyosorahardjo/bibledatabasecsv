@@ -1,0 +1,19 @@
+#--------------------------------------------------------------------
+# FILE: Categories_FRENCH.txt
+#--------------------------------------------------------------------
+# This file provides internationalized names for the different 
+#    categories listed in Categories.txt.
+#--------------------------------------------------------------------
+# Note that comments start with "#"
+#--------------------------------------------------------------------
+# Format:
+#       ID, Nom Long, Nom Court
+#--------------------------------------------------------------------
+0, Bible,               Bible          # Tous les Livres de la Bible
+1, Ancien Testament,    AT             # Ancien Testament
+2, Le Pentateuque,      Pentateuque    # Livres du Pentateuque (les livres de la Loi)
+3, Écritures,           Écritures      # Les Ecritures (les livres historiques, poétiques, et sapientiaux)
+4, Prophètes,           Prophètes      # Les Livres Prophétiques
+5, Nouveau Testament,   NT             # Tout le Nouveau Testament
+6, Évangiles,           Evangiles      # Les Évangiles
+7, Épitres,             Épitres        # Les Épitres 

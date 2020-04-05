@@ -1,0 +1,238 @@
+# BibleDatabase language file                ####
+# Language: English                          ####
+# Date: Monday 26 August 2002                ####
+# Version: Original Distribution 1.0.1       ####
+# BibleDatabase Ver 4.0.0                    ####
+#################################################
+
+#################################################
+######### TRANSLATION INFORMATION  ##############
+#################################################
+# Translated by:                                #
+# Contact email:                                #
+# Translation Date:                             #
+# Comments:                                     #
+#################################################
+##     INSTRUCTIONS READ CAREFULLY!!       ######
+#################################################
+#1. EACH LINE OF TEXT MUST BE ON A NEW LINE     #
+#2. ALL Lines must end with CRLF (not just LF!) #
+#3. Any line beginning with a # is ignored.     #
+#4. Blank Lines are ignored                     #
+#5. ^^ inserts a new line (CRLF)                #
+#6. %  Software will insert text here           #
+#7. & use this (Menu Items only) to underline   #
+# the character immediately after the "&"       #
+#################################################
+
+0001 Navne brugt i Biblen
+0002 Kommentarer til Biblen
+0003 Bønnebog.^^Logged på som: "%"
+0004 Skift fra "%"
+0005 VALGFRIT Password (Kodeord) for "%"
+0006 Bibelske Kort %
+0007 Udskriv Udskrift (Preview) - %
+0008 INGEN GYLDIG BIBEL BLEV FUNDET!! - %
+0009 TILFØJ
+0010 Tilføj NY
+0011 Administrer Identiteter %
+0012 Skift fra "%"
+0013 Sprog Redigering/Vælg. %
+0014 Tilføj Bogmærke
+0015 Rediger Bogmærke
+0016 MP3 Afspiller
+0017 Ingen titel.RTF
+0018 Skift fra "%"
+0019 Side Opsætning %
+0020 (Multi-Bible) Kapitel/Vers - %
+0021 Angående %
+0022 % Licens aftale
+0023 Indstillings Funktioner - %
+0024 Standard - %
+0025 Ordbøger - %
+0026 Indtast venligst kodeord (password) for "%"
+0027 Åbn Fil
+0028 Gem Fil
+0029 Udskriv
+0030 Klip
+0031 Kopier
+0032 Indsæt
+0033 Fortryd
+0034 Slet
+0035 Find
+0036 Find Næste
+0037 Farve (forgrund)
+0038 Farve (baggrund)
+0039 Fed
+0040 Kursiv
+0041 Understreg
+0042 Juster til Venstre (ALT L)
+0043 Centrer (ALT C)
+0044 Juster til Højre (ALT R)
+0045 Formindsk indrykning (ALT S)
+0046 Forøg indrykning (ALT D)
+0047 Opstilling med punkttegn (ALT O)
+0048 Multi-Bible
+0049 Bibel Ordbog
+0050 Bibel Kommentarer
+0051 Bibelske navne
+0052 Bønnebog
+0053 Hjælp
+0054 "CHM" Bibler (Compiled in Microsoft Help format)
+0055 "MP3" (audio) Bibler
+0056 Klik på denne knap for at søge i biblen
+0057 Klik for at tvinge BibleDatabase til at stoppe søgningen
+0058 &New (Ny)
+0059 &Open (Åbn)
+0060 &Save (Gem)
+0061 Save &As (Gem Som)
+0062 Udskriv Pre&view (Udskrift)
+0063 Udskriv Set&up (Opsætningen)
+0064 &Print (Udskriv)
+0065 E&xit (Afslut)
+0066 &Edit (Rediger)
+0067 Cu&t (Klip)
+0068 &Copy (Kopier)
+0069 &Paste (Sæt ind)
+0070 &File (Fil)
+0071 &Undo (Fortryd)
+0072 &Delete (Slet)
+0073 &Find
+0074 Find &Næste
+0075 Vælg &Alt
+0076 &Wrap (Pak ind)
+0077 &View (Vis)
+0078 &MultiBible
+0079 &Commentaries (Kommentarer)
+0080 &Dictionaries (Ordbøger)
+0081 Ma&ps (Kort)
+0082 &Navne
+0083 &Integrate Names (Integrerede navne)
+0084 FJERNET - &Prayer Diary (Bønnebog)
+0085 FJERNET - Åbn
+0086 FJERNET - Skift Identititet
+0087 T&ranslation Notes (Oversættelses noter)
+0088 FJERNET - Format
+0089 Datoformat
+0090 Sideopsætning
+0091 &Bogmærke
+0092 &Tools (Funktioner/redskaber)
+0093 &Language Editor (Sprog Redigering)
+0094 &Folder Tool - Advanced (Avancerede mappefunktioner)
+0095 &Options...(Formater)
+0096 &Re-Index (Indekser)
+0097 &Integrity Check (Gyldighedsbevis)
+0098 Bibler
+0099 Kommentarer
+0100 Ordbøger
+0101 Navne
+0102 Alt
+0103 &Web (Internettet)
+0104 &Diskussions Forum
+0105 &BibleDatabase Website (Hjemmeside)
+0106 FJERNET - Abonnér på Mailing List
+0107 FJERNET - Via the Web
+0108 FJERNET - Via Email
+0109 FJERNET - Aflys abonnementet på Mailing List
+0110 FJERNET - Via the Web
+0111 FJERNET - Via email
+0112 FJERNET - Send Email to List
+0113 FJERNET - Via Browser (Søgemaskine)
+0114 FJERNET - Via Email
+0115 &Hjælp
+0116 &Contents (Indhold)
+0117 Vis &Licens Aftalen
+0118 &About (Om) BibleDatabase
+0119 &Show (Vis) Splash Screen (flyvende billede på skærmen)
+0120 &Registrer
+0121 Rapporter en &Bug...(Fejl)
+0122  Når du klikker på denne knap slettes oversigten over alle tidligere søgninger
+0123 Ryd
+0124 For at lede efter "Love" tast *love* (Husk "*" før og efter "love")
+0125 Vælg den bibel du bil søge i
+0126 Vælg de kriterier du vil bruge i din søgning
+0127 Ingen specielle kriterier vil blive anvendt i søgningen
+0128 Søgeord kan være i tilfældig orden
+0129 Søg efter ethvert af ordene
+0130 Vis alle versene, uanset om ordene blev fundet
+0131 Ingen
+0132 Ignorer rækkefølgen
+0133 Ethvert ord
+0134 Alt det markerede
+0135 Valgfrit søgekriterie
+0136 Aktiv opdatering
+0137 Ignorer forskel på store og små bogstaver
+0138 Hvis valgt, vil du se markeringen af ?processen når den sker
+0139 Hvis valgt, vil forskellen på store og små bogstaver blive ignoreret
+0140 Fil
+0141 Gem
+0142 Udskriv
+0143 FJERNET - Skift Identititet
+0144 Find
+0145 Find
+0146 Find Atter
+0147 Grundig søgning
+0148 Værktøjer
+0149 Dato Format
+0150 Kodeord (Password)
+0151 Hjælp
+0152 Indhold
+0153 Ryd
+0154 Gem
+0155 Slet
+0156 Gem/Afslut
+0157 Brug billeder [Valgfrit] til at bekrive måden du Beder på
+0158 Venstre indholdsrude: Værktøj Tips Tekst; Mellemste indholdsrude: Dags Dato; Højre indholdsrude: Status
+0159 Ny &Password (Kodeord)
+0160 Bekræft Kodeord (Password)
+0161 Sæt som standard
+0162 GEM
+0163 Genskabning (Disaster Recovery)
+0164 Hjælp
+0165 Luk
+0166 Sprog Redigerings Vindue
+0167 Indlæste sprog
+0168 Klik herunder for at REDIGERE, SKIFTE TIL eller OPRETTE
+
+## Tilføjelser 26 August 2002
+
+0169 Ændringer &Dato Format...
+0170 &Update (Opdater)
+0171 &Delete (Slet)
+0172 &Edit (Rediger)
+0173 &Goto (Gå Til)
+0174 &Add (Tilføj
+0175 &Close (Luk)
+0176 Titel
+0177 Kategori
+0178 Dato Tilføjet
+0179 Bibel Reference
+0180 Fil Navn
+0181 STANDARD
+0182 VIS PLACERING
+0183 LUK
+0184 UPDATE (OPDATER)
+0185 LUK
+0186 #
+0187 Ref (always English)
+0188 Bog Navn (Dansk)
+0189 Forkortelse
+0190 Bog der skal Redigeres: %
+0191 Dobbeltklik på Bog "%" i søjlen for at redigere.
+0192 Nyt LONG NAME (langt navn) til "%".
+0193 Rediger Long Name (langt navn)
+0194 Nyt SHORT NAME (kort navn) til "%".
+0195 Rediger Short Name (kort navn)
+0196 VIS PLACERING
+0197 HJÆLP
+0198 LUK MIDLERTIDIGT
+0199 &Show Message Numbers (Vis antallet af beskeder)
+
+##### Tilføjelser efter January-2003
+0200 Avanceret &Søgning
+0201 &Mailing List (Liste over modtagere)
+0202 &Window (Vindue)
+0203 C&HM Bibler
+0204 Mp&3 Bibler
+0205 Fanc&y Formatting (Speciel Formatering)
+0206 Vælg F&ont... (skrifttype)

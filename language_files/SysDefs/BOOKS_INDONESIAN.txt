@@ -1,0 +1,72 @@
+1	Kej	Kejadian
+2	Kel	Keluaran
+3	Ima	Imamat
+4	Bil	Bilangan
+5	Ula	Ulangan
+6	Yos	Yosua
+7	Hak	Hakim-Hakim
+8	Rut	Rut
+9	1Sam	1 Samuel
+10	2Sam	2 Samuel
+11	1Raj	1 Raja-Raja
+12	2Raj	2 Raja-Raja
+13	1Taw	1 Tawarikh
+14	2Taw	2 Tawarikh
+15	Ezr	Ezra
+16	Neh	Nehemia
+17	Est	Ester
+18	Ayb	Ayub
+19	Maz	Mazmur
+20	Ams	Amsal
+21	Pkh	Pengkhotbah
+22	Kid	Kidung Agung
+23	Yes	Yesaya
+24	Yer	Yeremia
+25	Rat	Ratapan
+26	Yeh	Yehezkiel
+27	Dan	Daniel
+28	Hos	Hosea
+29	Yl	Yoel
+30	Am	Amos
+31	Oba	Obaja
+32	Yun	Yunus
+33	Mik	Mikha
+34	Nah	Nahum
+35	Hab	Habakuk
+36	Zef	Zefanya
+37	Hag	Hagai
+38	Zak	Zakharia
+39	Mal	Maleakhi
+40	Mat	Matius
+41	Mar	Markus
+42	Luk	Lukas
+43	Yoh	Yohanes
+44	Kis	Kisah Para Rasul
+45	Rom	Roma
+46	1Kor	1 Korintus
+47	2Kor	2 Korintus
+48	Gal	Galatia
+49	Ef	Efesus
+50	Fil	Filipi
+51	Kol	Kolose
+52	1Tes	1 Tesalonika
+53	2Tes	2 Tesalonika
+54	1Tim	1 Timotius
+55	2Tim	2 Timotius
+56	Tit	Titus
+57	Flm	Filemon
+58	Ibr	Ibrani
+59	Yak	Yakobus
+60	1Pet	1 Petrus
+61	2Pet	2 Petrus
+62	1Yoh	1 Yohanes
+63	2Yoh	2 Yohanes
+64	3Yoh	3 Yohanes
+65	Yud	Yudas
+66	Wah	Wahyu
+67	Tau	Taurat (Buku Musa)
+68	PL	Perjanjian Lama
+69	PB	Perjanjian Baru
+70	Inj	Injil (Mat-Yoh)
+71	Sinopt	Injil Sinoptik (Mat-Luk)
+72	SEL	SELURUHNYA (PL&PB)

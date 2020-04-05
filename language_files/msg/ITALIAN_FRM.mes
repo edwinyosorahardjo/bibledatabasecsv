@@ -1,0 +1,238 @@
+# BibleDatabase language file                ####
+# Language: English                          ####
+# Date: Monday 26 August 2002                ####
+# Version: Original Distribution 1.0.1       ####
+# BibleDatabase Ver 4.0.0                    ####
+#################################################
+
+#################################################
+######### TRANSLATION INFORMATION  ##############
+#################################################
+# Translated by: MARIO                          #
+# Contact email:                                #
+# Translation Date: 24 Ottobre 2004             #
+# Comments:                                     #
+#################################################
+##     INSTRUCTIONS READ CAREFULLY!!       ######
+#################################################
+#1. EACH LINE OF TEXT MUST BE ON A NEW LINE     #
+#2. ALL Lines must end with CRLF (not just LF!) #
+#3. Any line beginning with a # is ignored.     #
+#4. Blank Lines are ignored                     #
+#5. ^^ inserts a new line (CRLF)                #
+#6. %  Software will insert text here           #
+#7. & use this (Menu Items only) to underline   #
+# the character immediately after the "&"       #
+#################################################
+
+0001 Nome usato nella Bibbia
+0002 Commentario Biblico
+0003 Diario di Preghiera.^^Connesso come: "%"
+0004 Cambia da "%"
+0005 Password Opzionale per "%"
+0006 Mappe Bibliche %
+0007 Anteprima di Stampa - %
+0008 NESSUNA VALIDA BIBBIA TROVATA !! - %
+0009 Aggiungi
+0010 Aggiungi Nuovo
+0011 Gestione Identita' %
+0012 Cambia da "%"
+0013 Editore/Selettore di Linguaggio. %
+0014 Aggiungi Segnalibro
+0015 Edita Segnalibro
+0016 MP3 Player
+0017 Senza Titolo.RTF
+0018 Cambia da "%"
+0019 Configura Pagina %
+0020 (Multi-Bibbia) Capitolo/Verso - %
+0021 Informazioni su %
+0022 % Contratto di Licenza
+0023 Configura Opzioni - %
+0024 Defaults - %
+0025 Dizionari - %
+0026 Inserisci password per "%"
+0027 Apri File
+0028 Salva File
+0029 Stampa
+0030 Taglia
+0031 Copia
+0032 Incolla
+0033 Annulla
+0034 Cancella
+0035 Trova
+0036 Trova Prossimo
+0037 Colore
+0038 Colore Sfondo
+0039 Grasetto
+0040 Italico
+0041 Sottolineato
+0042 Allinea a Sinistra (ALT L)
+0043 Allinea in Centro (ALT C)
+0044 Allinea a Destra (ALT R)
+0045 Ingrandisci Meno (ALT S)
+0046 Ingrandisci Piu' (ALT D)
+0047 Aggiungi Simbolo (ALT O)
+0048 Multi-Bibbia
+0049 Dizionario Biblico
+0050 Commentario Biblico
+0051 Nomi Biblici
+0052 Diario di Preghiera
+0053 Aiuto
+0054 Bibbie "CHM" (Compilate in formato Microsoft Help) 
+0055 Bibbie "MP3" (audio) 
+0056 Clicca qui per cercare la Bibbia
+0057 Clicca per forzare BibleDatabase a fermare la ricerca
+0058 &Nuovo
+0059 &Apri
+0060 &Salva
+0061 Salva &Come
+0062 Antepri&ma di Stampa
+0063 Con&figurazione di Stampa
+0064 Stam&pa
+0065 &Esci
+0066 &Modifica
+0067 &Taglia
+0068 &Copia
+0069 &Incolla
+0070 &File
+0071 &Annulla
+0072 &Cancella
+0073 &Trova
+0074 Trova &Prossimo
+0075 Seleziona &Tutto
+0076 &Linea a capo
+0077 &Visualizza
+0078 &Multi-Bibbia
+0079 &Commentari
+0080 &Dizionari
+0081 Ma&ppe
+0082 &Nomi
+0083 &Integra Nomi
+0084 Diario di Preghiera
+0085 Apri
+0086 Cambia Utente
+0087 Note di Traduzione
+0088 Formatta
+0089 Formatta la Data
+0090 Configurazione Pagina
+0091 &Segnalibro
+0092 &Attrezzi
+0093 &Editore di Linguaggio
+0094 Attrezzi - Avanzato
+0095 &Opzioni
+0096 &Re-Indirizzo
+0097 &Test di Integrita'
+0098 Bibbie
+0099 Commentari
+0100 Dizionari
+0101 Nomi
+0102 Tutto
+0103 &Web
+0104 &Forum di Discussione
+0105 &Sito Web
+0106 Sottoscrivi la Mailing List
+0107 Via Web
+0108 Via Email
+0109 Cancella Sottoscrizione alla Mailing List
+0110 Via Web
+0111 Via Email
+0112 Invia Email alla Lista
+0113 Via Browser
+0114 Via Email
+0115 &Aiuto
+0116 &Contenuto
+0117 Mosta Contratto di Licenza 
+0118 &Info su BibleDatabase
+0119 &Mostra Schermata Iniziale
+0120 &Registrati
+0121 Informa di un &Bug...
+0122 Cliccando questo pulsante azzeri la cronologia di tutte le ricerche precedenti
+0123 Azzera
+0124 Per cercare la parola "Amore" digita *Amore* (Non dimenticare la "*" prima e dopo "Amore")
+0125 Seleziona la Bibbia nella quale effettuare la ricerca
+0126 Seleziona il criterio da usare nella ricerca
+0127 Nessun criterio speciale sara' applicato nella ricerca
+0128 Cerca termini in qualsiasi ordine
+0129 Cerca uno qualsiasi di questi termini
+0130 Mostra tutti i versi riguardanti se il termine viene trovato
+0131 Nessuno
+0132 Ignora Ordine
+0133 Qualsiasi Termine
+0134 Intera Selezione
+0135 Criteri Opzionali di Ricerca
+0136 Aggiornamento Attivo
+0137 Ignora Maiuscole
+0138 Se selezionato, potrai vedere L'anteprima del processo in tempo reale
+0139 Se selezionato, Maiuscolo-Minuscolo sara' ignorato
+0140 File
+0141 Salva
+0142 Stampa
+0143 Cambia Utente
+0144 Trova
+0145 Trova
+0146 Trova di nuovo
+0147 Ricerca Totale
+0148 Attrezzi
+0149 Formato della Data
+0150 Password
+0151 Aiuto
+0152 Contenuto
+0153 Annulla
+0154 Salva
+0155 Cancella
+0156 Salva/Esci
+0157 Usa Immagini [Opzionale] per descrivere la tua Attitudine alla Preghiera
+0158 Pannello Sinistro: Testo dell'Aiuto Contestuale; Pannello Centrale: Data Odierna; Pannello Destro: Stato
+0159 Nuova &Password
+0160 Conferma Password
+0161 Stabilisci come Default
+0162 SALVA
+0163 Recupero di Disastro
+0164 Aiuto
+0165 Chiudi
+0166 Finestra dell'Editor di Linguaggio
+0167 Linguaggi Disponibili
+0168 Clicca sotto per MODIFICARE, CAMBIARE COME o CREARE
+
+## Items added on 26 August 2002
+
+0169 Cambia Formato della &Data
+0170 &Aggiorna
+0171 &Cancella
+0172 &Modifica
+0173 &Vai a
+0174 &Aggiungi
+0175 &Chiudi
+0176 Titolo
+0177 Categoria
+0178 Data Aggiunta
+0179 Referenza Biblica
+0180 Nome del File
+0181 DEFAULT
+0182 POSIZIONE
+0183 CHIUDI
+0184 AGGIORNA
+0185 CHIUDI
+0186 #
+0187 Ref (sempre in Inglese)
+0188 Nome del Libro (tuo linguaggio)
+0189 Abbreviazione
+0190 Libro da Modificare: %
+0191 Clicca due volte nella colonna "%" del Libro per Modificare.
+0192 Nuovo NOME LUNGO per"%".
+0193 Modifica Nome Lungo
+0194 Nuovo NOME CORTO per "%".
+0195 Modifica Nome Corto
+0196 POSIZIONE
+0197 AIUTO
+0198 Per ora Chiudi
+0199 &Modo Debug
+
+##### Items added after January-2003
+0200 &Ricerca Avanzata
+0201 &Mailing List
+0202 Fines&tra
+0203 Bibbie C&HM 
+0204 Bibbie MP&3 
+0205 Formattazione &Pratica
+0206 Scegli &Font 

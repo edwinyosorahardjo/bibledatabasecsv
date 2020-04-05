@@ -1,0 +1,72 @@
+1	Gen	Geneza
+2	Exod	Exod
+3	Lev	Levitic
+4	Num	Numeri
+5	Deut	Deuteronom
+6	Iosua	Iosua
+7	Jud	Judecatori
+8	Rut	Rut
+9	1Sam	1 Samuel
+10	2Sam	2 Samuel
+11	1Imp	1 Imparati
+12	2Imp	2 Imparati
+13	1Cron	1 Cronici
+14	2Cron	2 Cronici
+15	Ezra	Ezra
+16	Neem	Neemia
+17	Estera	Estera
+18	Iov	Iov
+19	Ps	Psalmii
+20	Prov	Proverbele lui Solomon
+21	Ecles	Eclesiastul
+22	Cant	Cantarea cantarilor
+23	Is	Isaia
+24	Ier	Ieremia
+25	Plang	Plangerile lui Ieremia
+26	Ezec	Ezechiel
+27	Dan	Daniel
+28	Osea	Osea
+29	Ioel	Ioel
+30	Amos	Amos
+31	Obad	Obadia
+32	Iona	Iona
+33	Mica	Mica
+34	Naum	Naum
+35	Hab	Habacuc
+36	Tef	Tefania
+37	Hag	Hagai
+38	Zah	Zaharia
+39	Mal	Maleahi
+40	Matei	Matei
+41	Marcu	Marcu
+42	Luca	Luca
+43	Ioan	Ioan
+44	Fapte	Faptele apostolilor
+45	Rom	Romani
+46	1Cor	1 Corinteni
+47	2Cor	2 Corinteni
+48	Gal	Galatians
+49	Efes	Ehesians
+50	Fil	Filipeni
+51	col	Coloseni
+52	1Tes	1 Tesaloniceni
+53	2Tes	2 Tesaloniceni
+54	1Tim	1 Timotei
+55	2Tim	2 Timotei
+56	Tit	Tit
+57	Fil	Filimon
+58	Evr	Evrei
+59	Iac	Iacov
+60	1Pet	1 Petru
+61	2Pet	2 Petru
+62	1Ioan	1 Ioan
+63	2Ioan	2 Ioan
+64	3Ioan	3 Ioan
+65	Iuda	Iuda
+66	Apoc	Apocalipsa
+67	Moise	Moise (Cartile lui)
+68	VT	Vechiul Testament
+69	NT	Noul Testament
+70	Ev	Evanghelii
+71	Sinopt	Evanghelile Sinoptice
+72	TOT	Toata Biblia

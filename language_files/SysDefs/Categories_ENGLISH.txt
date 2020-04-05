@@ -1,0 +1,19 @@
+#--------------------------------------------------------------------
+# FILE: Categories_ENGLISH.txt
+#--------------------------------------------------------------------
+# This file provides internationalized names for the different 
+#    categories listed in Categories.txt.
+#--------------------------------------------------------------------
+# Note that comments start with "#"
+#--------------------------------------------------------------------
+# Format:
+#       ID, Long Name, Short Name
+#--------------------------------------------------------------------
+0, Whole Bible,    Bible     # All Books of the Bible
+1, Old Testament,  OT        # Old Testament
+2, Books of Moses, The Law   # Books of Moses (the books of the law)
+3, Writings,       Writings  # The Writings (the history books, poetry, widsom books)
+4, Prophets,       Prophets  # The Prophets
+5, New Testament,  NT        # The whole New Testament
+6, Gospels,        Gospels   # The Gospels
+7, Letters,        Letters   # The Letters (i.e. the Epistles)

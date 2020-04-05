@@ -1,0 +1,92 @@
+1,1,"Darby English Bible","b_darby",0
+2,1,"World English Bible","b_web",0
+3,1,"Bulgarian Bible UTF8","b_bulgarian_utf8",65001
+4,1,"Chinese Union Traditional UTF8","b_chinese_union_trad_utf8",65001
+5,1,"Greek New Testament","b_gk",0
+6,1,"Greek NT (Stephanos-1550) ","b_greeknt_1550",0
+7,1,"Greek NT (Scrivener-1894)","b_greeknt_1894",0
+8,1,"Greek NT (Nestle-Aland 26th)","b_greeknt_ubs3",0
+9,1,"Hebrew Transliteration","b_hebrew_translit",0
+10,1,"Jewish Publication Society 1917 OT","b_jps",0
+11,1,"King James Version","b_kjv",0
+12,1,"Korean Bible","b_korean",949
+13,1,"Modern Greek","b_modern_greek",0
+14,1,"Modern Greek UTF8","b_modern_greek_utf8",65001
+15,1,"Greek OT (Septuagint/LXX)","b_septuagint",0
+16,1,"KJV Thai Bible","b_thai",874
+17,1,"Ukrainian Bible UTF8","b_ukrainian_utf8",65001
+18,1,"Vietnamese Bible","b_vietnamese",0
+19,1,"Latin Vulgate","b_vul",0
+20,1,"Westcott-Hort New Testament","b_wh",0
+21,1,"Youngs Literal Translation","b_ylt",0
+22,1,"Wycliffe New Testament","b_wycliffe_nt",0
+23,1,"Afrikaans","b_afrikaans",0
+24,1,"Albanian Bible","b_albanian",0
+25,1,"Albanian Bible UTF8","b_albanian_utf8",65001
+26,1,"American Standard-ASV1901","b_asv1901",0
+27,1,"King James Version #2","b_av",0
+28,1,"Bible in Basic English","b_bbe",0
+29,1,"Bulgarian Bible","b_bulgarian",1251
+30,1,"Cebuano Bible","b_cebuano",0
+31,1,"Chinese Union Version (Big5)","b_chinese_union_b5",950
+32,1,"Chinese Union GB Encoding","b_chinese_union_gb",936
+33,1,"Croatian Bible","b_croatian",0
+34,1,"Danish Bible","b_dansk33",0
+35,1,"Norwegian (Bibelselskapets utgave 1930)","b_dnb30",0
+36,1,"Douay-Rehims","b_douay_rheims",0
+37,1,"Hollands Statenvertaling","b_dutch",0
+38,1,"Hollands (Dutch LEI)","b_dutch_lei",0
+39,1,"Finnish 1938","b_finnish1938",0
+40,1,"French Darby","b_french_darby",0
+41,1,"French - Louis Segond","b_french_ls",0
+42,1,"Deutsch (German Elberfelder)","b_german",0
+43,1,"Greek NT (Stephanos-1550) UTF-8","b_greeknt_1550_utf8",65001
+44,1,"Greek NT (Scrivener-1894) UTF8","b_greeknt_1894_utf8",65001
+45,1,"Greek NT (Nestle-Aland) UTF8","b_greeknt_ubs3_utf8",65001
+46,1,"Wescott-Hort NT 2","b_greeknt_wh",0
+47,1,"Greek Wescott-Hort NT UTF8","b_greeknt_wh_utf8",65001
+48,1,"Haitian Creole","b_haitian_creole",0
+49,1,"Hungarian Bible","b_hungarian",0
+50,1,"Hungarian Bible UTF8","b_hungarian_utf8",65001
+51,1,"Indonesian (Bahasa Indonesia Sehari-hari)","b_indonesian_bahasa",0
+52,1,"Indonesian (Terjemahan Baru)","b_indonesian_baru",0
+53,1,"Indonesian (Terjemahan Lama)","b_indonesian_lama",0
+54,1,"Italian Bible","b_italian",0
+55,1,"Jerusalem Bible","b_jerusalem",0
+56,1,"Latvian New Testament","b_latvian_nt",0
+57,1,"German Luther","b_luther",0
+58,1,"Manx Gaelic (Portions)","b_manx_gaelic",0
+59,1,"Maori","b_maori",0
+60,1,"NASB New American Standard","b_nasb",0
+61,1,"Net Bible","b_NETBible",0
+62,1,"New International Version","b_niv",0
+63,1,"NKJV New King James","b_nkjv",0
+64,1,"New Living Translation","b_nlt",0
+65,1,"New Revised Standard Version","b_nrsv",0
+66,1,"Polish Bible","b_polish",0
+67,1,"Portuguese Bible","b_portuguese",0
+68,1,"Revised Standard Version-RSV","b_rsv",0
+69,1,"Rumanian Bible","b_rumanian",0
+70,1,"Russian Version (KOI8-R Encoding)","b_russian_koi8r",20866
+71,1,"Español Reina Valera 1909","b_rv1909",0
+72,1,"Gaelic Gospel of Mark","b_scots_gaelic",0
+73,1,"Greek OT (Septuagint/LXX) UTF8","b_septuagint_utf8",65001
+74,1,"Shuar New Testament","b_shuar_nt",0
+75,1,"Español Reina Valera","b_spanish",0
+76,1,"Español - (Spanish Modern)","b_spanish_mod",0
+77,1,"Español Sagradas Escrituras","b_spanish_sev",0
+78,1,"Swedish Bible","b_sv17",0
+79,1,"Swahili New Testament","b_swahili_nt",0
+80,1,"Tamil Bible","b_tamil",0
+81,1,"Ukrainian Bible","b_ukrainian",0
+82,1,"Uma New Testament","b_uma_nt",0
+83,1,"Webster's Bible","b_webster",0
+84,1,"Weymouth New Testament","b_weymouth_nt",0
+85,1,"Wycliffe Complete Bible","b_wycliffe",0
+86,1,"Serbian Bible","b_serbian",0
+1000,1,"Personal Study Notes","s_notes",0
+1500,1,"Bible Names (meaning of)","b_names",0
+1600,1,"Eastons Bible Dictionary","b_eastons",0
+1700,1,"Peoples New Testament","b_pnt",0
+1701,1,"Matthew Henry","b_mh",0
+1702,1,"John Wesley's Bible Notes","b_wesley",0

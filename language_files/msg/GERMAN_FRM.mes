@@ -1,0 +1,229 @@
+# BibleDatabase language file                ####
+# Language: German                           ####
+# Date: Monday 07 October2002                ####
+# Version: Original Distribution 1.0.1       ####
+# BibleDatabase Ver 4.0.0                    ####
+#################################################
+
+#################################################
+######### TRANSLATION INFORMATION  ##############
+#################################################
+# Translated by: Stefan Ploch                   #
+# Contact email: stefan_ploch@hotmail.com       #
+# Translation Date: 20 Oct 02                   #
+# Comments: Version 1.0                         #
+#################################################
+##     INSTRUCTIONS READ CAREFULLY!!       ######
+#################################################
+#1. EACH LINE OF TEXT MUST BE ON A NEW LINE     #
+#2. ALL Lines must end with CRLF (not just LF!) #
+#3. Any line beginning with a # is ignored.     #
+#4. Blak Lines are ignored                      #
+#5. ^^ inserts a new line (CRLF)                #
+#6. %  Software will insert text here           #
+#7. & use this (Menu Items only) to underline   #
+# the character immediately after the "&"       #
+#################################################
+
+0001 Namen, die in der Bibel vorkommen
+0002 Bibelkommentar
+0003 Gebetstagebuch. Eingeloggt als: "%"
+0004 Von "%" wechseln
+0005 OPTIONALES Paßwort für "%"
+0006 Biblische Landkarten %
+0007 Voransicht drucken - %
+0008 KEINE GÜLTIGE BIBEL GEFUNDEN!! - %
+0009 HINZUFÜGEN
+0010 HINZUFÜGEN: NEUE(N/S)
+0011 Idenditäten % managen
+0012 Von "%" wechseln
+0013 Sprachbearbeitung/-auswahl. %
+0014 Lesezeichen hinzufügen
+0015 Lesezeichen bearbeiten
+0016 MP3-Spieler
+0017 Unbenannt.RTF
+0018 Von "%" wechseln
+0019 Seiteneinstellungen %
+0020 (Multi-Bibel) Kapitel/Vers - %
+0021 Über %
+0022 % Lizensvereinbarung
+0023 Optionen einstellen - %
+0024 Defaults (Normale Vorgabe) - %
+0025 Wörterbücher - %
+0026 Geben Sie bitte das Paßwort für "%" ein
+0027 Datei öffnen
+0028 Datei sichern
+0029 Drucken
+0030 Ausschneiden
+0031 Kopieren
+0032 Einfügen
+0033 Rückgängig machen
+0034 Löschen
+0035 Suchen
+0036 Nächsten Eintrag suchen
+0037 Vordergrundfarbe
+0038 Hintergrundfarbe
+0039 Fett
+0040 Kursiv
+0041 Unterstreichen
+0042 Linksbündig (ALT L)
+0043 Zentrieren (ALT C)
+0044 Rechtsbündig (ALT R)
+0045 Weniger einrücken (ALT S)
+0046 Weiter einrücken (ALT D)
+0047 Unterpunkt (Bullet) hinzufügen (ALT O)
+0048 Multi-Bibel
+0049 Bibelwörterbücher
+0050 Bibelkommentare
+0051 Biblische Namen
+0052 Gebetstagebuch
+0053 Hilfe
+0054 "CHM"-Bibeln (im Microsoft Help-Format kompiliert)
+0055 "MP3"-(Audio-)Bibeln
+0056 Klicken Sie diesen Knopf, um die Bibel zu durchsuchen
+0057 Hier klicken, damit BibleDatabase die Suche abbricht
+0058 &Neu
+0059 Õ&ffnen
+0060 &Sichern
+0061 Sichern &Als
+0062 &Voransicht drucken
+0063 Vor&einstellungen drucken
+0064 &Drucken
+0065 E&xit
+0066 &Bearbeiten
+0067 Aussch&neiden
+0068 &Kopieren
+0069 &Ein&fügen
+0070 &Datei
+0071 &Rückgängig machen
+0072 &Löschen
+0073 S&uchen
+0074 Nä&chsten Eintrag suchen
+0075 &Alles auswählen
+0076 &Zeilenumbruch
+0077 &Ansicht
+0078 &Multi-Bibel
+0079 &Kommentare
+0080 &Wörterbücher
+0081 &Landkarten
+0082 &Namen
+0083 Namen &integrieren
+0084 &Gebetstagebuch
+0085 Õ&ffnen
+0086 &Identität wechseln
+0087 Ü&bersetzungsnotitzen
+0088 &Format
+0089 Datumsformat
+0090 &Seiteneinstellungen
+0091 &Lesezeichen
+0092 &Tools (Hilfsmittel)
+0093 &Sprachauswahl
+0094 &Ordnertool - Fortgeschritten
+0095 &Einstellungen
+0096 &Neuen Index herstellen
+0097 &Integritätsüberprüfung
+0098 &Bibeln
+0099 &Kommentare
+0100 &Wörterbücher
+0101 &Namen
+0102 &Alles
+0103 &Web
+0104 &Diskussionsforum
+0105 &Webseite
+0106 &Mailingliste abonnieren
+0107 Übers &Web
+0108 Über &Email
+0109 Mailinglisten-Abonnement &kündigen
+0110 Übers &Web
+0111 Über &Email
+0112 &Email an Liste schicken
+0113 Über einen &Internetbrowser
+0114 Über &Email
+0115 &Hilfe
+0116 &Inhalt
+0117 &Lizensvereinbarung
+0118 Über &BibleDatabase
+0119 &Anfangsbildschirm zeigen
+0120 &Registrieren
+0121 Einen &Fehler melden
+0122 Durch Klicken dieses Knopfes wird der Verlauf aller vorherigen Suchen gelöscht.
+0123 Löschen
+0124 Um nach "Liebe" zu suchen, tippen Sie *Liebe*. (Vergessen Sie nicht das "*"-Zeichen vor und nach "Liebe".)
+0125 Wählen Sie die Bibel aus, in der Sie suchen wollen.
+0126 Wählen Sie die Kriterien aus, die Sie für Ihre Suche verwenden wollen.
+0127 Es werden keine besonderen Kriterien für die Suche verwendet werden.
+0128 Suchbegriffe können in jedweder Reihenfolge vorkommen.
+0129 Nach irgendeinem der Begriffe suchen
+0130 Alle Verse aufzeigen, unabhängig davon, ob die Begriffe gefunden wurden
+0131 Keine
+0132 Reihenflg. ignor.
+0133 Irgendein Begriff
+0134 Gesamte Auswahl
+0135 Zusätzliche Suchkriterien
+0136 Aktives Update
+0137 Großschreib. ignor.
+0138 Falls angekreuzt, findet das Anzeigen der Treffer in Echtzeit (real time) statt.
+0139 Falls angekreuzt, wird die Groß- und Kleinschreibung ignoriert.
+0140 Datei
+0141 Sichern
+0142 Drucken
+0143 Identität wechseln
+0144 Suchen
+0145 Suchen
+0146 Nochmals suchen
+0147 Spezialsuche
+0148 Tools (Hilfsmittel)
+0149 Datumsformat
+0150 Paßwort
+0151 Hilfe
+0152 Inhalt
+0153 Verwerfen
+0154 Sichern
+0155 Löschen
+0156 Sichern/Exit
+0157 Zur Verwendung zusätzlicher Bilder, um Ihre innerliche Einstellung zum jeweiligen Gebet zu beschreiben
+0158 Linke Ebene: Tooltiptext; Mittlere Ebene: Heutiges Datum; Rechte Ebene: Status
+0159 Neues &Paßwort
+0160 Paßwort bestätigen
+0161 Als Vorgabe
+0162 SICHERN
+0163 Alten Zustand wiederherstellen
+0164 Hilfe
+0165 Schliessen
+0166 Sprachbearbeitungsfenster
+0167 Zur Verfügung stehende Sprachen
+0168 Klicken, um zu BEARBEITEN, zu WECHSELN oder HERZUSTELLEN
+
+## Items added on 26 August 2002
+
+0169 &Datum
+0170 Update
+0171 Löschen
+0172 Bearbeiten
+0173 Gehe zu
+0174 Hinzufügen
+0175 Schliessen
+0176 Titel
+0177 Kategorie
+0178 Hinzufügungsdatum
+0179 Bibelstelle
+0180 Dateiname
+0181 VORGABE
+0182 SUCHEN
+0183 SCHLIESSEN
+0184 UPDATE
+0185 SCHLIESSEN
+0186 #
+0187 Ref (immer auf Englisch)
+0188 Buchname (in Ihrer Sprache)
+0189 Abkürzung
+0190 Zu bearbeitendes Buch: %
+0191 "Das Buch in der "%"-Spalte doppelklicken, um es zu bearbeiten.
+0192 Neuer LANGER NAME für "%".
+0193 Langen Namen bearbeiten
+0194 Neuer KURZER NAME für "%".
+0195 Kurzen Namen bearbeiten
+0196 SUCHEN
+0197 HILFE
+0198 Fürs weitere schließen
+0199 &Debug-Modus

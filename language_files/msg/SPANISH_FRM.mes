@@ -1,0 +1,229 @@
+# BibleDatabase language file                ####
+# Language: Español                          ####
+# Date: Monday 26 August 2002                ####
+# Version: Original Distribution 1.0.1       ####
+# BibleDatabase Ver 4.0.0                    ####
+#################################################
+
+#################################################
+######### TRANSLATION INFORMATION  ##############
+#################################################
+# Translated by: notasbiblicas                  #
+# Contact email: webmaster@notasbiblicas.com    #
+# Translation Date: 18 Diciembre 2002           #
+# Comments: http://www.notasbiblicas.com        #
+#################################################
+##     INSTRUCTIONS READ CAREFULLY!!       ######
+#################################################
+#1. EACH LINE OF TEXT MUST BE ON A NEW LINE     #
+#2. ALL Lines must end with CRLF (not just LF!) #
+#3. Any line beginning with a # is ignored.     #
+#4. Blank Lines are ignored                     #
+#5. ^^ inserts a new line (CRLF)                #
+#6. %  Software will insert text here           #
+#7. & use this (Menu Items only) to underline   #
+# the character immediately after the "&"       #
+#################################################
+
+0001 Nombres usados en la Biblia
+0002 Comentarios de la Biblia
+0003 Diario de Oración.^^Sesión iniciada como: "%"
+0004 Cambiar de "%"
+0005 Contraseña OPCIONAL para: "%"
+0006 Mapas Bíblicos %
+0007 Vista Preliminar - %
+0008 NO SE ENCONTRO NINGUNA BIBLIA - %
+0009 AGREGAR
+0010 Agregar NUEVO
+0011 Adminstrar Identidades %
+0012 Cambiar de: "%"
+0013 Editor/Selector de Lenguajes %
+0014 Agregar Marcador
+0015 Modificar Marcador
+0016 Reproductor MP3
+0017 Sin titulo.RTF
+0018 Cambiar de "%"
+0019 Configuración de Página %
+0020 (Multi-Biblia) Capitulo/Versiculo - %
+0021 Acerca de %
+0022 % Acuerdo de Licencia
+0023 Opciones - %
+0024 Predeterminadas - %
+0025 Diccionarios - %
+0026 Por favor escriba la contraseña para: "%"
+0027 Abrir Archivo
+0028 Guardar Archivo
+0029 Imprimir
+0030 Cortar
+0031 Copiar
+0032 Pegar
+0033 Deshacer
+0034 Borrar
+0035 Buscar
+0036 Buscar siguiente
+0037 Color de texto
+0038 Color de fondo
+0039 Obscurecidas
+0040 Italicas
+0041 Subrayada
+0042 Justificar a la Izquierda (ALT L)
+0043 Justificar al Centro (ALT C)
+0044 Justificar a la Derecha (ALT R)
+0045 Indentar menos (ALT S)
+0046 Indentar mas (ALT D)
+0047 Agregar Listado (ALT O)
+0048 Multi-Bibla
+0049 Diccionarios Bíblicos
+0050 Comentarios Bíblicos
+0051 Nombres Bíblicos
+0052 Diario de Oración
+0053 Ayuda
+0054 Biblia "CHM" (Creada en Formato de Ayuda de Microsoft)
+0055 Biblia en Audio ("MP3")
+0056 Aprieta este boton para buscar en la Biblia
+0057 Aprieta para detener la búsqueda
+0058 &Nuevo
+0059 &Abrir
+0060 &Guardar
+0061 Guardar &Como
+0062 &Vista Preliminar
+0063 &Configurar Impresora
+0064 &Imprimir
+0065 &Salir
+0066 &Editar
+0067 Cor&tar
+0068 C&opiar
+0069 &Pegar
+0070 &Archivo
+0071 &Deshacer
+0072 &Borrar
+0073 &Encontrar
+0074 Encontrar &Proxima
+0075 Seleccionar &todas
+0076 &Wrap
+0077 &Ver
+0078 MultiBiblia
+0079 Comentarios
+0080 Diccionarios
+0081 Mapas
+0082 Nombres
+0083 Integrar Nombres
+0084 &Diario de Oración
+0085 Abrir
+0086 Cambiar Identidad
+0087 Notas de Traducción
+0088 Formato
+0089 Formato de la Fecha
+0090 Configurar Página
+0091 Marcador
+0092 Herramientas
+0093 Editor de Lenguaje
+0094 Herramienta de Carpetas - Avanzado
+0095 Opciones
+0096 Rehacer Indice
+0097 Verificar Integridad
+0098 Biblias
+0099 Comentarios
+0100 Diccionarios
+0101 Nombres
+0102 Todo
+0103 Web
+0104 Foro de Discusion
+0105 Sitio Web
+0106 Suscribirse a Lista de Correo
+0107 Via Internet
+0108 Via Email
+0109 Quitar suscripción de Lista de Correo
+0110 Via Internet
+0111 Via email
+0112 Enviar Email a la lista
+0113 Via Navegador
+0114 Via Email
+0115 Ayuda
+0116 Contenido
+0117 Acuerdo de Licencia
+0118 Acerca de
+0119 Ver Splash Screen
+0120 Registrar
+0121 Reportar un Error
+0122 Al dar click en el botón se borrara el historial de todas la búsquedas pasadas
+0123 Borrar
+0124 Para buscar por "Amor", escribe *amor* (No olvide "*" antes y despues de "amor")
+0125 Seleccione la Biblia en la que quiere buscar
+0126 Seleccione los parametros de búsqueda
+0127 Ningun parametro especial se aplicará a esta búsqueda
+0128 Las palabras de búsqueda pueden estar en cualquier orden
+0129 Busca por Cualquier de los terminos
+0130 Mostrar versos sin importar que los terminos no fueran encontrados
+0131 Ninguna
+0132 Ignorar Orden
+0133 Cualquier Termino
+0134 Selección Entera
+0135 Parametros de Búsqueda Opcional
+0136 Activar Actualización
+0137 Ignorar Capitalización
+0138 Si esta marcada, se vera el  ?proceso en tiempo real
+0139 Si esta marcada, se ignorara el tipo de letra, mayusculas o minusculas
+0140 Archivo
+0141 Guardar
+0142 Imprimir
+0143 Cambiar Identidad
+0144 Encontrar
+0145 Encontrar
+0146 Encontrar de Nuevo
+0147 Búsqueda Avanzada
+0148 Herramientas
+0149 Formato de la Fecha
+0150 Contraseña
+0151 Ayuda
+0152 Contenido
+0153 Borrar
+0154 Guardar
+0155 Borrar
+0156 Guardar/Salir
+0157 Utiliza Graficos [Opcional] para mostrar tu actitud de oración
+0158 Panel Izquierdo: Texto de ayuda; Panel del Centro; Fecha de hoy; Panel Derecho: Estado
+0159 Nueva &Contraseña
+0160 Confirmar Contraseña
+0161 Guardar como preseterminado
+0162 GUARDAR
+0163 Recuperar
+0164 Ayuda
+0165 Cerrar
+0166 Ventana del Editor de Lenguaje
+0167 Lenguajes Disponibles
+0168 Aprieta para editar, cambiar ó crear
+
+## Agregado el 26 de Agosto 2002
+
+0169 Fecha
+0170 Actualizar
+0171 Borrar
+0172 Editar
+0173 Ir A
+0174 Agrega
+0175 Cerrar
+0176 Titulo
+0177 Categoria
+0178 Fecha en que fue agregado
+0179 Referencia Bíblica
+0180 Nombre de Archivo
+0181 PREDETERMINADO 
+0182 LOCALIZAR
+0183 CERRAR
+0184 ACTUALIZAR
+0185 CERRAR
+0186 #
+0187 Ref (siempre en Ingles)
+0188 Nombre del Libro (TU lenguaje)
+0189 Abreviación
+0190 Libro a Modificar: %
+0191 "Apriete doble el Libro en la "%" columna para Modificar.
+0192 NOMBRE EXTENSO nuevo para "%".
+0193 Modificar NOMBRE EXTENSO
+0194 NOMBRE CORTO nuevo para "%".
+0195 Modificar Nombre Corto
+0196 LOCALIZAR
+0197 AYUDA
+0198 Cierre por ahora
+0199 Modo de Prueba Debug

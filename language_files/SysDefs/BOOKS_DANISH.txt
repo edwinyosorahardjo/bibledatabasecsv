@@ -1,0 +1,72 @@
+1	1Mosebog	1 Mosebog
+2	2Mosebog	2 Mosebog
+3	3Mosebog	3 Mosebog
+4	4Mosebog	4 Mosebog
+5	5Mosebog	5 Mosebog
+6	Josua	Josua
+7	Dommer	Dommer
+8	Rut	Rut
+9	1Samuel	1 Samuel
+10	2Samuel	2 Samuel
+11	Første Kongebog	Første Kongebog
+12	Anden Kongebog	Anden Kongebog
+13	Første Krønikebog	Første Krønikebog
+14	Anden Krønikebog	Anden Krønikebog
+15	Ezra	Ezra
+16	Nehemias	Nehemias
+17	Ester	Ester
+18	Job	Job
+19	Salme	Salme
+20	Ordsprogene	Ordsprogene
+21	Prædikeren	Prædikeren
+22	Højsangen	Højsangen
+23	Esajas	Esajas
+24	Jeremias	Jeremias
+25	Klagesangene	Klagesangene
+26	Ezekiel	Ezekiel
+27	Daniel	Daniel
+28	Hoseas	Hoseas
+29	Joel	Joel
+30	Amos	Amos
+31	Obadias	Obadias
+32	Jonas	Jonas
+33	Mikas	Mikas
+34	Nahum	Nahum
+35	Habakkuk	Habakkuk
+36	Zefanias	Zefanias
+37	Haggaj	Haggaj
+38	Zakarias	Zakarias
+39	Malakias	Malakias
+40	Matthæus	Matthæus
+41	Markus	Markus
+42	Lukas	Lukas
+43	Johannes	Johannes
+44	Apostelenes gerninger	Apostelenes gerninger
+45	Romerne	Romerne
+46	1Korinterne	1 Korinterne
+47	2Korinterne	2 Korinterne
+48	Galaterne	Galaterne
+49	Efeserne	Efeserne
+50	Filipperne	Filipperne
+51	Kolossensern	Kolossensern
+52	1Tessalonikerne	1 Tessalonikerne
+53	2Tessalonikerne	2 Tessalonikerne
+54	1Timoteus	1 Timoteus
+55	2Timoteus	2 Timoteus
+56	Titus	Titus
+57	Filemon	Filemon
+58	Hebræerne	Hebræerne
+59	Jakob	Jakob
+60	1Peter	1 Peter
+61	2Peter	2 Peter
+62	1Johannes	1 Johannes
+63	2Johannes	2 Johannes
+64	3Johannes	3 Johannes
+65	Judas	Judas
+66	Aabenbaringen	Aabenbaringen
+67	moses	Moses (Books of)
+68	OT	Old Testament
+69	NT	New Testament
+70	Gos	Gospels
+71	Synopt	Synoptic Gospels
+72	Whole	ALL

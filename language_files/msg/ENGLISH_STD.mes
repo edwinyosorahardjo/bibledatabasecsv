@@ -1,0 +1,146 @@
+# BibleDatabase language file                ####
+# Language: English                          ####
+# Date: Monday 26 August 2002                ####
+# Version: Original Distribution 1.0.1       ####
+# BibleDatabase Ver 4.0.0                    ####
+#################################################
+
+#################################################
+######### TRANSLATION INFORMATION  ##############
+#################################################
+# Translated by:                                #
+# Contact email:                                #
+# Translation Date:                             #
+# Comments:                                     #
+#################################################
+##     INSTRUCTIONS READ CAREFULLY!!       ######
+#################################################
+#1. EACH LINE OF TEXT MUST BE ON A NEW LINE     #
+#2. ALL Lines must end with CRLF (not just LF!) #
+#3. Any line beginning with a # is ignored.     #
+#4. Blank Lines are ignored                     #
+#5. ^^ inserts a new line (CRLF)                #
+#6. %  Software will insert text here           #
+#7. & use this (Menu Items only) to underline   #
+# the character immediately after the "&"       #
+#################################################
+
+0001 No names found on system.^^Please download latest version from^^%
+0002 You do not have a valid Commentary installed.^^Please visit %^^to download one.
+0003 You must have a Dictionary installed to use it. ^^Download one from the %.
+0004 Duplicate Entry not allowed.
+0005 No Bookmark Selected.
+0006 Delete %?
+0007 New Date format is: %. ^^Changes will be effective next time you run the program.
+0008 System Information Is Unavailable At This Time.
+0009 Success! A Bible was found.^^% will now close. ^^Run it again and everything should be now be OK.
+0010 There were NO Bibles in this folder.^^Are you sure you have AT LEAST ONE INSTALLED?^^Please try again.
+0011 Drive not ready.^^Please insert a disk in the drive.
+0012 Error occurred in sizing images. Cannot continue
+0013 Cannot proceed with minimized screen
+0014 You don't appear to have any Bibles installed^^Do you want to download some now?
+0015 No state to report.
+0016 Looking up the IP address of BibleDatabase.
+0017 Success. Website found.
+0018 Connecting. Please stand by..
+0019 Success! Connected.
+0020 Sending request for data..
+0021 Request successfully sent
+0022 Incoming response from BibleDatabase..
+0023 Success! URL File received
+0024 Disconnecting. Please stand by..
+0025 Disconnected.
+0026 An error occurred. Please check your Internet connection.
+0027 Success! File received OK.
+0028 If you have somehow messed it all up this will restore the English Book Names.^^Do you want to Proceed?
+0029 No action taken.
+0030 English REFERENCE (BOOKS_ENGLISH)^^will be used as the default.
+0031 Please select a language first.
+0032 % set as Default.
+0033 "%" Exists.^^Do you want to replace it?
+0034 "%" Saved.
+0035 Quit without Saving?^^Are you sure?
+0036 Discard Changes?
+0037 Illegal Character.^^ You cannot use "%".
+0038 Language Already exists!^^There is already a language file defined as^^"%".
+0039 First Select a language.
+0040 NAME of Language file to create e.g. 'German'. NB Only Characters "A" to "Z". NO SPACES allowed.
+0041 You don't appear have any ".CHM" Bibles installed.^^Would you want like to download some now?
+0042 Double click on a name in the^^window below to display it's meaning
+0043 Are You sure?
+0044 Document has changed.^^Are you sure you want to exit?
+0045 File Already Exists. Click YES to overwrite^^No to Choose another name or Cancel to abort.
+0046 "%" has changed.^^Do you want to save this file?
+0047 "%" .. ^^file not found.
+0048 Invalid file format.
+0049 All Index files deleted in^^"%"^^These will be recreated automatically on an as required basis.
+0050 No more matches found.
+0051 Document has changed.^^Do you wish to save it?
+0052 Intruder Detected. Access denied.
+0053 Incorrect password!^^Do you wish to try Again?
+0054 Your default email client will now open with a New Email.^^Simply click "Send" to subscribe. You will receive a confirmation Email^^which you should keep somewhere safe. Thank you for subscribing.^^You can send mail anytime to the Mailing list by addressing your mail to:^^"%"^^You can Unsubscribe any time you want,^^simply select "Unsubscribe".
+0055 Do you REALLY want to do this?^^We would really like you to stay :-)
+0056 Whew! We thought you were going to leave us.^^Thanks for staying!
+0057 You must be Subscribed or your message will not get through.^^Do you wish to continue?^^See Help file if in doubt.
+0058 Meaning of the name "%"
+0059 NOTE. PLEASE READ this message carefully.^^Before you proceed, please make sure you have^^DOWNLOADED AND INSTALLED AT LEAST ONE BIBLE.^^% will NOT work until you have AT LEAST one Bible installed^^Do you wish to proceed?
+0060 ^^You have no Bibles installed at this time.^^THIS IS QUITE NORMAL, AND THERE IS NO NEED TO PANIC.^^BIBLES NEED TO BE DOWNLOADED AND INSTALLED SEPERATELY.^^For % to function, AT LEAST ONE Bible must be installed.^^Click on Link below to go to our website to get as many as you like^^WE HAVE OVER 75! EVERYTHING IS FREE!!
+0061 Password Cleared.
+0062 All files will be encrypted with this password: "%"^^DON'T forget it or you will not be able to access Prayer Diary again!
+0063 Passwords do not match or password length^^is too short (minimum 5 characters).^^Please try again!
+0064 Select Name to delete by Clicking it.
+0065 Delete user "%"^^Are You sure?
+0066 You cannot delete default user.
+0067 Select Name to change by Clicking it.
+0068 Error. Nothing selected.^^Select a User Name from List.
+0069 Sorry.^^Wrong password.^^You will have to try again.
+0070 Switched to "%".
+0071 Error.^^This Name already exists.
+0072 Sorry.^^User Name must be between 2 and 30 Characters.
+0073 Invalid characters in string.^^Valid characters are^^"A" to "Z" and "a" to "z" only.
+0074 Prayer Diary. Logged on as: "%" 
+0075 "%" is a SCREEN font only.^^The Default font will be used should you require PRINTING.
+0076 Invalid use of Null.
+0077 Delete entry for "%"^^Are You sure?
+0078 Entry for "%" has changed.^^Save changes?"
+0079 An entry already exists for "%"^^Do you wish to overwrite?
+0080 There were no more matches found.
+0081 % registered.^^Thank you.
+0082 Registration Code Does Not match.^^Please try again.
+0083 No files match date range.^^Please try again.
+0084 You cannot Disable the ONLY installed Bible.^^If you did BibleDatabaase would not be able to work.^^To disable this Bible^^first enable some other Bible^^then come back to this one to disable it.
+0085 The value you have entered is too large.^^Maximum is "%"
+0086 The value you have entered is too small.^^Minimum is "%"
+0087 First Enable this Bible!
+0088 All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness.
+0089 Registered to:^^Nobody yet
+0090 Registered to: %
+0091 Software Version %
+0092 For further information on available plugins, visit the % website at
+0093 BibleDatabase^^Available for free at www.BibleDatabase.org
+0094 Registered to: You.
+0095 Registered to: %
+0096 Version %
+0097 Either the folder^^"%"^^does not exist or the file^^
+0098 "%" does not exist in this folder.^^Please correct and try again.
+0099 BibleDatabase is Copyright (c) 2003 by Brent Mauer and Chris Fraley.  You may copy and distribute this software as described in the accompanying license.  This software is not to be sold, resold, or distributed for a fee.
+
+##### New messages added since August 26 2002
+
+0100 REMOVED - You have changed the language settings of BibleDatabase to "%".^^BibleDatabase must close to initialize the new language settings.
+0101 BibleDatabase currently does not have a language file for "%".^^The Default language will be used.^^Please check the website for a language pack update.
+0102 Your MODULE path is currently set to
+0103 Normally the default is
+0104 Click DEFAULT to set it to the default or LOCATE to find it yourself. NOTE: Only use LOCATE if you KNOW where the MODULE folder is or if you initially installed BibleDatabase to a folder other than the default.
+0105 REMOVED - Debug Mode is off.^^Please close BibleDatabase and open^^again to make the Debug numbers dissappear.
+0106 REMOVED - Debug mode is on.^^All messages will be displayed^^preceded by the message number.^^^^If you are a translator,^^we hope this will assist you :-)^^^^(NOTE: Messages will be truncated to 70^^percent of their normal length in order^^to fit them into the text boxes).                                                                                                                     .
+
+##### New messages added since January-2003
+
+# Singular of Psalms, used to preface a single Psalm:
+0107 Psalm
+0108 BibleDatabase cannot find the file "%".^^Please re-install Bible Database to fix this error.
+0109 Fatal BibleDatabase Error
+0110 An internal error has occurred.  If this persists, please report a bug via the Help > Report a Bug menu item.
+0111 BibleDatabase cannot find the file "%".^^Using ENGLISH version instead.
+0112 Checking to make sure all messages are translated...

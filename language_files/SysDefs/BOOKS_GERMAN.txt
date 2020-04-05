@@ -1,0 +1,72 @@
+1	1Mose	1 Mose
+2	2Mose	2 Mose
+3	3Mose	3 Mose
+4	4Mose	4 Mose
+5	5Mose	5 Mose
+6	Josua	Josua
+7	Richter	Richter
+8	Rut	Rut
+9	1Samuel	1 Samuel
+10	2Samuel	2 Samuel
+11	1Koenige	1 Koenige
+12	2Koenige	2 Koenige
+13	1Chronik	1 Chronik
+14	2Chronik	2 Chronik
+15	Esra	Esra
+16	Nehemia	Nehemia
+17	Ester	Ester
+18	Job	Job
+19	Psalm	Psalm
+20	Sprueche	Sprueche
+21	Prediger	Prediger
+22	Hohelied	Hohelied
+23	Jesaja	Jesaja
+24	Jeremia	Jeremia
+25	Klagelieder	Klagelieder
+26	Hesekiel	Hesekiel
+27	Daniel	Daniel
+28	Hosea	Hosea
+29	Joel	Joel
+30	Amos	Amos
+31	Obadja	Obadja
+32	Jona	Jona
+33	Mica	Mica
+34	Nahum	Nahum
+35	Habakuk	Habakuk
+36	Zephanja	Zephanja
+37	Haggai	Haggai
+38	Sacharja	Sacharja
+39	Maleachi	Maleachi
+40	Matthaeus	Matthaeus
+41	Markus	Markus
+42	Lukas	Lukas
+43	Johannes	Johannes
+44	Apostelgeschichte	Apostelgeschichte
+45	Roemers	Roemers
+46	1Korinther	1 Korinther
+47	2Korinther	2 Korinther
+48	Galater	Galater
+49	Epheser	Epheser
+50	Philipper	Philipper
+51	Kolosser	Kolosser
+52	1Thessalonicher	1 Thessalonicher
+53	2Thessalonicher	2 Thessalonicher
+54	1Timotheus	1 Timotheus
+55	2Timotheus	2 Timotheus
+56	Titus	Titus
+57	Philemon	Philemon
+58	Hebraeer	Hebraeer
+59	Jakobus	Jakobus
+60	1Petrus	1 Petrus
+61	2Petrus	2 Petrus
+62	1Johannes	1 Johannes
+63	2Johannes	2 Johannes
+64	3Johannes	3 Johannes
+65	Judas	Judas
+66	Offenbarung	Offenbarung
+67	moses	Moses (Books of)
+68	OT	Old Testament
+69	NT	New Testament
+70	Gos	Gospels
+71	Synopt	Synoptic Gospels
+72	Whole	ALL

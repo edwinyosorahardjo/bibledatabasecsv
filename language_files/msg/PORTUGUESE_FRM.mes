@@ -1,0 +1,229 @@
+# BibleDatabase language file                ####
+# Language: English                          ####
+# Date: Monday 26 August 2002                ####
+# Version: Original Distribution 1.0.1       ####
+# BibleDatabase Ver 4.0.0                    ####
+#################################################
+
+#################################################
+######### TRANSLATION INFORMATION  ##############
+#################################################
+# Translated by: Dieter Joel Jagnow             #
+# Contact email: jagnow@bol.com.br              #
+# Translation Date: 5 de outubro de 2002        #
+# Comments:                                     #
+#################################################
+##     INSTRUCTIONS READ CAREFULLY!!       ######
+#################################################
+#1. EACH LINE OF TEXT MUST BE ON A NEW LINE     #
+#2. ALL Lines must end with CRLF (not just LF!) #
+#3. Any line beginning with a # is ignored.     #
+#4. Blank Lines are ignored                     #
+#5. ^^ inserts a new line (CRLF)                #
+#6. %  Software will insert text here           #
+#7. & use this (Menu Items only) to underline   #
+# the character immediately after the "&"       #
+#################################################
+
+0001 Nomes usados na Bíblia
+0002 Comentário Bíblico
+0003 Diário de Oração.^^Conectado como: "%"
+0004 Mudar de "%"
+0005 OPCIONAL Senha para "%"
+0006 Mapas Bíblicos %
+0007 Visualizar Impressão - %
+0008 NÃO FOI LOCALIZADA UMA BÍBLIA VÁLIDA!! - %
+0009 Adicionar
+0010 Adicionar NOVO
+0011 Gerenciar Identidades %
+0012 Mudar de "%"
+0013 Editor/Seletor de Idioma. %
+0014 Adicionar Bookmark
+0015 Editar Bookmark
+0016 Tocador de MP3
+0017 Sem nome.RTF
+0018 Mudar de "%"
+0019 Configuração da página %
+0020 (Multi-Bíblia) Capítulo/Versículo - %
+0021 Sobre %
+0022 % Contrato de Licença
+0023 Configurar Opções - %
+0024 Padrões - %
+0025 Dicionários - %
+0026 Entre senha para "%"
+0027 Abrir Arquivo
+0028 Salvar Arquivo
+0029 Imprimir
+0030 Cortar
+0031 Copiar
+0032 Colar
+0033 Desfazer
+0034 Apagar
+0035 Achar
+0036 Achar Seguinte
+0037 Cor da frente
+0038 Cor do fundo
+0039 Negrito
+0040 Itálico
+0041 Sublinhar
+0042 Justificar Esquerda (ALT L)
+0043 Justificar Centro (ALT C)
+0044 Justificar Direita (ALT R)
+0045 Endentar Menos (ALT S)
+0046 Endentar Mais (ALT D)
+0047 Adicionar Símbolo (ALT O)
+0048 Multi-Bíblia
+0049 Dicionários Bíblicos
+0050 Comentários Bíblicos
+0051 Nomes Bíblicos
+0052 Diário de Orações
+0053 Ajuda
+0054 Bíblias "CHM" (Compiladas no formato de ajuda Microsoft)
+0055 Bíblias "MP3" (áudio)
+0056 Clique neste botão para procurar a Bíblia
+0057 Clique para forçar BibleDatabase a parar a busca
+0058 &Novo
+0059 &Abrir
+0060 &Salvar
+0061 Salvar &Como
+0062 Vizualizar I&mpressão
+0063 Confi&gurar Impressão
+0064 &Imprimir
+0065 Sa&ir
+0066 &Editar
+0067 Cor&tar
+0068 C&opiar
+0069 Co&lar
+0070 Ar&quivo
+0071 Desfa&zer
+0072 Apa&gar
+0073 Loca&lizar
+0074 Localizar Pró&ximo
+0075 Selecionar &tudo
+0076 &Quebra de Linha
+0077 &Visualizar
+0078 Multi-Bíblia
+0079 Comentários
+0080 Dicionários
+0081 Mapas
+0082 Nomes
+0083 Integrar Nomes
+0084 &Diário de Orações
+0085 Abrir
+0086 Mudar Identidade
+0087 Notas de Tradução
+0088 Formatar
+0089 Formatar Data
+0090 Configurar Página
+0091 Bookmark
+0092 Ferramentas
+0093 Editor de Idioma
+0094 Pasta de Ferramentas - Avançado
+0095 Opções
+0096 Reindexar
+0097 Teste de Integridade
+0098 Bíblias
+0099 Comentários
+0100 Dicionários
+0101 Nomes
+0102 Tudo
+0103 Web
+0104 Fórum de Discussão
+0105 Website
+0106 Assinar Lista de E-mails
+0107 Via Web
+0108 Via Correio Eletrônico
+0109 Cancelar Assinatura da Lista de E-mails
+0110 Via Web
+0111 Via Correio Eletrônico
+0112 Enviar Endereço Eletrônico à Lista
+0113 Via Navegador
+0114 Via Correio Eletrônico
+0115 Ajuda
+0116 Conteúdo
+0117 Contrato de Licença
+0118 Sobre
+0119 Mostrar tela de abertura
+0120 Registrar
+0121 Informar um Bug
+0122 Clicar este botão limpa o histórico das buscas anteriores
+0123 Limpar
+0124 Para procurar por "amor", digite *amor* (Não esqueça do "*" antes e depois de "amor")
+0125 Seleciona a Bíblia na qual deseja procurar
+0126 Selecione o critério para utilizar em sua busca
+0127 Nenhum critério especial será aplicado à busca
+0128 A buscar dos termos poderá ser em qualquer ordem
+0129 Procurar por QUALQUER dos termos
+0130 Mostrar todos os versículos, mesmo se os termos não foram localizados
+0131 Nenhum
+0132 Ignorar Ordem
+0133 Quaisquer Termos
+0134 Toda a Seleção
+0135 Critérios Opcionais de Busca
+0136 Atualização Ativa
+0137 Ignorar Caixa
+0138 Se selecionado, você verá o processo em tempo real
+0139 Se selecionado, a caixa será ignorada
+0140 Arquivo
+0141 Salvar
+0142 Imprimir
+0143 Mudar Identidade
+0144 Localizar
+0145 Localizar
+0146 Localizar Novamente
+0147 Busca Total
+0148 Ferramentas
+0149 Formato da Data
+0150 Senha
+0151 Ajuda
+0152 Conteúdo
+0153 Limpar
+0154 Salvar
+0155 Apagar
+0156 Salvar/Sair
+0157 Usar Imagens [Opcional] para descrever sua Atitude de Oração
+0158 Painel Esquerdo: Texto de Dica de Ferramenta; Painel Central: A Data de Hoje; Painel Direito: Status
+0159 Nova &Senha
+0160 Confirme a Senha
+0161 Tornar Padrão
+0162 SALVAR
+0163 Recuperação de Desastre
+0164 Ajuda
+0165 Fechar
+0166 Janela do Editor de Idioma
+0167 Idiomas Disponíveis
+0168 Clique abaixo para EDITAR, MUDAR PARA ou CRIAR
+
+## Ítens adicionados em 26 de agosto de 2002
+
+0169 Data
+0170 Atualizar
+0171 Apagar
+0172 Editar
+0173 Ir para
+0174 Adicionar
+0175 Fechar
+0176 Título
+0177 Categoria
+0178 Data de Adição
+0179 Referência Bíblica
+0180 Nome do Arquivo
+0181 PADRÃO
+0182 LOCALIZAR
+0183 FECHAR
+0184 ATUALIZAR
+0185 FECHAR
+0186 #
+0187 Ref (sempre Inglês)
+0188 Nome do Livro (seu idioma)
+0189 Abreviação
+0190 Livro a Editar: %
+0191 "Clique duas veze o livro na coluna "%" para editar
+0192 Novo NOME LONGO para "%"
+0193 Editar Nome Longo
+0194 Novo NOME CURTO para "%"
+0195 Editar Nome Curto
+0196 LOCALIZAR
+0197 AJUDA
+0198 Fechar por enquanto
+0199 Modo Debug

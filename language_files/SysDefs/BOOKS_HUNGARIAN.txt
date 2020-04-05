@@ -1,0 +1,72 @@
+1	1Móz	1. Mózes
+2	2Móz	2. Mózes 
+3	3Móz	3. Mózes 
+4	4Móz	4. Mózes 
+5	5Móz	5. Mózes 
+6	Józs	Józsué
+7	Bír	Bírák
+8	Rúth	Rúth
+9	1Sám	1 Sámuel
+10	2Sám	2 Sámuel
+11	1Kir	1 Királyok
+12	2Kir	2 Királyok
+13	1Krón	1 Krónika
+14	2Krón	2 Krónika
+15	Ezsd	Ezsdrás
+16	Neh	Nehémiás
+17	Esz	Eszter
+18	Jób	Jób
+19	Zsolt	Zsoltárok
+20	Péld	Példabeszédek
+21	Préd	Prédikátor
+22	Én	Énekek éneke
+23	Ézs	Ézsaiás
+24	Jer	Jeremiás
+25	Sir	Jeremiás siralmai
+26	Ezék	Ezékiel
+27	Dán	Dániel
+28	Hós	Hózseás
+29	Jóel	Jóel
+30	Ámos	Ámós
+31	Abd	Abdiás
+32	Jón	Jónás
+33	Mik	Mikeás
+34	Náh	Náhum
+35	Hab	Habakukk
+36	Sof	Sofóniás
+37	Ag	Aggeus
+38	Zak	Zakariás
+39	Mal	Malakiás
+40	Mt	Máté
+41	Mk	Márk
+42	Lk	Lukács
+43	Jn	János 
+44	Csel	Apostolok cselekedetei
+45	Róm	Róma
+46	1Kor	1 Korintus
+47	2Kor	2 Korintus 
+48	Gal	Galata
+49	Ef	Efezus
+50	Fil	Filippi
+51	Kol	Kolossé
+52	1Tesz	1 Tesszalonika
+53	2Tesz	2 Tesszalonika
+54	1Tim	1 Timóteus
+55	2Tim	2 Timóteus
+56	Tit	Titusz
+57	Filem	Filemon
+58	Zsid	Zsidók
+59	Jak	Jakab
+60	1Pét	1 Péter
+61	2Pét	2 Péter
+62	1Jn	1 János 
+63	2Jn	2 János 
+64	3Jn	3 János
+65	Júd	Júdás
+66	Jel	Jelenések
+67	Mózes	Mózes (5 könyve)
+68	ÓSZ	Ószövetség
+69	ÚSZ	Újszövetség
+70	Ev.	Evangéliumok
+71	Szinopt	Szinoptikus Evangéliumok
+72	Mind	MIND

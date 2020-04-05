@@ -1,0 +1,26 @@
+                    Licens aftale for BibleDatabase
+
+
+Ved at bruge eller distribuere dele eller hele denne software, herefter kaldt BibleDatabase, 
+viser du at du er enig i og accepterer de følgende betingelser, forhold og fritagelse for ansvar, 
+som en faktisk aftale mellem dig selv og/eller din organisation, og giveren af
+BibleDatabase (herefter kaldt forfatteren). Hvis du ikke er enig i alle de følgende betingelser,
+er det dig ikke tilladt at anvende, gennemse eller distribuere nogen som helst del eller hele BibleDatabase.
+
+Defekter
+
+BibleDatabase kan indeholde uerkendte fejl eller defekter, for eksempel: ufærdige, 
+unøjagtige, og/eller ødelagte data eller oversættelser og/eller programeringsfejl.
+
+Fritagelse for ansvar
+
+For enhver faktisk og/eller hævdet defekt i BibleDatabase gælder følgende:
+
+1. Forfatterne skal holdes skadesløse for ethvert og alt ansvar over for dig for skader af enhver art, 
+herunder reparationer og udgifter og/eller sagførersalærer,
+
+2. Du har ingen mulighed for at hævde manglende vedligeholdelse, eller for brud på garanti eller kontrakt, 
+inklusiv men ikke begrænset til indirekte, affødte, ødelæggende, eller efterfølgende skader, 
+selvom du giver besked på forhånd om sådanne skader.
+
+3. BibleDatabase gives til dig 'som den er'. Ingen garanti af nogen art, faktisk eller underforstået er givet til dig.

@@ -1,0 +1,28 @@
+                    Licensia de Utilización para BibleDatabase
+
+
+
+Al utilizar ó distribuir este programa, parcialmente ó en su totalidad, aqui referido como BibleDatabase,
+usted esta indicado su acuerdo y aceptación de los siguientes terminos, condiciones y negaciones
+expresamente acordados entre usted ó su organización, y el proveedor de este programa BibleDatabase, (su autor).
+Si usted no esta de acuerdo con todos los terminos antes mencionados, no podra utlizar, ó distribuir este programa,
+parcialmente ó en su totalidad.
+
+Defectos
+
+BibleDatabase puede que contenga errores ó defectos no intencionales. Por ejemplo: 
+Material incompleto, incorrecto, corrompido, incluyendo errores de programación ó traducción.
+
+Negación
+
+Las siguientes alegaciónes por defecto son aplicadas a el programa BibleDatabse:
+
+1. El autor permanecera libre de todos los cargos en todos los casos alegados, incluyendo costos, ó gastos incurridos 
+por acciones de tipos legales.
+
+2. Usted no tiene derecho a reclamaciones sea por negligencia, rompimiento de contrato, garantia,
+incluyendo pero no limitado a daños indirectos, consecuentes, punitivos, perdida de información, 
+incluso si usted da el aviso de la posibilidad de tales daños.
+
+3. El programa BibleDatabase se proporciona "como está". 
+Ningun tipo de garantías implicadas o expresadas se le ha otorgado a su persona.

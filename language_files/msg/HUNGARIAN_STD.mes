@@ -1,0 +1,126 @@
+# BibleDatabase language file                ####
+# Language: Hungarian                        ####
+# Date: Saturday, 29 June 2002               ####
+# Version: Original Distribution 1.0.0       ####
+# BibleDatabase Ver 4 and later              ####
+#################################################
+
+#################################################
+######### TRANSLATION INFORMATION  ##############
+#################################################
+# Translated by: Norbert Makszim                #
+# Contact email: maxym@freemail.hu              #
+# Translation Date: 28.01.2003.                 #
+# Comments:                                     #
+#################################################
+##     INSTRUCTIONS READ CAREFULLY!!       ######
+#################################################
+#1. EACH LINE OF TEXT MUST BE ON A NEW LINE     #
+#2. ALL Lines must end with CRLF (not just LF!) #
+#3. Any line beginning with a # is ignored.     #
+#4. Blak Lines are ignored                      #
+#5. ^^ inserts a new line (CRLF)                #
+#6. %  Software will insert text here           #
+#7. & use this (Menu Items only) to underline   #
+# the character immediately after the "&"       #
+#################################################
+
+0001 Ilyen név nem található a rendszerben.^^Kérlek töltsd le a fegfrissebb verziót: ^^%
+0002 Nincs valós Kommentár telepítve.^^Látogasd meg a %^^ hogy letölthess egyet.
+0003 Ennek használatához Szótárra van szükséged. ^^Tölts le egyet: %.
+0004 Ismételt bevitel nem engedélyezett.
+0005 Nincs kijelölt könyvjelzõ.
+0006 Törlöd %?
+0007 Az új dátum formátum: %. ^^A változás a program újraindításával aktivizálódik.
+0008 A rendszer információ jelenleg nem elérhetõ.
+0009 Siker! Találtam egy Bibliát.^^% most bezár. ^^Futtasd újra és minden rendben lesz.
+0010 NEM volt Biblia ebben a könyvtárban.^^Biztos vagy benne, hogy van LEGALÁBB EGY TELEPÍTVE?^^Kérlek próbáld újra.
+0011 Meghajtó nem elérhetõ.^^Kérlek helyezz egy lemezt a meghajtóba.
+0012 Hiba lépett fel a kép méretezésekor. Nem tudom folytatni.
+0013 Minimalizált képernyõn nem folytatható
+0014 Úgytûnik nincs egyetlen Biblia sem telepítve^^Nem akarsz párat most letölteni?
+0015 Nem tudok mit mondani.
+0016 Keresem a BibleDatabase IP címét.
+0017 Siker. Megtaláltam a honlapot.
+0018 Kapcsolódás. Kérlek várj..
+0019 Siker! Kapcsolódtam.
+0020 Adatokat várok..
+0021 Kérés sikeresen elküldve"
+0022 Beérkezõ válasz a BibleDatabase-tõl..
+0023 Siker! URL fájlt kaptam
+0024 Kapcsolat bontása. Kérlek várj..
+0025 Kapcsolat bontva.
+0026 Hiba keletkezett. Kérlek ellenõrizd az Internet kapcsolatot.
+0027 Siker! Fájl rendben megérkezett.
+0028 Hogyha valaki mindent összekavart ez helyreállítja az angol könyvek neveit.^^Szeretnéd, hogy megcsináljam?
+0029 Nem történt semmi.
+0030 Angol REFERENCIA (BOOKS_ENGLISH)^^lesz az alapértelmezett.
+0031 Kérlek válassz egy nyelvet elõször.
+0032 % alapértlemzettként beállít.
+0033 "%" létezik.^^Kívánod kicserélni?
+0034 "%" elmentve.
+0035 Kilépsz mentés nélkül?^^Biztos vagy benne?
+0036 Figyelmen kívül hagyod a változást?
+0037 Érvénytelen karakter.^^ Nem használhatod: "%".
+0038 Nyelv már létezik!^^Már van nyelvi fájl megadva: ^^"%".
+0039 Elõször válassz nyelvet.
+0040 A nyelvi fájl NEVÉNEK létrehozása pl.: 'magyar'. Csak angol betûk "A"-tól "Z"-ig. Szóköz nem megengedett.
+0041 Úgy tûnik nincs ".CHM" Biblia telepítve.^^Szeretnél most letölteni egyet?
+0042 Kétszer kattints^^a lenti ablakra, hogy kiírhassam a jelentését 
+0043 Biztos vagy benne?
+0044 A dokumentum megváltozott.^^Biztos vagy benne, hogy ki akarsz lépni?
+0045 A fájl már létezik. Kattints az IGEN gombra a felülíráshoz ^^NEM gombbal másik nevet adhatsz vagy a MÉGSEM gombbal nem csinálsz semmit.
+0046 "%" megváltozott.^^Szeretnéd elmenteni ezt a fájlt?
+0047 "%" .. ^^fájlt nem találom.
+0048 Érvénytelen fájl formátum.
+0049 Az összes index fájl letörölve^^"%"^^Igény szerint automatikusan ismét létrejönnek.
+0050 Nincs több találat.
+0051 A dokumentum megváltozott.^^El szeretnéd menteni?
+0052 Betolakodó vagy. Belépést megtagadom.
+0053 Helytelen jelszó!^^Megpróbálod újra?
+0054 Alapértelmezett e-mail kliens új E-mailként megnyílik.^^Egyszerûen kattints a "Küldés" gombra, hogy feliratkozz. Kapni fogsz egy visszaigazoló E-mailt^^amelyet biztonságos helyen tárolj. Köszönjük a feliratkozát.^^Bármikor küldhetsz e-mailt a Levelezõ listára leveled ide címezve:^^"%"^^Bármikor törölheted magad a listáról,^^egyszüen válaszd a "Kijelentkezés" pontot.
+0055 VALÓBAN ezt szeretnéd tenni?^^Tényleg szeretnénk ha maradnál:-)
+0056 Mikor! Azt hittük itthagysz bennünket.^^Köszönjük, hogy maradsz!
+0057 Muszáj feliratkoznod, különben üzeneted nem megy majd el.^^Szeretnéd folytatni?^^Nézd meg a Segítség fájlt ha kételkedsz.
+0058 A név jelentése: "%"
+0059 MEGJEGYZÉS. KÉRLEK OLVASD EL ezt az üzenetet figyelmesen.^^Mielõtt elkezded, kérlek gyõzõdj meg, hogy ^^LETÖLTÖTTÉL ÉS TELEPÍTETTÉL LEGALÁBB EGY BIBLIÁT.^^% NEM fog addig mûködni, amíg LEGALÁBB EGY Biblia nincs telepítve^^Szeretnéd folytatni?
+0060 ^^Jelenleg nincs Biblia telepítve.^^EZ EGÉSZEN NORMÁLIS, NINCS SZÜKSÉG PÁNIKBA ESNI.^^A BIBLIÁKAT LE KELL TÖLTENI ÉS EGYENKÉNT TELEPÍTENI KELL.^^A % mûködéséhez, LEGALÁBB EGY Bibliának telepítve kell lennie.^^Kattints az alábbi linkre, hogy honlapunkon találhasd magad, ahol annyit találsz, amennyit cask szeretnél^^TÖBB MINT 75 VAN NÁLUNK! MIND INGYEN!!
+0061 Jelszó törölve.
+0062 Minden fájl ezzel a jelszóval lesz védve: "%"^^NE felejtsd el, különben nem férhetsz Imanaplódhoz többé hozzá!
+0063 Jelszó nem megfelel? vagy túl ^^rövid(minimum 5 karakter).^^Kérlek próbáld újra!
+0064 Válaszd ki a kattintással törlendõ nevet.
+0065 Felhasználó törlése: "%"^^Biztos?
+0066 Az alapértelmezett felhasználót nem törölheted.
+0067 Válassz nevet rákattintással.
+0068 Hiba. Semmi sincs kiválasztva.^^Válassz felhasználó nevet a listából.
+0069 Bocs.^^Hibás jelszó.^^Próbáld újra.
+0070 Válts át: "%".
+0071 Hiba.^^Ez a név már létezik.
+0072 Sajnálom.^^A felhasználói név 2 és 30 karakter között lehet.
+0073 Érvénytelen karakter.^^A helyes karakterek kizárólag az angol^^"A" tól "Z" ig és "a" tól "z" ig.
+0074 Imanaplló. Beléve: "%" 
+0075 "%" csak KÉPERNYõ betûtípus.^^Az alapértelmezett betûtípust használom a NYOMTATÁSHOZ.
+0076 Nulla érvénytelen használata.
+0077 Bevitel törlése: "%"^^Biztos?
+0078 Bevitel "%" megváltozott.^^Elmented a változást?"
+0079 Már létezik bejegyzés "%"hez^^Felülírod?
+0080 Nincs több találat.
+0081 % regisztrált.^^Köszönjük.
+0082 Regisztrációs kód nem stimmel.^^Próbáld újra.
+0083 Egyik fájl sem felel meg a datum választásnak.^^Próbáld újra.
+0084 Nem tilthatod le az egyetlen telepített Bibliát.^^Különben a BibleDatabase képtelen a mûködésre.^^Ahhoz, hogy letiltsd ezt a Biblliát^^elõször engedélyezz egy másikat ^^utánna gyere ide vissza és tiltsd le.
+0085 A megadott érték túl nagy.^^Maximum: "%"
+0086 A megadott érték túl alacsony.^^Minimum: "%"
+0087 Elõször engedélyezd ezt a Bibliát!
+0088 A teljes írás Istentõl ihletett, és alkalmas a tanításra, feddésre és az igazságban való nevelésre.
+0089 Regisztrálva:^^még senki számára.
+0090 Regisztrálva: %
+0091 BibleDatabase ingyenes és nem értékesíthetõ.^^Szoftver verzió
+0092 Az elérhetõ plugin-okról további információ, % honlap:
+0093 BibleDatabase - Ingyenes. Szabadon másolható!
+0094 Regisztrálva: Neked.
+0095 Regisztrálva: %
+0096 Verzió %
+0097 Vagy a ^^"%"^^ könyvtár nem létezik, vagy a fájl ^^
+0098 "%" ebben a könyvtárban nem létezik.^^Kérlek javítsd ki és próbáld újra.
+0099 BibleDatabase ingyenes. Szabadon másolhatod és ingyen terjesztheted. Ez a szoftver pénzért nem értékesíthet?. Adoptálva az eredeti MS Access 2000 verzióból.

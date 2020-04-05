@@ -1,0 +1,196 @@
+# BibleDatabase nyelvi fájl                  ####
+# Nyelv: Magyar                              ####
+# Dátum: 2002. június 29. szombat            ####
+# Verzió: Original Distribution 1.0.0        ####
+# BibleDatabase Ver 4 és késõbbi             ####
+#################################################
+
+#################################################
+########### FORDÍTÁSI INFORMÁCIÓ  ###############
+#################################################
+# Fordította: Norbert Makszim                   #
+# E-mail kapcsolat:maxym@freemail.hu            #
+# Fordítás dátuma: 28.01.2003.                  #
+# Megjegyzés:                                   #
+#################################################
+###  FIGYELMESEN OLVASD EL A TÁJÉKOZTATÓT!!  ####
+#################################################
+#1. A SZÖVEG MINDEN SORA ÚJ SORBA KERÜL         #
+#2. MINDEN sor CRLF-fel kell végzõdjön(nem csak LF!) #	
+#3. Minden #-tel kezdõdõ sor figyelmen kívül marad.    #
+#4. A fekete sorok figyelmen kívül maradnak.    #
+#5. ^^ új sor beszúrás (CRLF)                   #
+#6. %  A szoftver ide rakja majd be a szöveget  #
+#7. & ezt használd (csak a menüpontban)közvetlen#
+# az "&" jel utáni karakter aláhúzásához        #
+#################################################
+
+0001 A Bibliában használt nevek
+0002 Bibliai kommentár
+0003 Imanapló.^^Belépve: "%"
+0004 Átkapcsolás "%"ról
+0005 OPCIONÁLIS jelszó "%"hoz
+0006 Bibliai térkép %
+0007 Nyomtatási kép - %
+0008 NINCS ÉRVÉNYES BIBLIA!! - %
+0009 HOZZÁADÁS
+0010 ÚJ hozzáadása
+0011 Felhasználó kezelése %
+0012 Átkapcsolás "%"ról
+0013 Nyelv szerkesztõ/választó. %
+0014 Könyvjelzõ hozzáadása
+0015 Könyvjelzõ szerkesztése
+0016 MP3 lejátszó
+0017 névtelen.RTF
+0018 Átkapcsolás "%"ról
+0019 Oldalbeállítás %
+0020 (Multi-Biblia) Rész/Vers - %
+0021 %ról
+0022 % Felhasználói szerzõdés
+0023 Beállítások - %
+0024 Alapbeállítások - %
+0025 Szótárak - %
+0026 Kérlek írd be a jelszót "%"hoz
+0027 Fájl megnyitás
+0028 Fájl mentés
+0029 Nyomtatás
+0030 Kivágás
+0031 Másolás
+0032 Beillesztés
+0033 Vissza
+0034 Törlés
+0035 Keresés
+0036 Következõ keresése
+0037 Elõtér szín
+0038 Háttér szín
+0039 Vastag
+0040 Dõlt
+0041 Aláhúzott
+0042 Balra igazít (ALT L)
+0043 Középre igazít (ALT C)
+0044 Jobbra igazít (ALT R)
+0045 Kevesebb bekezdés (ALT S)
+0046 Több bekezdés (ALT D)
+0047 Golyó hozzáadás (ALT O)
+0048 Multi-Biblia
+0049 Bibliai szótárak
+0050 Bibliai kommentárok
+0051 Bibliai nevek
+0052 Imanapló
+0053 Segítség
+0054 "CHM" Bibliák (Microsoft Help formátumban összeállítva)
+0055 "MP3" (audio) Bibliák
+0056 Ezzel a gombbal kereshetsz a Bibliában
+0057 Ide kattintva leállítod a BibleDatabase keresést
+0058 &Új
+0059 &Meggyitás
+0060 &Mentés
+0061 Mentés &Másként
+0062 Nyomtatási elõ&kép
+0063 Nyomtatás Be&állítás
+0064 Nyomtatás
+0065 Kilépés
+0066 Szerkesztés
+0067 Kivágás
+0068 Másolás
+0069 Beillesztés
+0070 Fájl
+0071 Vissza
+0072 Törlés
+0073 Keresés
+0074 Következõ keresés
+0075 Mindet kijelöl
+0076 Csomagolás
+0077 Nézet
+0078 Multi-Biblia
+0079 Kommentárok
+0080 Szótárak
+0081 Térképek
+0082 Nevek
+0083 Nevek egyesítése
+0084 Imanapló
+0085 Megnyitás
+0086 Felhasználó váltás
+0087 Fordítás megjegyzés
+0088 Formátum
+0089 Dátum formátum
+0090 Oldalbeállítás
+0091 Könyvjelzõ
+0092 Eszközök
+0093 Nyelv szerkesztés
+0094 Könyvtár eszközök - részletes
+0095 Beállítások
+0096 Újra indexelés
+0097 Beillesztés ellenõrzés
+0098 Bibliák
+0099 Kommentárok
+0100 Szótárak
+0101 Nevek
+0102 Mind
+0103 Web
+0104 Vitafórum
+0105 Honlap
+0106 Feliratkozás levelezõ listára
+0107 Weben keresztül
+0108 E-mailen keresztül
+0109 Kijelentkezés levelezõ listáról
+0110 Weben keresztül
+0111 E-mailen keresztül
+0112 E-mail küldése a listára
+0113 Böngészõn keresztül 
+0114 E-mailen keresztül
+0115 Segítség
+0116 Tartalom
+0117 Felhasználói szerzõdés
+0118 Rólunk
+0119 Nyitó képernyõ
+0120 Regisztráció
+0121 Hibabejelentés
+0122 Erre a gombra kattintva a keresési napló összes bejegyzése törlõdik 
+0123 Törlés
+0124 Az "egy" szó kereséséhez gépeld be *egy* (Ne felejtsd a "*"-ot az "egy" szó elõtt és után)
+0125 Válaszd ki a Bibliát, amelyikben keresni akarsz
+0126 Válaszd ki a keresési feltételt, amit használni szeretnél
+0127 A keresésnek nem volt különleges feltétele
+0128 Keresés bármilyen sorrendben lehet végezni
+0129 BÁRMILYEN kifejezést lehet keresni
+0130 Mutass meg minden verset tekintet nélkül arra, hogy szerepelt-e benne a keresett kifejezés vagy sem.
+0131 Nincs
+0132 Rendelés figyelmen kívül hagyása
+0133 Bármely kifejezés
+0134 Teljes kiválasztá
+0135 Keresési feltételek
+0136 Aktív frissítés
+0137 Kisbetû-nagybetû
+0138 Kereséskor látni fogod a valós idejû kiemelést 
+0139 Kereséskor kisbetû-nagybetû figyelmen kívül marad 
+0140 Fájl
+0141 Mentés
+0142 Nyomtatás
+0143 Felhasználó váltás
+0144 Keresés
+0145 Keresés
+0146 Ismételt keresés
+0147 Dinamikus keresés
+0148 Eszközök
+0149 Dátum formátum
+0150 Jelszó
+0151 Segítség
+0152 Tartalom
+0153 Törlés
+0154 Mentés
+0155 Törlés
+0156 Ment és kilép
+0157 Használj képeket [opcionális], hogy imaéleted leírd 
+0158 Bal ablak: eszköz szöveg; Középsõ ablak: mai dátum; Jobb ablak: Státusz
+0159 Új jelszó
+0160 Jelszó megerõsítés 
+0161 Alapértelme- zettként ment
+0162 MENTÉS
+0163 Katasztrófa helyreállítás
+0164 Segítség
+0165 Bezárás
+0166 Nyelv szerkesztõ ablak
+0167 Elérhetõ nyelvek
+0168 Kattints lent a SZERKESZTÉS, ÁTKAPCSOLÁS vagy LÉTREHOZÁS
+

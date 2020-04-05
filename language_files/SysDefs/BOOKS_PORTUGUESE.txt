@@ -1,0 +1,72 @@
+1	Gn	Gênesis
+2	Êx	Êxodo
+3	Lv	Levítico
+4	Nm	Números
+5	Dt	Deuteronômio
+6	Js	Josué
+7	Jz	Juízes
+8	Rt	Rute
+9	1Sm	1 Samuel
+10	2Sm	2 Samuel
+11	1Rs	1 Reis
+12	2Rs	2 Reis
+13	1Cr	1 Crônicas
+14	2Cr	2 Crônicas
+15	Ed	Esdras
+16	Ne	Neemias
+17	Et	Ester
+18	Jó	Jó
+19	Sl	Salmos
+20	Pv	Provérbios
+21	Ec	Eclesiastes
+22	Ct	Cântico dos Cânticos
+23	Is	Isaías
+24	Jr	Jeremias
+25	Lm	Lamentações de Jeremias
+26	Ez	Ezequiel
+27	Dn	Daniel
+28	Os	Oséias
+29	Jl	Joel
+30	Am	Amós
+31	Ob	Obadias
+32	Jn	Jonas
+33	Mq	Miquéias
+34	Na	Naum
+35	Hb	Habacuque
+36	Sf	Sofonias
+37	Ag	Ageu
+38	Zc	Zacarias
+39	Ml	Malaquias
+40	Mt	Mateus
+41	Mc	Marcos
+42	Lc	Lucas
+43	Jo	João
+44	At	Atos dos Apóstolos
+45	Rm	Romanos
+46	1Co	1 Coríntios
+47	2Co	2 Coríntios
+48	Gl	Gálatas
+49	Ef	Efésios
+50	Fp	Filipenses
+51	Cl	Colossenses
+52	1Ts	1 Tessalonicenses
+53	2Ts	2 Tessalonicenses
+54	1Tm	1 Timóteo
+55	2Tm	2 Timóteo
+56	Tt	Tito
+57	Fm	Filemom
+58	Hb	Hebreus
+59	Tg	Tiago
+60	1Pe	1 Pedro
+61	2Pe	2 Pedro
+62	1Jo	1 João
+63	2Jo	2 João
+64	3Jo	3 João
+65	Jd	Judas
+66	Ap	Apocalipse
+67	Moi	Moisés (livros de)
+68	At	Antigo Testamento
+69	Nt	Novo Testamento
+70	Dou	Mt,Mc,Lc,Jo
+71	ES	Evangelhos Sinóticos
+72	TD	TUDO

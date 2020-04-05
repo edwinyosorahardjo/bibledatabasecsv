@@ -1,0 +1,229 @@
+# BibleDatabase language file                ####
+# Language: Swedish                          ####
+# Date: Saturday, 29 June 2002               ####
+# Version: Original Distribution 1.0.0       ####
+# BibleDatabase Ver 4 and later              ####
+#################################################
+
+#################################################
+######### TRANSLATION INFORMATION  ##############
+#################################################
+# Translated by: Christoffer Wadensten          #
+# Contact email: Harlechin@hotmail.com          #
+# Translation Date: 9/9 -2002                   #
+# Comments: version 1.1                         #
+#################################################
+##     INSTRUCTIONS READ CAREFULLY!!       ######
+#################################################
+#1. EACH LINE OF TEXT MUST BE ON A NEW LINE     #
+#2. ALL Lines must end with CRLF (not just LF!) #
+#3. Any line beginning with a # is ignored.     #
+#4. Blank Lines are ignored                     #
+#5. ^^ inserts a new line (CRLF)                #
+#6. %  Software will insert text here           #
+#7. & use this (Menu Items only) to underline   #
+# the character immediately after the "&"       #
+#################################################
+
+0001 Namn använda i Bibeln
+0002 Bibelkommentar
+0003 Bönedagbok.^^Inloggad som: "%"
+0004 Byt från "%"
+0005 VALBART Lösenord för "%"
+0006 Bibliska Kartor %
+0007 Skriv Ut Förhandsgranskning - %
+0008 INGEN GILTIG BIBEL HITTAD!! - %
+0009 Lägg till
+0010 Lägg till NY
+0011 Redigera Identiteter %
+0012 Byt från "%"
+0013 Språkredigerare/väljare. %
+0014 Lägg till bokmärke
+0015 Redigera bokmärke
+0016 MP3-Spelare
+0017 Namnlös.RTF
+0018 Byt från "%"
+0019 Dokument Inställningar %
+0020 (Multi-Bibel) Kapitel/Vers - %
+0021 Om %
+0022 % Licensavtal
+0023 Set Options - %
+0024 Standardinställningar - %
+0025 Lexikon - %
+0026 Var god ange lösenord för "%"
+0027 Öppna fil 
+0028 Spara fil 
+0029 Skriv ut 
+0030 Klipp ut 
+0031 Kopiera 
+0032 Klistra in 
+0033 Ångra 
+0034 Ta bort 
+0035 Sök 
+0036 Sök Nästa 
+0037 Förgrundsfärg 
+0038 Bakgrundsfärg 
+0039 Fet 
+0040 Kursiv 
+0041 Understruken 
+0042 Vänsterjustera (ALT L) 
+0043 Centrera (ALT C) 
+0044 Högerjustera (ALT R) 
+0045 Minska indrag (ALT S) 
+0046 Öka indrag (ALT D) 
+0047 Punktlista (ALT O) 
+0048 Multi-Bibel 
+0049 Bibel-lexikon 
+0050 Bibel-kommentarer 
+0051 Bibliska namn 
+0052 Bönedagbok 
+0053 Hjälp 
+0054 "CHM" Biblar (Compilerade i Microsoft Hjälpformat) 
+0055 "MP3" (ljud) Biblar 
+0056 Klicka på den här knappen för att söka i Bibeln 
+0057 Klicka här för att tvinga BibleDatabase att sluta söka
+0058 &Nytt
+0059 &Öppna...
+0060 &Spara
+0061 Spara So&m...
+0062 Skriv ut F&örhandsgranskning...
+0063 Utskriftsforma&t...
+0064 Skriv &ut...
+0065 &Avsluta
+0066 &Redigera
+0067 &Klipp ut
+0068 K&opiera
+0069 K&listra in
+0070 &Arkiv
+0071 &Ångra
+0072 &Radera
+0073 &Sök
+0074 Sök &nästa
+0075 &Markera allt
+0076 &Bryt rader
+0077 &Visa
+0078 Multi-Bibel
+0079 Kommentarer
+0080 Lexikon
+0081 Kartor
+0082 Namn
+0083 Integrera Namn
+0084 &Bönedagbok
+0085 Öppna
+0086 Byt identitet
+0087 Översättningsnoter
+0088 Format
+0089 Datumformat
+0090 Dokumentinställningar..
+0091 Bokmärken
+0092 Verktyg
+0093 Språkredigering...
+0094 Mappverktyg - Avancerat...
+0095 Inställningar..
+0096 Re-Index
+0097 Kontrollera Komponenter
+0098 Biblar
+0099 Kommentarer
+0100 Lexikon
+0101 Namn
+0102 Allt
+0103 Internet
+0104 Diskussionsforum
+0105 Hemsida
+0106 Prenumerera på Mail-lista
+0107 Via Webbläsare
+0108 Via e-post
+0109 Avsluta Prenumereration på Mail-lista
+0110 Via Webbläsare
+0111 Via e-post
+0112 Skicka meddelande till Listan
+0113 Via Webbläsare
+0114 Via e-post
+0115 Hjälp
+0116 Innehåll
+0117 Licensavtal
+0118 Om..
+0119 Visa "Splash" - fönster
+0120 Registrera
+0121 Rapportera fel
+0122 Klicka på denna knapp för att radera all tidigare sökhistorik
+0123 Rensa
+0124 För att söka efter "Kärlek" skriv *kärlek* (Glöm inte "*" före och efter "kärlek") 
+0125 Välj den Bibel du vill söka i 
+0126 Välj den bok du vill söka i  
+0127 Inga särskilda kriterier kommer att användas i sökningen 
+0128 Sökorden kan vara i vilken ordning som helst 
+0129 Sök efter NÅGOT av sökorden  (alla sökord behöver inte ge träffar)  
+0130 Visar ALLA verser i valt avsnitt oavsett om sökorden finns i dem 
+0131 Inget
+0132 Ignorera ordning
+0133 Något sökord
+0134 Hela avsnittet
+0135 Valbara kriterier för sökning
+0136 Aktiv uppdatering
+0137 Ignorera storlek
+0138 Bocka för i rutan för att se markeringsprocessen i realtid 
+0139 Bocka för i rutan för att strunta i att matcha gemener/VERSALER 
+0140 Arkiv
+0141 Spara
+0142 Skriv ut
+0143 Byt identitet
+0144 Sök
+0145 Sök
+0146 Sök nästa
+0147 Avancerad Sökning
+0148 Verktyg
+0149 Datumformat
+0150 Lösenord
+0151 Hjälp
+0152 Innehåll
+0153 Rensa
+0154 Spara
+0155 Radera
+0156 Spara/Stäng
+0157 Använd bilder (valfritt) för att beskriva din attityd till böneämnet.
+0158 Vänster fält: Dagens datum, Mittenfält: Bönerubrik, Höger fält: Status
+0159 Nytt &Lösenord
+0160 Verifiera Lösenord
+0161 Använd Som Standard
+0162 SPARA
+0163 Katastrof-Återställning
+0164 Hjälp
+0165 Stäng
+0166 Språkredigeringsfönster
+0167 Tillgängliga Språk
+0168 Klicka nedan för att REDIGERA,     BYTA TILL eller SKAPA
+
+## Items added on 26 August 2002
+
+0169 Datum...
+0170 Uppdatera
+0171 Ta bort
+0172 Redigera
+0173 Gå till
+0174 Lägg till
+0175 Stäng
+0176 Titel
+0177 Kategori
+0178 Datum
+0179 Bibelreferens
+0180 Filnamn
+0181 STANDARD
+0182 BLÄDDRA
+0183 STÄNG
+0184 UPPDATERA
+0185 STÄNG
+0186 #
+0187 Ref (alltid engelska)
+0188 Boknamn (ditt språk)
+0189 Förkortning
+0190 Bok att redigera: %
+0191 Dubbelklicka på boknamn under "%" för att redigera."
+0192 Nytt LÅNGT NAMN för "%".
+0193 Redigera Långt Namn
+0194 Nytt KORT NAMN för "%".
+0195 Redigera Kort Namn
+0196 HITTA
+0197 HJÄLP
+0198 Stäng för tillfället
+0199 'Debug'-läge

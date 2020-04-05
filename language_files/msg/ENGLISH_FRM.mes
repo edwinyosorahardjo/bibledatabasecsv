@@ -1,0 +1,238 @@
+# BibleDatabase language file                ####
+# Language: English                          ####
+# Date: Monday 26 August 2002                ####
+# Version: Original Distribution 1.0.1       ####
+# BibleDatabase Ver 4.0.0                    ####
+#################################################
+
+#################################################
+######### TRANSLATION INFORMATION  ##############
+#################################################
+# Translated by:                                #
+# Contact email:                                #
+# Translation Date:                             #
+# Comments:                                     #
+#################################################
+##     INSTRUCTIONS READ CAREFULLY!!       ######
+#################################################
+#1. EACH LINE OF TEXT MUST BE ON A NEW LINE     #
+#2. ALL Lines must end with CRLF (not just LF!) #
+#3. Any line beginning with a # is ignored.     #
+#4. Blank Lines are ignored                     #
+#5. ^^ inserts a new line (CRLF)                #
+#6. %  Software will insert text here           #
+#7. & use this (Menu Items only) to underline   #
+# the character immediately after the "&"       #
+#################################################
+
+0001 Names used in the Bible
+0002 Bible Commentary
+0003 Prayer Diary.^^Logged on as: "%"
+0004 Switch from "%"
+0005 OPTIONAL Password for "%"
+0006 Biblical Maps %
+0007 Print Preview - %
+0008 NO VALID BIBLE FOUND!! - %
+0009 ADD
+0010 Add NEW
+0011 Manage Identities %
+0012 Switch from "%"
+0013 Language Editor/Selector. %
+0014 Add Bookmark
+0015 Edit Bookmark
+0016 MP3 Player
+0017 Untitled.RTF
+0018 Switch from "%"
+0019 Page Setup %
+0020 (Multi-Bible) Chapter/Verse - %
+0021 About %
+0022 % License agreement
+0023 Set Options - %
+0024 Defaults - %
+0025 Dictionaries - %
+0026 Please enter password for "%"
+0027 Open a File
+0028 Save File
+0029 Print
+0030 Cut
+0031 Copy
+0032 Paste
+0033 Undo
+0034 Delete
+0035 Find
+0036 Find Next
+0037 Foreground Colour
+0038 Background Colour
+0039 Bold
+0040 Italic
+0041 Underline
+0042 Justify Left (ALT L)
+0043 Justify Center (ALT C)
+0044 Justify Right (ALT R)
+0045 Indent Less (ALT S)
+0046 Indent more (ALT D)
+0047 Add Bullet (ALT O)
+0048 Multi-Bible
+0049 Bible Dictionaries
+0050 Bible Commentaries
+0051 Biblical names
+0052 Prayer Diary
+0053 Help
+0054 "CHM" Bibles (Compiled in Microsoft Help format)
+0055 "MP3" (audio) Bibles
+0056 Click this button to search the Bible
+0057 Click to force BibleDatabase to stop searching
+0058 &New
+0059 &Open
+0060 &Save
+0061 Save &As
+0062 Print Pre&view
+0063 Print Set&up
+0064 &Print
+0065 E&xit
+0066 &Edit
+0067 Cu&t
+0068 &Copy
+0069 &Paste
+0070 &File
+0071 &Undo
+0072 &Delete
+0073 &Find
+0074 Find &Next
+0075 Select &All
+0076 &Wrap
+0077 &View
+0078 &MultiBible
+0079 &Commentaries
+0080 &Dictionaries
+0081 Ma&ps
+0082 &Names
+0083 &Integrate Names
+0084 REMOVED - &Prayer Diary
+0085 REMOVED - Open
+0086 REMOVED - Switch Identity
+0087 T&ranslation Notes
+0088 REMOVED - Format
+0089 Format Date
+0090 Page Setup
+0091 &Bookmark
+0092 &Tools
+0093 &Language Editor
+0094 &Folder Tool - Advanced
+0095 &Options...
+0096 &Re-Index
+0097 &Integrity Check
+0098 Bibles
+0099 Commentaries
+0100 Dictionaries
+0101 Names
+0102 All
+0103 &Web
+0104 &Discussion Forum
+0105 &BibleDatabase Website
+0106 REMOVED - Subscribe Mailing List
+0107 REMOVED - Via the Web
+0108 REMOVED - Via Email
+0109 REMOVED - Unsubscribe Mailing List
+0110 REMOVED - Via the Web
+0111 REMOVED - Via email
+0112 REMOVED - Send Email to List
+0113 REMOVED - Via Browser
+0114 REMOVED - Via Email
+0115 &Help
+0116 &Contents
+0117 Show &License Agreement
+0118 &About BibleDatabase
+0119 &Show Splash Screen
+0120 &Register
+0121 Report a &Bug...
+0122 Clicking this button clears the History of all previous searches
+0123 Clear
+0124 To search for "Love" type *love* (Don't forget the "*" before and after "love")
+0125 Select the Bible you want to search from
+0126 Select the criteria you wish to use for your search
+0127 No special criteria will be applied to the search
+0128 Search terms may be in any order
+0129 Search for ANY of the terms
+0130 Show all verses regardless if the terms were found
+0131 None
+0132 Ignore Order
+0133 Any Terms
+0134 Entire Selection
+0135 Optional Search Criteria
+0136 Active Update
+0137 Ignore Case
+0138 If checked, you will see the highlighting ?process in real time
+0139 If checked, case will be ignored
+0140 File
+0141 Save
+0142 Print
+0143 REMOVED - Switch Identity
+0144 Find
+0145 Find
+0146 Find Again
+0147 Power Search
+0148 Tools
+0149 Date Format
+0150 Password
+0151 Help
+0152 Contents
+0153 Clear
+0154 Save
+0155 Delete
+0156 Save/Exit
+0157 Use Pictures [Optional] to describe your Prayer Attitude
+0158 Left Pane: Tool Tip Text; Middle Pane: Today's Date; Right pane: Status
+0159 New &Password
+0160 Confirm Password
+0161 Set As Default
+0162 SAVE
+0163 Disaster Recovery
+0164 Help
+0165 Close
+0166 Language Editor Window
+0167 Available languages
+0168 Click below to EDIT, SWITCH TO or CREATE
+
+## Items added on 26 August 2002
+
+0169 Change &Date Format...
+0170 &Update
+0171 &Delete
+0172 &Edit
+0173 &Goto
+0174 &Add
+0175 &Close
+0176 Title
+0177 Category
+0178 Date Added
+0179 Bible Reference
+0180 File Name
+0181 DEFAULT
+0182 LOCATE
+0183 CLOSE
+0184 UPDATE
+0185 CLOSE
+0186 #
+0187 Ref (always English)
+0188 Book Name (Your language)
+0189 Abbreviation
+0190 Book to Edit: %
+0191 Double click Book in "%" column to Edit.
+0192 New LONG NAME for "%".
+0193 Edit Long Name
+0194 New SHORT NAME for "%".
+0195 Edit Short Name
+0196 LOCATE
+0197 HELP
+0198 Close for now
+0199 &Show Message Numbers
+
+##### Items added after January-2003
+0200 Advanced &Search
+0201 &Mailing List
+0202 &Window
+0203 C&HM Bibles
+0204 Mp&3 Bibles
+0205 Fanc&y Formatting
+0206 Choose F&ont...

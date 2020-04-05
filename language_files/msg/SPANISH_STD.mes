@@ -1,0 +1,136 @@
+# BibleDatabase language file                ####
+# Language: English                          ####
+# Date: Monday 26 August 2002                ####
+# Version: Original Distribution 1.0.1       ####
+# BibleDatabase Ver 4.0.0                    ####
+#################################################
+
+#################################################
+######### TRANSLATION INFORMATION  ##############
+#################################################
+# Translated by:  notasbiblicas                 #
+# Contact email:  webmaster@notasbiblicas.com   #
+# Translation Date:   19 Diciembre 2002         #
+# Comments:  http://www.notasbiblicas.com       #
+#################################################
+##     INSTRUCTIONS READ CAREFULLY!!       ######
+#################################################
+#1. EACH LINE OF TEXT MUST BE ON A NEW LINE     #
+#2. ALL Lines must end with CRLF (not just LF!) #
+#3. Any line beginning with a # is ignored.     #
+#4. Blank Lines are ignored                     #
+#5. ^^ inserts a new line (CRLF)                #
+#6. %  Software will insert text here           #
+#7. & use this (Menu Items only) to underline   #
+# the character immediately after the "&"       #
+#################################################
+
+0001 Ningun Nombre fue encontrado.^^Favor de bajar la ultima versión de^^%
+0002 Usted no tiene un valido comentario instalado.^^Favor de visitar %^^para bajar el archivo.
+0003 Se requiere la instalación de un Diccionario para usar esta opción. ^^Baja uno de %.
+0004 Entradas Duplicadas no son permitidas.
+0005 Marcador No Seleccionado.
+0006 Borrar %?
+0007 Nuevo Formato de Fecha es: %. ^^Cambios seran efectivos la proxima ocasión que use el programa.
+0008 La Información del Sistema no esta disponible en este momento.
+0009 Felicitaciones! Una Biblia fue encontrada.^^% va a cerrar ahora. ^^Corra el programa de nuevo y este funcionara sin problema.
+0010 NO hay Biblia en esta Carpeta.^^Esta seguro de que instaló al menos una de las Biblias?^^Favor de tratar de nuevo.
+0011 Disco no listo.^^Favor de insertar un disco floppy.
+0012 Un Error ocurrio durante el manejo de las imagenes. No se puede continuar
+0013 No se puede continuar en modo de pantalla minimizada
+0014 Parece que usted no tiene ninguna Biblia instalada^^¿Desea bajar una ahora mismo?
+0015 Ningun estado para reportar.
+0016 Buscando la dirección de IP de BibleDatabase.
+0017 ¡Felicitaciones! Sitio Encontrado.
+0018 Conectando. Favor de esperar..
+0019 Felicitaciones! Conectado.
+0020 Enviando el pedido de información..
+0021 Pedido enviado satisfactoriamente
+0022 Respuesta proveniente de BibleDatabase..
+0023 ¡Felicitaciones! Archivo URL Recibido
+0024 Desconectando. Favor de esperar..
+0025 Desconectando.
+0026 Error Encontrado. Favor de verficar su coneXion de Internet.
+0027 ¡Felicitaciones! Archivo Recibido OK.
+0028 Si ha cometido errores, esto restaurara los nombres de los Libros en Ingles.^^¿Desea proceder?
+0029 Ninguna Acción Tomada.
+0030 REFERENCIA EN INGLES (BOOKS_ENGLISH)^^sera utilizada como base predeterminada.
+0031 Favor de seleccionar un lenguaje.
+0032 % como Predeterminadas.
+0033 "%" Existe.^^¿Desea reemplazarlo?
+0034 "%" Guardado.
+0035 ¿Cerrar sin guardar?^^¿Esta Seguro?
+0036 ¿Descartar Cambios?
+0037 Caracteres Ilegales.^^ Usted no puede utilizar "%".
+0038 ¡El lenguaje ya existe!^^Ya hay un archivo de lenguaje definido como^^"%".
+0039 Primero elija un lenguaje.
+0040 NOMBRE del archivo de lenguaje a preparse e.g. 'ALEMAN'. Solamente caracteres "A" to "Z". LOS ESPACIOS NO SON PERMITIDOS.
+0041 Usted no parece tener una Biblia tipo ".CHM" instalada.^^¿Desea bajar una en este momento?
+0042 Apriete doblemente sobre un nombre en la ^^ventana de abajo para ver su significado
+0043 ¿Estas seguro?
+0044 El Documento a cambiado.^^¿Desea usted salir?
+0045 El archivo ya existe anteriormente. Apriete SI para escribir sobre este^^NO para escoger otro nombre o para cancelar la operación.
+0046 "%" a cambiado.^^¿Desea guardar este archivo?
+0047 "%" .. ^^archivo no encontrado.
+0048 Formato de Archivo No Valido.
+0049 Todos los archivos de Indice borrados en^^"%"^^Estos seran recreados automaticamente como sean necesarios.
+0050 No hay mas datos disponibles.
+0051 El documento a cambiado.^^¿Desea guardar estos cambios?
+0052 Intruso Detectado. Aceso Negado.
+0053 Contraseña Incorrecta!^^¿Desea tratar de nuevo?
+0054 Su programa de correo va a abrir en este momento.^^Apriete "ENVIAR" para subscribirse. Recibira un mensaje de confirmacion^^el cual debera de guardar para futuro uso. Gracias por subscribirse.^^Usted podra enviar correo a la lista al dirigir su mensaje a:^^"%"^^Tambien podra borrar su subscripcion en cualquier momento que desee,^^con solo seleccionar "Unsubscribe".
+0055 ¿Realmente desea hacer esto?^^Realmente deseamos que permanesca con nosotros :-)
+0056 WOW! Nos asustaste, ya que pensabamos que nos dejabas.^^Gracias por permanecer con nosotros!
+0057 Necesita ser miembro para que su mensaje llegue.^^Desea continuar?^^Favor de referirse al area de Ayuda si tiene dudas.
+0058 Significado del nombre "%"
+0059 NOTA. FAVOR DE LEER cuidadosamente.^^Antes de proceder, asegurese que usted haya^^BAJADO e INSTALADO POR LO MENOS UNA BIBLIA.^^% no trabajara hasta que una Biblia haya sido instalada^^Desea continuar?
+0060 ^^Usted no tiene ninguna Biblia instalada en este momento.^^Estos es normal, y no hay necesidad de desesperarse.^^Las Biblias necesitan ser bajadas e instaladas individualmente.^^Para que % funcione, se requiere que al menos una Biblia este instalada.^^Apriete el enlace abajo para ir a nuestro pagina, donde conseguira cuanta Biblia usted desee!^^CONTAMOS CON MAS DE 75! Y SON TOTALMENTE GRATIS!!
+0061 Contraseña Borrado.
+0062 Todos los archivos seran escondidos bajo esta contraseña: "%"^^NO SE OLVIDE DE ESTA Contraseña O NO PODRA ACCESAR EN EL FUTURO el Diario de Oración!
+0063 Contraseña no correcta^^o esta muy corta (minimo de 5 alphanumericos).^^Favor de tratar de nuevo!
+0064 Seleccione el nombre a borrarse.
+0065 Borrar Usuario "%"^^¿Estas Seguro?
+0066 Usted no puede borrar el usuario primario.
+0067 Seleccione el nombre a modificar.
+0068 Error. Nada fue seleccionado.^^Seleccione un nombre de usuario de la lista.
+0069 Lo Sentimos.^^Contraseña Incorrecta.^^Favor de tratar de nuevo.
+0070 Cambiar a "%".
+0071 Error.^^Este nombre ya existe.
+0072 Lo Sentimos.^^El nombre de usuario debe de ser entre 2 a 30 caracteres.
+0073 Caracteres no validos.^^Los caracteres validos son^^"A" hasta la "Z" y "a" hasta la "z" solamente.
+0074 Diario de Oración. Sesión iniciada como: "%" 
+0075 "%" es una letra de PANTALLA solamente.^^La letra primaria sera utilizada durante la impresión.
+0076 Uso No Valido de Null.
+0077 Borrar entrada de "%"^^¿Esta Usted Seguro?
+0078 La entrada de "%" a sido modificada.^^¿Desea guardar estos cambios?"
+0079 Una entrada sobre "%" ya existe^^¿Desea escribir sobre esta entrada existente?
+0080 Ninguna otra informacion fue encontrada.
+0081 % registrado.^^Muchas Gracias.
+0082 Codigo de Registracion No Valido.^^Favor de tratar de nuevo.
+0083 Ningun archivo fue encontrado que se acerce a la fecha determina.^^Favor de tratar de nuevo.
+0084 Usted no puede apagar la UNICA Biblia instalada.^^El tomar esta accion no permitira que BibleDatabaase trabaje.^^Para poder apagar esta Biblia^^primero instale otra version^^entonces regrese para apagarla.
+0085 El valor utilizado es muy grande.^^El maximo es "%"
+0086 El valor utilizado es muy pequeño.^^El minimo es "%"
+0087 Primero encienda esta Biblia!
+0088 Toda Palabra es inspirada por Dios, util para enseñar, corregir, redarguir, y entrenar en toda justicia.
+0089 Registrado a:^^Nadie Todavia
+0090 Registrado a: %
+0091 BibleDatabase es Freeware y no puede ser vendido.^^Version %.
+0092 Para mas informacion pertinente a los modulos, visite el sitio % 
+0093 BibleDatabase - Freeware. Copie gratuitamente!
+0094 Registrado a: TI.
+0095 Registrado a: %
+0096 Version %
+0097 Parece que la carpeta^^"%"^^no existe o el archivo no esta disponible^^
+0098 "%" no existe en esta carpeta.^^Favor de corregir y tratar de nuevo.
+0099 BibleDatabase es freeware, por consiguiente este se puede copiar y distribuir gratuitamente. Este programa no es para venderse. Adaptado del original MS Access 2000 version.
+
+##### New messages added since August 26 2002
+
+0100 usted ha cambiado el lenguaje de BibleDatabase a "%".^^BibleDatabase tiene que ser cerrado para inicializar sus cambios de lenguaje.
+0101 BibleDatabase no tiene actualmente un archivo de lenguaje para el idioma "%".^^El lenguaje primario seguira siendo utilizado.^^Favor de visitar nuestra pagina para la actualizacion de lenguaje.
+0102 Sus MODULOS estan corrientemente puestos en
+0103 Normalmente estos se encuentran en
+0104 Apriete DEFAULT para cambiarlo al modo predeterminado o apriete LOCATE para encontrarlo usted mismo. NOTA: Utilize LOCATE solamente si usted sabe donde esta la carpeta con los MODULOS o si usted inicialmente instalo BibleDatabase en otra carpeta.
+0105 Modo Debug esta desactivado.^^Favor de cerrar BibleDatabase y abrir^^de nuevo para hacer que los numeros desaparezcan.
+0106 Modo Debug esta activado.^^Todos los mensajes seran mostrados^^precedidos por un numero de mensaje.^^^^Si eres un traductor,^^esperamos que esto te ayude en encontrar el problema :-)^^^^(NOTA: Los mensajes seran cortados a 70^^porciento de su tamaño normal para que^^asi puedan caber en los encasillados de texto).                                                                                                                     .

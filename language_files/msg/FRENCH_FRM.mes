@@ -1,0 +1,238 @@
+# BibleDatabase language file                ####
+# Language: French                           ####
+# Date: Friday November 5 2004               ####
+# Version: Original Distribution 1.0.1       ####
+# BibleDatabase Ver 5.0.16                    ####
+#################################################
+
+#################################################
+######### TRANSLATION INFORMATION  ##############
+#################################################
+# Translated by:  Paul J Chenevier              #
+# Contact email:  paul@chenevier.net            #
+# Translation Date: Nov 5, 2004                 #
+# Comments:  God bless you all!                 #
+#################################################
+##     INSTRUCTIONS READ CAREFULLY!!       ######
+#################################################
+#1. EACH LINE OF TEXT MUST BE ON A NEW LINE     #
+#2. ALL Lines must end with CRLF (not just LF!) #
+#3. Any line beginning with a # is ignored.     #
+#4. Blank Lines are ignored                     #
+#5. ^^ inserts a new line (CRLF)                #
+#6. %  Software will insert text here           #
+#7. & use this (Menu Items only) to underline   #
+# the character immediately after the "&"       #
+#################################################
+
+0001 Noms utilisés dans la Bible
+0002 Commentaire de la Bible
+0003 Journal de Prières.^^Enregistré comme: "%"
+0004 Changer depuis "%"
+0005 Mot de Passe OPTIONNEL pour "%"
+0006 Cartes Bibliques %
+0007 Aperçu avant impression- %
+0008 AUCUNE BIBLE VALIDE N'A ÉTÉ TROUVÉE!! - %
+0009 AJOUTER
+0010 Ajouter (NOUVEAU)
+0011 Gérer les Identités %
+0012 Changer depuis "%"
+0013 Éditeur/Sélecteur de Langage. %
+0014 Ajouter un signet
+0015 Éditer le signet
+0016 Baladeur MP3
+0017 Fichier .RTF sans titre
+0018 Changer depuis "%"
+0019 Mise en forme de la page %
+0020 (Multi-Bible) Chapître/Verset - %
+0021 Au sujet de %
+0022 % Accord de License
+0023 Options - %
+0024 Réglages par Défaut - %
+0025 Dictionnaires - %
+0026 Veuillez entre le mote de passe pour "%"
+0027 Ouvrir le fichier
+0028 Enregistrer le fichier
+0029 Imprimer
+0030 Couper
+0031 Copier
+0032 Coller
+0033 Annuler
+0034 Supprimer
+0035 Trouver
+0036 Trouver le suivant
+0037 Couleur de permier plan
+0038 Couleur de fond
+0039 Gras
+0040 Italique
+0041 Souligner
+0042 Justifier à Gauche (ALT L)
+0043 Justifier au Centre (ALT C)
+0044 Justifier à Droite (ALT R)
+0045 Diminuer le retrait (ALT S)
+0046 Augmenter le retrait (ALT D)
+0047 Ajouter Puce (ALT O)
+0048 Multi-Bible
+0049 Dictionnaires de la Bible 
+0050 Commentaires Bibliques
+0051 Noms Bibliques
+0052 Journal de Prières
+0053 Aide
+0054 Bibles "CHM" (Compilées au Format Aide de Microsoft)
+0055 Bibles "MP3" (audio)
+0056 Cliquez ce bouton pour chercher dans la Bible
+0057 Cliquez pour forcer BibleDatabase à arrêter la recherche
+0058 &Nouveau
+0059 &Ouvrir
+0060 &Enregistrer
+0061 Enre&gistrer Sous
+0062 &Aperçu Avant Impression
+0063 &Réglages d'Impression
+0064 &Imprimer
+0065 &Sortie
+0066 É&diter
+0067 &Couper
+0068 C&opier
+0069 Co&ller
+0070 &Fichier
+0071 &Annuler
+0072 &Supprimer
+0073 &Trouver
+0074 T&rouver le Suivant
+0075 Sélectio&nner Tout
+0076 &Wrap
+0077 &Voir
+0078 &MultiBible
+0079 &Commentaires
+0080 &Dictionnaires
+0081 C&artes
+0082 &Noms
+0083 &Intégrer les Noms
+0084 REMOVED - &Journal de Prière
+0085 REMOVED - &Ouvrir
+0086 REMOVED - C&hanger d'Identité
+0087 Notes de &Traduction
+0088 Forma&ter
+0089 &Date
+0090 &Mise en Page
+0091 &Signet
+0092 &Outils
+0093 &Editeur de Langues
+0094 Outil de &Répertoire - Avancé
+0095 &Options
+0096 Re-&Index
+0097 &Vérifier Integrité
+0098 &Bibles
+0099 &Commentaires
+0100 &Dictionnaires
+0101 &Noms
+0102 &Tout
+0103 &Web
+0104 &Forum de Discussion
+0105 &Site Web BibleDatabase
+0106 REMOVED - Liste &de Souscription
+0107 REMOVED - Via le &Web
+0108 REMOVED - Via un &Courriel
+0109 REMOVED - &Liste de Désinsciption
+0110 REMOVED - Via le &Web
+0111 REMOVED - Via un &Courriel
+0112 REMOVED - &Envoyer un Courriel à la Liste
+0113 REMOVED - Via le &Navigateur 
+0114 REMOVED - Via un &Courriel
+0115 Aide
+0116 Contenus
+0117 Accord de License
+0118 Au sujet de
+0119 Montrer Ecran "Splash"
+0120 Enregistrer
+0121 Signaler un Bogue
+0122 Cliquer ce bouton supprimer l'historique des recherches précédentes
+0123 Nettoyer
+0124 Pour chercher le mot "Amour" entrez *amour* (N'oubliez pas le "*" avant et après le mot "amour")
+0125 Selectionnez la Bible dans laquelle vous voulez effectuer une recherche
+0126 Sélectionnez les critères de votre recherche
+0127 Aucun critère spécifique ne sera appliqué à la recherche
+0128 Les Termes de recherche peuvent être dans n'importe quel ordre
+0129 Rechercher L'UN QUELCONQUE des termes
+0130 Montrer tous les versets mêmes si les termes n'y sont pas
+0131 Aucun
+0132 Ignorer l'Ordre
+0133 N'importe quel Terme
+0134 Sélection entière
+0135 Critère de recherche optionnel
+0136 Activer la mise à jour
+0137 Ignorer majuscule
+0138 Si sélectionné, vous verrez le ?procédé de surlignage en temps réel
+0139 Si sélectionné, le choix majuscules/minuscules sera ignoré
+0140 Fichier
+0141 Enregistrer
+0142 Imprimer
+0143 REMOVED - Changer l'Identité
+0144 Trouver
+0145 Trouver
+0146 Trouver de Nouveau
+0147 Recherche améliorée
+0148 Outils
+0149 Format de Date 
+0150 Mot de Passe
+0151 Aide
+0152 Contenus
+0153 Effacer
+0154 Enregistrer
+0155 Supprimer
+0156 Enregistrer/Sortir
+0157 Utiliser des Images [Optionnel] pour décrir votre Attitude de Prière
+0158 Panneau de Gauche: Texte d'Aide; Panneau du Milieu: Date d'aujourd'hui; Panneau de Droite: Statut
+0159 Nouveau &Mot de Passe
+0160 Confirmer Mot de Passe
+0161 DÉFAUT
+0162 Enregistrer
+0163 Récupérer d'un désastre
+0164 Aide
+0165 Fermer
+0166 Fenêtre d'Éditeur de Langues
+0167 Langages Disponibles
+0168 Cliquer ci-dessous pour ÉDITER, SÉLECTIONNER ou CRÉER
+
+## Items Ajoutés le 26 Août 2002
+
+0169 Date
+0170 Mise à jour
+0171 Supprimer
+0172 Éditer
+0173 Aller à
+0174 Ajouter
+0175 Fermer
+0176 Titre
+0177 Catégorie
+0178 Date Ajoutée
+0179 Référence Biblique
+0180 Nom de Fichier
+0181 DÉFAUT
+0182 LOCALISER
+0183 Fermer
+0184 Mise à jour
+0185 Fermer
+0186 #
+0187 Ref (toujours l'Anglais)
+0188 Nom du Livre (Votre Langue)
+0189 Abréviation
+0190 Livre à Éditer: %
+0191 "Double Cliquer Livre dans "%" colonne à Éditer.
+0192 Nouveau NOM LONG pour "%".
+0193 Éditer les Noms Longs
+0194 Nouveau NOM COURT "%".
+0195 Éditer les Noms Courts
+0196 LOCALISER
+0197 AIDE
+0198 Fermer maintenant
+0199 Mode Déboguage
+
+##### Items ajoutés après Janvier 2003
+0200 Recherche &Avancée
+0201 &Liste de diffusion
+0202 &Fenêtre
+0203 Bibles C&HM
+0204 Bibles Mp&3
+0205 Forma&t Élégant
+0206 Choisir une P&olice...

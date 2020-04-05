@@ -1,0 +1,27 @@
+                    Licensing Agreement for BibleDatabase
+
+
+By using or distributing any part or whole of this software, herein called BibleDatabase, 
+you indicate that you agree to and accept the following terms, conditions and disclaimers 
+as an express agreement between yourself and/or your organization, and the provider of 
+BibleDatabase (herein called the Author). If you do not agree to all of the following 
+terms, you may not use, view, or distribute any part or whole thereof of BibleDatabase.
+
+Defects
+
+BibleDatabase may contain unintentional errors or defects, for example: incomplete, 
+inaccurate, and/or corrupt data or transcription and/or programming errors.
+
+Disclaimer
+
+As to every real and/or alleged Defect in BibleDatabase the following shall apply:
+
+1. The Authors shall be held harmless in any and all liability to you for damages of 
+whatsoever nature, including costs and expenses and/or legal fees,
+
+2. You have no remedies for claims of negligence, or for breach of warranty or contract, 
+including but not limited to indirect, consequential, punitive, or incidental damages, 
+even if you give notice of the possibility of such damages.
+
+3. The BibleDatabase is provided to you 'as-is'. No other warranties of any kind express 
+or implied are made to you.

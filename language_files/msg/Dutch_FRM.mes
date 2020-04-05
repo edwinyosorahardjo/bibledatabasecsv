@@ -1,0 +1,229 @@
+# BibleDatabase language file                ####
+# Language: Dutch                            ####
+# Date: Friday 19 September 2003             ####
+# Version: Original Distribution 1.0.0       ####
+# BibleDatabase Ver 4.0.0                    ####
+#################################################
+
+#################################################
+######### TRANSLATION INFORMATION  ##############
+#################################################
+# Translated by: Merijn Hofland                 #
+# Contact email: WPMEH@hotmail.com              #
+# Translation Date: 19-09-2003                  #
+# Comments:                                     #
+#################################################
+##     INSTRUCTIONS READ CAREFULLY!!       ######
+#################################################
+#1. EACH LINE OF TEXT MUST BE ON A NEW LINE     #
+#2. ALL Lines must end with CRLF (not just LF!) #
+#3. Any line beginning with a # is ignored.     #
+#4. Blank Lines are ignored                     #
+#5. ^^ inserts a new line (CRLF)                #
+#6. %  Software will insert text here           #
+#7. & use this (Menu Items only) to underline   #
+# the character immediately after the "&"       #
+#################################################
+
+0001 Gebruikte namen in de bijbel
+0002 Bijbel commentaar
+0003 Gebedsdagboek. Opgeslagen als: "%"
+0004 Verander van "%"
+0005 Paswoord mogenlijk voor: "%"
+0006 Bijbelse kaarten %
+0007 Print Voorbeeld - %
+0008 Geen geldige bijbel gevonden!! - %
+0009 Toevoegen
+0010 Nieuwe Toevoegen
+0011 Manage Identiteiten %
+0012 Verander van "%"
+0013 Taal Editor/Selecteren. %
+0014 Favoriete toevoegen. 
+0015 Bewerk Favoriete
+0016 MP3 Speler
+0017 Naamloos.RTF
+0018 Verander van "%"
+0019 Pagina Instellingen %
+0020 (Meerdere bijbels) Hoofdstuk/Vers - %
+0021 Over %
+0022 % Licentie overeenkomst
+0023 Opties instellen - %
+0024 Standaarden - %
+0025 Woordeboeken - %
+0026 Voer a.u.b. paswoord in voor "%"
+0027 Open een bestand
+0028 Bestand Opslaan
+0029 Print
+0030 Knippen
+0031 Kopieeren
+0032 Plakken
+0033 Ongedaan maken
+0034 Verwijderen
+0035 Zoek
+0036 Zoek volgende
+0037 Voorgrond kleur
+0038 Achtergrond kleur
+0039 Vet
+0040 Schuin
+0041 Onderstreept
+0042 Links uitlijnen (ALT L)
+0043 Centreren (ALT C)
+0044 Rechts uitlijnen (ALT R)
+0045 Indent Less (ALT S)
+0046 Indent more (ALT D)
+0047 Aandachtsstreepje toeveogen (ALT O)
+0048 Meerdere bijbels
+0049 Bijbel Woordenboek
+0050 Bijbel Commentaar
+0051 Bijbelse namen
+0052 Gebedsdagboek
+0053 Help
+0054 "CHM" Bijbels (Compiled in Microsoft Help format)
+0055 "MP3" (audio) Bijbels
+0056 Klik op deze knop om een bijbels te zoeken
+0057 Klik om BibleDatabase te laten stoppen met zoeken
+0058 &Nieuw
+0059 &Openen
+0060 Op&slaan
+0061 Opslaan &Als
+0062 Print &voorbeeld
+0063 Printer Instellin&gen
+0064 &Printen
+0065 S&top
+0066 &Bewerk
+0067 &Knip
+0068 K&opieer
+0069 &Plak
+0070 B&estand
+0071 &Ongedaan maken
+0072 Verwij&der
+0073 &Zoek
+0074 Zoek &Volgende
+0075 &Alles Selecteren
+0076 Automatische &regelterugloop
+0077 Bek&ijk
+0078 Meerdere Bijbels
+0079 Commentaar
+0080 Woordenboeken
+0081 Kaarten
+0082 Namen
+0083 Intergrale Namen
+0084 &Gebedsdagboek
+0085 Open
+0086 Verander Identiteit
+0087 Vertaal opmerkingen
+0088 Formaat
+0089 Formaat Datum
+0090 Pagina Instellingen
+0091 Favorieten
+0092 Gereedschap
+0093 Taal Editor
+0094 Mapgereedschap - Geavanceerd
+0095 Opties
+0096 Opnieuw Indexeren
+0097 Geldigheids Controle
+0098 Bijbels
+0099 Commentaar
+0100 Woordeboeken
+0101 Namen
+0102 Alles
+0103 Web
+0104 Discussie Forum
+0105 Website
+0106 Aanmelden Mailing Lijst
+0107 Via het Web
+0108 Via Email
+0109 Afmelden Mailing Lijst
+0110 Via het Web
+0111 Via email
+0112 Stuur Email naar de Lijst
+0113 Via Browser
+0114 Via Email
+0115 Help
+0116 Inhoud
+0117 Lisentie overeenkomst
+0118 Over
+0119 Introscherm tonen
+0120 Registreren
+0121 Een fout melden
+0122 Klik op deze knop om uw zoekgeschiedenis te verwijderen
+0123 Wis
+0124 Om te zoeken naar "Liefde" typ *liefde* (vergeet de "*" voor en na "liefde" niet!)
+0125 Selecteer de bijbel waarin je wilt zoeken
+0126 Selecteer de zoek creteria die u wilt gebruiken.
+0127 Geen speciale criteria zullen worden toegepast
+0128 Zoektermen mogen in iedere mogenlijke volgorde staan
+0129 Zoek naar minstens EEN van de termen
+0130 Laat alle verzen zien, ook als geen zoekwoorden zijn gevonden.
+0131 Geen
+0132 Elke volgorde
+0133 Een van de termen
+0134 Gehele selectie
+0135 Optionele zoekcriteria
+0136 Actieve update
+0137 Hoofdletter ONgevoelig
+0138 Indien aangekruisd, zult u het hele proces direct zien gebeuren
+0139 Indien aangekruisd, wordt er niet op hoofdletters gelet.
+0140 Bestand
+0141 Opslaan
+0142 Printen
+0143 Verander Identiteit
+0144 Zoek
+0145 Zoek
+0146 Zoek opnieuw
+0147 Krachtig Zoeken
+0148 Gereedschap
+0149 Datum Formaat
+0150 Pasword
+0151 Help
+0152 Inhoud
+0153 Wis
+0154 Opslaan
+0155 Verwijder
+0156 Opslaan/Sluiten
+0157 Gebruik plaatjes [Optioneel] om je "gebedshouding" te beschrijven
+0158 Left Pane: Tool Tip Text; Middle Pane: Today's Date; Right pane: Status
+0159 Nieuw &Pasword
+0160 Paswoord bevestigen
+0161 Als standaar instellen
+0162 Opslaan
+0163 Rampen herstel
+0164 Help
+0165 Sluiten
+0166 Taal-bewerk-scherm
+0167 Beschikbare talen
+0168 Klik onder om te bewereken, veranderen of te maken
+
+## Items added on 26 August 2002
+
+0169 Datum
+0170 Update
+0171 Verwijderen
+0172 Bewerken
+0173 Ga naar
+0174 Toevoegen
+0175 Sluiten
+0176 Titel
+0177 Catagorie
+0178 Datum toegevoegd
+0179 Bijbel Reverentie
+0180 Bestandsnaam
+0181 STANDAARD
+0182 ZOEK
+0183 SLUITEN
+0184 UPDATE
+0185 SLUITEN
+0186 #
+0187 Ref (altijd Engels)
+0188 Naam Boek (Jouw taal)
+0189 Afkorting
+0190 Boek om te bewerken: %
+0191 "Dubbelklik Boek in "%" kolom om te Bewerken.
+0192 Nieuwe LANGE NAAM voor "%".
+0193 Bewerk Lange Naam
+0194 Nieuwe KORTE NAAM voor "%".
+0195 Bewerk Korte Naam
+0196 ZOEK
+0197 HELP
+0198 Sluit nu
+0199 Herstel Modus

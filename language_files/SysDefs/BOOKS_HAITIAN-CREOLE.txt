@@ -1,0 +1,72 @@
+1	gen	Jenèz
+2	ex	Egzòd
+3	lev	Levitik
+4	num	Resansman
+5	deut	Deteronòm
+6	josh	Jozye
+7	judg	Jij
+8	ruth	Rit
+9	1sam	ISamyèl
+10	2sam	2Samyèl
+11	1kings	1Wa
+12	2kings	2Wa
+13	1chron	1Istwa
+14	2chron	2Istwa
+15	ezra	Esdras
+16	neh	Neemi
+17	esther	Estè
+18	job	Jòb
+19	ps	Sòm
+20	prov	Pwoveb
+21	eccles	Eklezyas
+22	song	Chante Salomon
+23	is	Ezayi
+24	jer	Jeremi
+25	lam	Plenn
+26	ezek	Ezekyèl
+27	dan	Danyèl
+28	hos	Oze
+29	joel	Jowèl
+30	amos	Amòs
+31	obad	Abdias
+32	jon	Jonas
+33	mic	Miche
+34	nahum	Nawoun
+35	hab	Abakouk
+36	zeph	Sofoni
+37	hag	Aje
+38	zech	Zakari
+39	mal	Malachi
+40	mt	Matye
+41	mk	Mak
+42	lk	Lik
+43	jn	Jan
+44	acts	Travay
+45	rom	Ròm
+46	1cor	1Korint
+47	2cor	2Korint
+48	gal	Galasi
+49	eph	Efèz
+50	phil	Filip
+51	col	Kolòs
+52	1thess	1Tesalonik
+53	2thess	2Tesalonik
+54	1tim	1Timote
+55	2tim	2Timote
+56	tit	Tit
+57	philem	Filemon
+58	heb	Ebre
+59	jas	Jak
+60	1pet	1Piè
+61	2pet	2Piè
+62	1jn	1Jan
+63	2jn	2Jan
+64	3jn	3Jan
+65	Jud	Jid
+66	rev	Revelasyon
+67	moses	Liv Moyiz la
+68	OT	Ansyen Testaman
+69	NT	Nouvo Testaman
+70	Gos	Liv Bon Nouvèl
+71	Synopt	Liv Bon Nouvèl (Synoptik)
+72	Tout Bib La	Tout Bib La

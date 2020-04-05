@@ -1,0 +1,72 @@
+1	1 Mos	Genesis
+2	2 Mos	Exodus
+3	3 Mos	Leviticus
+4	4 Mos	Numeri
+5	5 Mos	Deuteronomium
+6	Jos	Josua
+7	Dom	Domarboken
+8	Rut	Rut
+9	1 Sam	1 Samuel
+10	2 Sam	2 Samuel
+11	1 Kung	1 Kungaboken
+12	2 Kung	2 Kungaboken
+13	1 Krön	1 Krönikeboken
+14	2 Krön	2 Krönikeboken
+15	Esr	Esra
+16	Neh	Nehemja
+17	Est	Ester
+18	Job	Job
+19	Ps	Psaltares
+20	Ords	Ordspråksboken
+21	Pred	Predikaren
+22	Höga V	Höga Visan
+23	Jes	Jesaja
+24	Jer	Jeremia
+25	Klag	Klagovisorna
+26	Hes	Hesekiel
+27	Dan	Danel
+28	Hos	Hosea
+29	Joel	Joel
+30	Am	Amos
+31	Obad	Obadja
+32	Jon	Jona
+33	Mik	Mika
+34	Nah	Nahum
+35	Hab	Habackuk
+36	Sef	Sefanja
+37	Hagg	Haggai
+38	Sak	Sakarja
+39	Mal	Malaki
+40	Mat	Matteusevangeliet
+41	Mar	Markusevangeliet
+42	Luk	Lukasevangeliet
+43	Joh	Johannesevangeliet
+44	Apg	Apostlagärningarna
+45	Rom	Romarbrevet
+46	1 Kor	1:a Korintherbrevet
+47	2 Kor	2:a Korintherbrevet 
+48	Gal	Galaterbrevet
+49	Ef	Efesierbrevet
+50	Fil	Filipperbrevet
+51	Kol	Kolosserbrevet
+52	1 Thess	1:a Thessalonikerbrevet
+53	2 Thess	2:a Thessalonikerbrevet
+54	1 Tim	1:a Timotheusbrevet
+55	2 Tim	2:a Timotheusbrevet
+56	Tit	Titusbrevet
+57	Fil	Filemonierbrevet
+58	Heb	Hebreerbrevet
+59	Jak	Jakobsbrevet
+60	1 Pet	1:a Petrusbrevet
+61	2 Pet	2:a Petrusbrevet
+62	1 Joh	1:a Johannesbrevet
+63	2 Joh	2:a Johannesbrevet
+64	3 Joh	3:a Johannesbrevet
+65	Jud	Judasbrevet
+66	Upp	Uppenbarelseboken
+67	Mos	Moseböckerna
+68	GT	Gamla Testamentet
+69	NT	Nya Testamentet
+70	EV	Evangelierna
+71	Syn	Synoptiska Evangelierna 
+72	Allt	Hela Bibeln

@@ -1,0 +1,30 @@
+Contrato de Licença de Uso de BibleDatabase
+
+
+Ao utilizar ou distribuir qualquer parte ou o todo deste aplicativo, 
+aqui chamado de BibleDatabese, você indica que concorda e aceita os 
+seguintes termos e condições, como um acordo expresso entre você e/ou
+a sua organização e o fornecedor do aplicativo (aqui chamado de Autor).
+Se você não concordia com os seguintes termos, você não pode usar, ver
+ou distribuir qualquer parte ou o todo de BibleDatabase.
+
+Defeitos
+
+BibleDatabase pode conter erros ou defeitos involuntários, tais como:
+dados incompletos e/ou dados ou transcrição corrompidos e/ou erros de
+programação. 
+
+Termos
+
+Em todos os defeitos, reais ou alegados, em BibleDatabe, os seguintes
+termos se aplicam:
+
+1. O Autor não poderá ser imputado culpado por eventuais danos de qualquer
+natureza que você venha a sofrer, incluindo despesas e custos jurídicos. 
+
+2. Você não tem direito a fazer acusações de negligência nem de quebra 
+de garantia ou contrato, incluindo, porém não limitado a danos indiretos
+ou acidentais, mesmo que você possa indicar a possibilidade de tais danos.
+
+3. BibleDatabase é fornecedido da forma como você o recebeu.  Não existem
+garantias de qualquer natureza.

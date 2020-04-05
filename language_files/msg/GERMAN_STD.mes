@@ -1,0 +1,136 @@
+# BibleDatabase language file                ####
+# Language: German			     ####
+# Date: Friday 13 September 2002             ####
+# Version: Original Distribution 1.0.1       ####
+# BibleDatabase Ver 4.0.0                    ####
+#################################################
+
+#################################################
+######### TRANSLATION INFORMATION  ##############
+#################################################
+# Translated by: Stefan Ploch                   #
+# Contact email: stefan_ploch@hotmail.com	#
+# Translation Date: 20 Oct 02			#
+# Comments: Version 1.0                         #
+#################################################
+##     INSTRUCTIONS READ CAREFULLY!!       ######
+#################################################
+#1. EACH LINE OF TEXT MUST BE ON A NEW LINE     #
+#2. ALL Lines must end with CRLF (not just LF!) #
+#3. Any line beginning with a # is ignored.     #
+#4. Blak Lines are ignored                      #
+#5. ^^ inserts a new line (CRLF)                #
+#6. %  Software will insert text here           #
+#7. & use this (Menu Items only) to underline   #
+# the character immediately after the "&"       #
+#################################################
+
+0001 Keine Namen auf dem System gefunden.^^Laden Sie bitte die neueste Version von^^% herunter.
+0002 Sie haben keinen gültigen Kommentar installiert.^^Bitte besuchen Sie %,^^um einen herunterzuladen.
+0003 Sie müssen zuerst ein Lexikon installieren, um diese Funktion zu benützen. ^^Sie können eines von % herunterladen.
+0004 Kein Doppeleintrag erlaubt.
+0005 Kein Lesezeichen ausgewählt.
+0006 % löschen?
+0007 Das neue Datumsformat ist: %. ^^Ãnderungen treten in Kraft, wenn Sie das Programm das nächste Mal laufen lassen.
+0008 Derzeit ist keine Systeminformation verfügbar.
+0009 Erfolg! Eine Bibel wurde gefunden.^^% wird jetzt geschlossen. ^^Lassen Sie es nochmals laufen, und dann sollte alles wieder in Ordnung sein.
+0010 Es waren KEINE Bibeln in diesem Ordner.^^Sind Sie sich sicher, daß Sie WENIGSTENS EINE INSTALLIERT haben?^^Probieren Sie es bitte noch einmal.
+0011 Laufwerk nicht bereit.^^Legen Sie bitte eine Diskette in das Laufwerk ein.
+0012 Beim Bestimmen der Bildgröße ist ein Fehler aufgetreten. Kein Fortfahren möglich.
+0013 Kein Fortfahren mit minimiertem Bildschirm möglich.
+0014 Es scheint, daß Sie keine Bibeln installiert haben.^^Würden Sie jetzt gerne welche herunterladen?
+0015 Kein Zustand zum Bericht verfügbar.
+0016 Sehe die IP-Adresse von BibleDatabase nach.
+0017 Erfolg. Webseite gefunden.
+0018 Verbinde. Bitte warten...
+0019 Erfolg! Verbindung hergestellt.
+0020 Sende Anforderung nach Daten...
+0021 Anforderung erfolgreich gesendet.
+0022 Empfange Antwort von BibleDatabase...
+0023 Erfolg! URL-Datei empfangen.
+0024 Trenne Verbindung. Bitte warten...
+0025 Verbindung getrennt.
+0026 Ein Fehler ist aufgetreten. Überprüfen Sie bitte die Internet-Verbindung.
+0027 Erfolg! Datei fehlerlos empfangen.
+0028 Falls Sie irgenwie alles durcheinandergebracht haben, wird dies die englischen Namen der Bücher wiederherstellen.^^Möchten Sie fortfahren?
+0029 Es wurde nichts geändert.
+0030 Falls nicht spezifisch eine andere Wahl getroffen wird, wird die englische REFERENZ-Datei (BOOKS_ENGLISH)^^als Standarddatei (Normalfall) verwendet.
+0031 Wählen Sie bitte zuerst eine Sprache.
+0032 % wurde als Standard (Normalfall) gesetzt.
+0033 "%" gibt es bereits.^^Wollen Sie die alte Version ersetzen?
+0034 "%" wurde gesichert.
+0035 Ohne Sichern schließen?^^Sind Sie sicher?
+0036 Ãnderungen verwerfen?
+0037 Unerlaubter Buchstabe.^^ Sie können "%" nicht verwenden.
+0038 Sprache existiert bereits.!^^Es gibt bereits eine Sprachdatei unter den Namen^^"%".
+0039 Zuerst eine Sprache auswählen.
+0040 NAME der zu erstellenden Sprachdatei, z.B. 'Deutsch'. N.B.: Nur die Buchstaben von "A" bis "Z" sind erlaubt, jedoch KEINE LEERZEICHEN.
+0041 Es scheint, daß Sie keine ".CHM"-Bibeln installiert haben.^^Würden Sie jetzt gerne welche herunterladen?
+0042 Doppelklicken Sie den Namen im^^untenstehenden Fenster, um seine Bedeutung anzuzeigen.
+0043 Sind Sie sicher?
+0044 Das Dokument wurde verändert.^^Sind Sie sich sicher, daß Sie schließen wollen?
+0045 Die Datei existiert bereits. Klicken Sie JA, um die alte Datei zu überschreiben^^Nein, um einen anderen Namen zu wählen, oder Abbruch.
+0046 "%" wurde verändert.^^Wollen Sie diese Datei sichern?
+0047 "%" ... ^^Datei nicht gefunden.
+0048 Ungültiges Dateienformat.
+0049 Alle Indexdateien in^^"%"^^wurden gelöscht. Wenn erforderlich, werden sie automatisch wieder hergestellt.
+0050 Es wurden keine weiteren Einträge gefunden.
+0051 Das Dokument wurde verändert.^^Sichern?
+0052 Eindringling entdeckt. Zugang verweigert.
+0053 Falsches Paßwort!^^Wollen Sie es noch einmal probieren?
+0054 Ihr normales Email-Programm wird jetzt eine neue Email öffnen.^^Für ein Abonnement klicken Sie einfach "Senden". Sie werden per Email eine Bestätigung Ihres Abonnements erhalten,^^welche Sie an einem sicheren Ort aufbewahren sollten. Vielen Dank für Ihr Abonnement.^^Sie können jederzeit eine Nachricht an die Mailing-Liste senden, indem Sie eine Email an^^"%"^^senden. Sie können Ihr Abonnement jederzeit kündigen,^^wählen Sie einfach "Abonnement kündigen".
+0055 Wollen Sie das WIRKLICH tun?^^Wir würden wirklich gerne wollen, daß Sie bleiben :-)
+0056 Uffz! Wir dachten, Sie würden uns verlassen.^^Danke dafür, daß Sie bleiben!
+0057 Sie müssen ein Abonnement haben, sonst wird Ihre Nachricht nicht übermittelt werden.^^Wollen Sie fortfahren?^^Siehe Hilfedatei, falls unklar.
+0058 Bedeutung des Namens "%"
+0059 ANMERKUNG. LESEN SIE diese Nachricht sorgfältig durch.^^Ehe Sie fortfahren, stellen Sie bitte sicher, daß Sie^^WENIGSTENS EINE BIBEL INSTALLIERT HABEN.^^% wird NICHT funktionieren, bevor Sie nicht WENIGSTENS eine Bibel installiert haben.^^Wollen Sie fortfahren?
+0060 ^^Sie haben momentan keine Bibeln installiert.^^DAS IST GANZ NORMAL, UND ES GIBT KEINEN GRUND ZUR PANIK.^^BIBELN MÜSSEN SEPARAT HERUNTERGELADEN UND INSTALLIERT WERDEN.^^Damit % funktioniert, muß WENIGSTENS EINE BIBEL installiert werden.^^Klicken Sie die Verbindung unten, um zu unserer Webseite zu gehen, um dort so viele Bibeln, wie Sie wollen, zu bekommen.^^WIR HABEN ÜBER 75! ALLES IST KOSTENLOS!!
+0061 Paßwort genehmigt.
+0062 Alle Dateien werden mit diesem Paßwort verschlüsselt werden: "%"^^VERGESSEN SIE ES NICHT, oder Sie werden Ihr Gebetstagebuch nicht wieder öffnen können!
+0063 Paßwörter sind nicht identisch, oder die Länge des Paßworts^^ist zu kurz (mindestens 5 Buchstaben).^^Probieren Sie es bitte noch einmal!
+0064 Wählen Sie durch Klicken einen Namen zum Löschen aus.
+0065 Benutzer "%" löschen.^^Sind Sie sicher?
+0066 Der Standardbenutzer kann nicht gelöscht werden.
+0067 Wählen Sie durch Klicken einen Namen zum Verändern aus.
+0068 Fehler. Es wurde nichts ausgewählt.^^Wählen Sie einen Benutzernamen aus der Liste.
+0069 Das ist leider^^das falsche Paßwort.^^Sie werden es noch einmal probieren müssen.
+0070 Umgeschaltet nach "%".
+0071 Fehler.^^Diese Name existiert bereits.
+0072 Der Benutzername muß zwischen 2 und 30 Buchstaben lang sein.
+0073 Unerlaubte Buchstaben in der Sequenz.^^Erlaubte Buchstaben sind nur^^"A" bis "Z" und "a" bis "z".
+0074 Gebetstagebuch. Eingeloggt als: "%" 
+0075 "%" ist ausschließlich ein BILDSCHIRM-Zeichensatz.^^Falls Sie DRUCKEN wollen, wird der Standardzeichensatz verwendet.
+0076 Unerlaubter Gebrauch von Null.
+0077 Den Eintrag für "%" löschen?^^Sind Sie sicher?
+0078 Der Eintrag für "%" wurde verändert.^^Ãnderungen sichern?"
+0079 Es gibt bereits einen Eintrag für "%".^^Wollen Sie den alten überschreiben?
+0080 Es wurden keine weiteren Einträge gefunden.
+0081 % registriert.^^Dankeschön.
+0082 Registrierungscode ist nicht identisch.^^Probieren Sie es bitte noch einmal.
+0083 Keine Dateien in diesem Datumsbereich.^^Probieren Sie es bitte noch einmal.
+0084 Sie können die Verbindung mit der EINZIGEN installierten Bibel nicht trennen.^^BibleDatabase würde anderenfalls nicht funktionieren.^^Um die Verbindung mit dieser Bibel zu trennen,^^stellen Sie zuerst eine Verbindung mit einer anderen Bibel her^^und kommen Sie dann zu dieser zurück und trennen Sie die Verbindung.
+0085 Der Wert, den Sie eingegeben haben, ist zu hoch.^^Der Höchstwert ist "%".
+0086 Der Wert, den Sie eingegeben haben, ist zu niedrig.^^Der Mindestwert ist "%".
+0087 Stellen Sie zuerst eine Verbindung mit dieser Bibel her!
+0088 Denn alle Schrift, von Gott eingegeben, ist nütze zur Lehre, zur Strafe, zur Besserung, zur Züchtigung in der Gerechtigkeit (2Tim 3:16, Luther-Bibel).
+0089 Registriert an:^^Noch niemanden.
+0090 Registriert an: %
+0091 BibleDatabase ist Freeware und darf nicht verkauft werden.^^Software-Version %.
+0092 Für weitere Informationen über verfügbare Plug-Ins, besuchen Sie die %-Webseite bei
+0093 BibleDatabase - Freeware. Kostenlos weiterkopieren!
+0094 Registriert an: Sie.
+0095 Registriert an: %
+0096 Version %
+0097 Entweder existiert der Ordner^^"%"^^nicht oder die Datei^^
+0098 "%" gibt es nicht in diesem Ordner.^^Berichtigen Sie dies bitte und probieren Sie es noch einmal.
+0099 BibleDatabase ist Freeware. Sie können es kostenlos kopieren und verbreiten. Diese Software darf nicht verkauft werden. Eine Bearbeitung einer Version des MS Access 2000-Originals.
+
+##### Neue seit 26. August 2002 hinzugefügte Nachrichten
+
+0100 Sie haben die Spracheinstellung von BibleDatabase zu "%" geändert.^^BibleDatabase muß geschlossen werden, um die neue Spracheinstellung zu initialisieren.
+0101 BibleDatabase hat derzeit keine Sprachdatei für "%".^^Die automatisch eingestellte Sprache wird benützt werden.^^Schauen Sie bitte bei der Webseite nach einem Sprach-Update.
+0102 Ihr MODULE-Pfad (Modulpfad) is derzeit eingestellt auf
+0103 Normalerweise ist die automatische Vorgabe
+0104 Klicken sie VORGABE, um die Vorgabe zu wählen, oder SUCHEN, um selbst ein Modul zu finden. Benützen Sie SUCHEN nur, wenn Sie WISSEN, wo der MODUL-Ordner ist, oder wenn BibleDatabase zunächst in einem Ordner installiert wurde, der nicht die Vorgabe ist.
+0105 Debug-Modus ist aus.^^Schließen Sie bitte BibleDatabase und öffnen^^Sie es wieder, um die Debug-Zahlen abzustellen.
+0106 Debug-Modus ist an.^^Alle Nachrichten werden mit vorangesteller^^Nachrichtennummer angezeigt werden.^^^^Falls Sie ein Übersetzer sind,^^hoffen wir, daß Ihnen dies helfen wird. :-)^^^^(ANMERKUNG: Nachrichten werden auf 70 Prozent^^ihrer normalen Länge abgeschnitten, damit^^sie in die Textbox passen.)                                                                                                                     .

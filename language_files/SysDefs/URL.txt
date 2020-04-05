@@ -1,0 +1,6 @@
+1,"ENGLISH","http://bibleDBData.org"
+0,"AFRIKAANS","http://bibleDBData.org"
+0,"DUTCH","http://bibleDBData.org"
+0,"CHINESE","http://bibleDBData.org"
+0,"LATVIAN","http://bibleDBData.org"
+0,"GERMAN","http://bibleDBData.org"

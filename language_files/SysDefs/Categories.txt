@@ -1,0 +1,35 @@
+#--------------------------------------------------------------------
+# FILE: Categories.txt
+#--------------------------------------------------------------------
+# This file lists different categories of books of the bible, e.g.
+#       Whole Bible, Old Testament, New Testament, Books of Moses,
+#       The Prophets, The Gospels, The Letters, etc.
+#--------------------------------------------------------------------
+# Note that comments start with "#"
+#--------------------------------------------------------------------
+# Format:
+#       ID, ID of Parent, Range(s)
+#
+# ID: A numerical id, start with zero, use consecutive numbers!
+#
+# ID of Parent: The numberical id of the parent category.  This is
+#    used to form an indented list of categories to the end user.
+#
+# Range: Lists the books of the bible (from BOOKS.txt) that are to
+#    be considered part of this category.  The basic format is:
+#       a-b;c;d-e
+# where a,b,c,d,e are book numbers (from BOOKS.txt), and a-b is an 
+#    inclusive range of books, c is an example of a single book.
+#    Mutliple ranges can be separated by semicolons (;), and an 
+#    arbitrary nuber of ranges are supported.
+#--------------------------------------------------------------------
+0, 0, 1-66          # All Books of the Bible
+
+1, 0, 1-39          # Old Testament
+2, 1, 1-5           # Books of Moses (the books of the law)
+3, 1, 6-22          # The Writings (the history books, poetry, widsom books)
+4, 1, 23-39         # The Prophets
+
+5, 0, 40-66         # The whole New Testament
+6, 5, 40-43         # The Gospels
+7, 5, 45-65         # The Letters (i.e. the Epistles)

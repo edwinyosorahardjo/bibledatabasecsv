@@ -1,0 +1,25 @@
+                         Licensavtal för BibleDatabase
+
+  Genom att använda eller distribuera hela eller någon del av denna mjukvara, här kallad
+BibleDatabase, visar Ni att Ni godkänner följande regler, villkor och avsägelser av 
+ansvar som en uttryckt överenskommelse mellan Er samt/eller Er organisation och 
+tillhandahållaren av BibleDatabase (här kallad Upphovsmannen). 
+  Om Ni inte godkänner samtliga följande villkor får Ni inte använda, granska eller distribuera hela eller någon del av BibleDatabase. 
+
+
+Defekter
+
+  BibleDatabase kan innehålla oavsiktliga felaktigheter eller defekter, t ex. ofullständig,
+felaktig och/eller trasig data eller transkription och/eller felprogrammering.
+
+
+Avsägelser av ansvar
+
+  För alla verkliga och/eller påstådda fel i BibleDatabase ska följande tillämpas:
+
+1. Upphovsmannen skall hållas fri från allt ansvar mot Er för alla typer av skador, inklusive utgifter och omkostnader samt rättsliga avgifter.  
+
+2. Det finns inga omständigheter som stöder försummande av eller brott mot garanti eller kontrakt. Detta inkluderar men begränsas ej till indirekta, betydande, straffpåläggande eller obetydliga skador, även om Ni tillkännager möjligheten av sådana.
+
+3. BibleDatabase tillhandages Er i befintligt skick. Inga andra garantier av något slag ges, varken uttryckligen eller underförstått, till Er.
+
