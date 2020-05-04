@@ -1,9 +1,9 @@
-name,dbpath,copyright,books,source
-Indonesian (Terjemahan Baru),indonesian_baru,"Copyright (C) Lembaga Alkitab Indonesia (Indonesian Bible Society), 1994.",indonesian,http://bibledatabase.org
-Indonesian (Bahasa Indonesia Sehari-hari),indonesian_bahasa,"Copyright (C) Lembaga Alkitab Indonesia (Indonesian Bible Society), 1994.",indonesian,http://bibledatabase.org
-Indonesian (Terjemahan Lama),indonesian_lama,"Copyright (C) Lembaga Alkitab Indonesia (Indonesian Bible Society), 1994.",indonesian,http://bibledatabase.org
-Darby English Bible,darby,"Darby's Holy Scriptures, A New Translation from the Original Languages was published originally in two parts: the New Testament (1884) and the New Testament (1890). These are English translations of a collation done on his earlier German and French translations. Both are posthumous, as John Nelson Darby himself died in 1882. This current e-text reflects the even more recent Guildford/London edition of 1961. For more information click here.",english,http://bibledatabase.org
-World English Bible,web,"The WEB Bible as it might appear by the name is being translated specifically for the purpose of being distributed over the WEB. In the words of those working on the translation from the ASV 1901, ""...there is NO OTHER complete translation of the Holy Bible in normal Modern English that can be freely copied (except for some limited ""fair use"") without payment of royalties. This is the vacuum that the World English Bible is trying to fill."" ",english,http://bibledatabase.org
+name,dbpath,copyright,defaultIndex,source
+Indonesian (Terjemahan Baru),indonesian_baru,"Copyright (C) Lembaga Alkitab Indonesia (Indonesian Bible Society), 1994.",indonesian,http://bibledatabase.org
+Indonesian (Bahasa Indonesia Sehari-hari),indonesian_bahasa,"Copyright (C) Lembaga Alkitab Indonesia (Indonesian Bible Society), 1994.",indonesian,http://bibledatabase.org
+Indonesian (Terjemahan Lama),indonesian_lama,"Copyright (C) Lembaga Alkitab Indonesia (Indonesian Bible Society), 1994.",indonesian,http://bibledatabase.org
+Darby English Bible,darby,"Darby's Holy Scriptures, A New Translation from the Original Languages was published originally in two parts: the New Testament (1884) and the New Testament (1890). These are English translations of a collation done on his earlier German and French translations. Both are posthumous, as John Nelson Darby himself died in 1882. This current e-text reflects the even more recent Guildford/London edition of 1961.",english,http://bibledatabase.org
+World English Bible,web,"The WEB Bible as it might appear by the name is being translated specifically for the purpose of being distributed over the WEB. In the words of those working on the translation from the ASV 1901, ""...there is NO OTHER complete translation of the Holy Bible in normal Modern English that can be freely copied (except for some limited ""fair use"") without payment of royalties. This is the vacuum that the World English Bible is trying to fill.""",english,http://bibledatabase.org
 Greek New Testament,gk,PUBLIC DOMAIN GREEK NEW TESTAMENT,english,http://bibledatabase.org
 Greek NT (Stephanos-1550) ,greeknt_1550,,english,http://bibledatabase.org
 Greek NT (Scrivener-1894),greeknt_1894,"Scrivener's 1894 edition, an attempt to reconstruct the Greek Vorlage for the KJV NT, insofar as this can be found in Greek MSS, without retranslating Vulgate readings back into unattested Greek.",english,http://bibledatabase.org
@@ -11,7 +11,7 @@ Hebrew Transliteration,hebrew_translit,,english,http://bibledatabase.org
 Jewish Publication Society 1917 OT,jps,,english,http://bibledatabase.org
 King James Version,kjv,,english,http://bibledatabase.org
 Korean Bible,korean,Korean Bible,english,http://bibledatabase.org
-Modern Greek,modern_greek,Modern Greek Bible ,english,http://bibledatabase.org
+Modern Greek,modern_greek,Modern Greek Bible,english,http://bibledatabase.org
 Greek OT (Septuagint/LXX),septuagint,,english,http://bibledatabase.org
 KJV Thai Bible,thai,,thai,http://bibledatabase.org
 Vietnamese Bible,vietnamese,Vietnamese Bible,english,http://bibledatabase.org
@@ -19,16 +19,16 @@ Latin Vulgate,vul,Latin Vulgate,english,http://bibledatabase.org
 Westcott-Hort New Testament,wh,,english,http://bibledatabase.org
 Youngs Literal Translation,ylt,,english,http://bibledatabase.org
 Wycliffe New Testament,wycliffe_nt,,english,http://bibledatabase.org
-Afrikaans,afrikaans,"This copyright Bible has kindly been made available by the Bible Society of South Africa, strictly for non-commercial use with BibleDatabase software. (Permission to use for non-commercial use granted on Tuesday, April 15, 2003 by Dr. Eric Hermanson )",afrikaans,http://bibledatabase.org
+Afrikaans,afrikaans,"This copyright Bible has kindly been made available by the Bible Society of South Africa,ï¿½strictly for non-commercial use with BibleDatabase software. (Permission to use for non-commercial use granted on Tuesday, April 15, 2003 byï¿½Dr. Eric Hermansonï¿½)",afrikaans,http://bibledatabase.org
 Albanian Bible,albanian,Albanian Bible,english,http://bibledatabase.org
 American Standard-ASV1901,asv1901,,english,http://bibledatabase.org
 King James Version #2,av,,english,http://bibledatabase.org
 Bible in Basic English,bbe,,english,http://bibledatabase.org
-Bulgarian Bible,bulgarian,"Bulgarian Bible - (bibliata.com text version dated June 10, 2005 - used by permission)",bulgarian,http://bibledatabase.org
+Bulgarian Bible,bulgarian,"Bulgarian Bible - (bibliata.com text version dated June 10, 2005 - used by permission)",bulgarian,http://bibledatabase.org
 Cebuano Bible,cebuano,Cebuano Bible,english,http://bibledatabase.org
 Chinese Union Version (Big5),chinese_union_b5,,chinese,http://bibledatabase.org
 Croatian Bible,croatian,,english,http://bibledatabase.org
-Danish Bible,dansk33,Denne elektroniske udgave af bibelen kommer fra den danske 1933 udgave. Det Gamle Testamente er en oversættelse fra 1931 og Det Nye Testamente er en oversættelse fra 1907.,danish,http://bibledatabase.org
+Danish Bible,dansk33,Denne elektroniske udgave af bibelen kommer fra den danske 1933 udgave. Det Gamle Testamente er en oversettelse fra 1931 og Det Nye Testamente er en oversï¿½ttelse fra 1907.,danish,http://bibledatabase.org
 Norwegian (Bibelselskapets utgave 1930),dnb30,,english,http://bibledatabase.org
 Douay-Rehims,douay_rheims,,english,http://bibledatabase.org
 Hollands Statenvertaling,dutch,,english,http://bibledatabase.org
@@ -43,20 +43,20 @@ Latvian New Testament,latvian_nt,Latvian New Testament,english,http://bibledatab
 German Luther,luther,German Luther Bible,german,http://bibledatabase.org
 Manx Gaelic (Portions),manx_gaelic,,english,http://bibledatabase.org
 Maori,maori,,english,http://bibledatabase.org
-Portuguese Bible,portuguese,João Ferreira de Almeida Atualizada,portuguese,http://bibledatabase.org
+Portuguese Bible,portuguese,Jo'o Ferreira de Almeida Atualizada,portuguese,http://bibledatabase.org
 Rumanian Bible,rumanian,Cornilescu Version,romanian,http://bibledatabase.org
-Español Reina Valera 1909,rv1909,,english,http://bibledatabase.org
+Espanol Reina Valera 1909,rv1909,,english,http://bibledatabase.org
 Gaelic Gospel of Mark,scots_gaelic,,english,http://bibledatabase.org
 Shuar New Testament,shuar_nt,Shuar New Testament,english,http://bibledatabase.org
-Español Reina Valera,spanish,,spanish,http://bibledatabase.org
-Español - (Spanish Modern),spanish_mod,,spanish,http://bibledatabase.org
-Español Sagradas Escrituras,spanish_sev,,spanish,http://bibledatabase.org
+Espanol Reina Valera,spanish,,spanish,http://bibledatabase.org
+Espanol - (Spanish Modern),spanish_mod,,spanish,http://bibledatabase.org
+Espanol Sagradas Escrituras,spanish_sev,,spanish,http://bibledatabase.org
 Swedish Bible,sv17,Swedish Bible,swedish,http://bibledatabase.org
 Swahili New Testament,swahili_nt,Swahili New Testament,english,http://bibledatabase.org
-Ukrainian Bible,ukrainian,Ukrainian Bible ,english,http://bibledatabase.org
+Ukrainian Bible,ukrainian,Ukrainian Bible,english,http://bibledatabase.org
 Uma New Testament,uma_nt,Uma New Testament,english,http://bibledatabase.org
 Webster's Bible,webster,,english,http://bibledatabase.org
-Weymouth New Testament,weymouth_nt,"Weymouth New Testament in Modern Speech. Keying for use in the Online Bible produced these files. Earl Melton performed proofreading. The printed edition used in creating this e-text was the Kregal (ISBN 0-8254-4025-4) reprint of the Ernest Hampden-Cook (1912) Third Edition, of the edition first published in 1909 by J. Clarke, London. For Full Description Click here.  ",english,http://bibledatabase.org
+Weymouth New Testament,weymouth_nt,"Weymouth New Testament in Modern Speech. Keying for use in the Online Bible produced these files. Earl Melton performed proofreading. The printed edition used in creating this e-text was the Kregal (ISBN 0-8254-4025-4) reprint of the Ernest Hampden-Cook (1912) Third Edition, of the edition first published in 1909 by J. Clarke, London.",english,http://bibledatabase.org
 Serbian Bible,serbian,,english,http://bibledatabase.org
 Hebrew Bible in English,hebrew_ot_h_,"The Holy Scriptures (Old Testament)
 By the Jewish Publication Society.
